@@ -1,0 +1,3759 @@
+Year,Week,WeekX,Location,Sex,Age,Deaths
+17,1,1,Hospital,F,0,3
+17,1,1,Hospital,M,0,3
+17,2,2,Hospital,F,0,1
+17,2,2,Hospital,M,0,1
+17,3,3,Hospital,M,0,5
+17,4,4,Hospital,F,0,1
+17,4,4,Hospital,M,0,4
+17,5,5,Care Home,M,0,1
+17,5,5,Hospital,F,0,2
+17,6,6,Hospital,F,0,4
+17,7,7,Hospital,M,0,1
+17,7,7,Hospital,F,0,2
+17,8,8,Hospital,F,0,1
+17,8,8,Hospital,M,0,2
+17,9,9,Hospital,F,0,1
+17,10,10,Care Home,F,0,1
+17,10,10,Hospital,M,0,1
+17,11,11,Hospital,F,0,1
+17,11,11,Hospital,M,0,3
+17,12,12,Hospital,F,0,1
+17,12,12,Hospital,M,0,1
+17,13,13,Hospital,F,0,2
+17,13,13,Hospital,M,0,2
+17,14,14,Hospital,F,0,1
+17,14,14,Hospital,M,0,1
+17,15,15,Hospital,F,0,2
+17,15,15,Hospital,M,0,2
+17,16,16,Hospital,F,0,2
+17,16,16,Hospital,M,0,3
+17,17,17,Hospital,F,0,2
+17,18,18,Home / Non-institution,M,0,1
+17,18,18,Hospital,M,0,2
+17,18,18,Hospital,F,0,3
+17,19,19,Hospital,M,0,3
+17,19,19,Hospital,F,0,4
+17,20,20,Home / Non-institution,M,0,1
+17,20,20,Hospital,F,0,2
+17,20,20,Hospital,M,0,2
+17,21,21,Hospital,F,0,1
+17,21,21,Hospital,M,0,1
+17,22,22,Hospital,F,0,3
+17,23,23,Hospital,F,0,1
+17,23,23,Hospital,M,0,5
+17,24,24,Hospital,M,0,2
+17,25,25,Hospital,M,0,2
+17,27,27,Hospital,F,0,2
+17,27,27,Hospital,M,0,4
+17,28,28,Hospital,M,0,1
+17,29,29,Hospital,F,0,1
+17,29,29,Hospital,M,0,1
+17,30,30,Hospital,F,0,1
+17,30,30,Hospital,M,0,1
+17,31,31,Home / Non-institution,M,0,1
+17,31,31,Hospital,F,0,1
+17,31,31,Hospital,M,0,5
+17,32,32,Hospital,M,0,1
+17,32,32,Hospital,F,0,2
+17,33,33,Hospital,M,0,1
+17,33,33,Hospital,F,0,2
+17,34,34,Home / Non-institution,M,0,1
+17,34,34,Hospital,M,0,2
+17,35,35,Hospital,F,0,1
+17,36,36,Hospital,F,0,2
+17,36,36,Hospital,M,0,3
+17,37,37,Hospital,M,0,1
+17,38,38,Hospital,M,0,5
+17,39,39,Home / Non-institution,M,0,1
+17,40,40,Home / Non-institution,F,0,1
+17,40,40,Hospital,F,0,1
+17,40,40,Hospital,M,0,1
+17,41,41,Home / Non-institution,M,0,1
+17,41,41,Hospital,F,0,1
+17,41,41,Hospital,M,0,6
+17,42,42,Care Home,F,0,1
+17,42,42,Home / Non-institution,F,0,1
+17,42,42,Hospital,F,0,1
+17,42,42,Hospital,M,0,1
+17,43,43,Home / Non-institution,M,0,1
+17,44,44,Home / Non-institution,F,0,2
+17,44,44,Hospital,M,0,1
+17,44,44,Hospital,F,0,2
+17,45,45,Hospital,F,0,1
+17,45,45,Hospital,M,0,1
+17,46,46,Hospital,F,0,2
+17,46,46,Hospital,M,0,3
+17,47,47,Hospital,F,0,2
+17,47,47,Hospital,M,0,2
+17,48,48,Hospital,F,0,1
+17,48,48,Hospital,M,0,2
+17,49,49,Hospital,F,0,1
+17,49,49,Hospital,M,0,2
+17,50,50,Hospital,M,0,1
+17,50,50,Hospital,F,0,3
+17,51,51,Care Home,M,0,1
+17,51,51,Hospital,F,0,1
+17,51,51,Hospital,M,0,1
+17,52,52,Hospital,M,0,1
+18,1,53,Hospital,F,0,1
+18,2,54,Home / Non-institution,M,0,2
+18,2,54,Hospital,F,0,2
+18,2,54,Hospital,M,0,4
+18,3,55,Hospital,F,0,1
+18,4,56,Hospital,M,0,2
+18,4,56,Hospital,F,0,4
+18,5,57,Hospital,F,0,1
+18,5,57,Hospital,M,0,2
+18,6,58,Care Home,F,0,1
+18,6,58,Hospital,F,0,2
+18,6,58,Hospital,M,0,3
+18,7,59,Hospital,F,0,2
+18,8,60,Hospital,F,0,2
+18,9,61,Home / Non-institution,F,0,1
+18,9,61,Hospital,M,0,5
+18,10,62,Hospital,F,0,3
+18,11,63,Hospital,M,0,1
+18,12,64,Hospital,M,0,1
+18,12,64,Hospital,F,0,3
+18,13,65,Hospital,F,0,1
+18,14,66,Hospital,M,0,4
+18,15,67,Hospital,F,0,1
+18,15,67,Hospital,M,0,3
+18,16,68,Care Home,M,0,1
+18,16,68,Home / Non-institution,M,0,1
+18,16,68,Hospital,M,0,1
+18,16,68,Hospital,F,0,4
+18,17,69,Hospital,F,0,1
+18,17,69,Hospital,M,0,1
+18,18,70,Home / Non-institution,M,0,1
+18,18,70,Hospital,M,0,2
+18,18,70,Hospital,F,0,3
+18,19,71,Hospital,M,0,1
+18,20,72,Hospital,M,0,1
+18,20,72,Hospital,F,0,2
+18,21,73,Hospital,F,0,1
+18,21,73,Hospital,M,0,1
+18,22,74,Hospital,F,0,1
+18,22,74,Hospital,M,0,1
+18,24,76,Hospital,F,0,2
+18,25,77,Hospital,F,0,1
+18,26,78,Hospital,F,0,1
+18,27,79,Home / Non-institution,F,0,1
+18,27,79,Hospital,F,0,1
+18,27,79,Hospital,M,0,1
+18,28,80,Home / Non-institution,M,0,1
+18,28,80,Hospital,M,0,1
+18,28,80,Hospital,F,0,2
+18,29,81,Home / Non-institution,M,0,1
+18,29,81,Hospital,F,0,1
+18,29,81,Hospital,M,0,1
+18,30,82,Hospital,F,0,1
+18,30,82,Hospital,M,0,3
+18,31,83,Home / Non-institution,M,0,1
+18,32,84,Hospital,F,0,1
+18,33,85,Hospital,F,0,3
+18,33,85,Hospital,M,0,4
+18,35,87,Hospital,M,0,2
+18,36,88,Home / Non-institution,F,0,1
+18,36,88,Hospital,M,0,2
+18,37,89,Hospital,F,0,2
+18,37,89,Hospital,M,0,4
+18,38,90,Hospital,M,0,1
+18,38,90,Hospital,F,0,3
+18,39,91,Hospital,F,0,1
+18,39,91,Hospital,M,0,1
+18,40,92,Hospital,F,0,1
+18,41,93,Home / Non-institution,F,0,1
+18,41,93,Hospital,F,0,1
+18,41,93,Hospital,M,0,2
+18,42,94,Hospital,F,0,2
+18,42,94,Hospital,M,0,2
+18,43,95,Home / Non-institution,M,0,1
+18,43,95,Hospital,F,0,1
+18,43,95,Hospital,M,0,2
+18,44,96,Hospital,F,0,3
+18,45,97,Home / Non-institution,F,0,1
+18,45,97,Hospital,M,0,1
+18,45,97,Hospital,F,0,2
+18,46,98,Hospital,F,0,1
+18,47,99,Home / Non-institution,M,0,1
+18,47,99,Hospital,F,0,1
+18,47,99,Hospital,M,0,4
+18,49,101,Hospital,F,0,1
+18,50,102,Care Home,F,0,2
+18,50,102,Home / Non-institution,M,0,1
+18,50,102,Hospital,F,0,1
+18,50,102,Hospital,M,0,1
+18,51,103,Hospital,M,0,1
+18,51,103,Hospital,F,0,3
+18,52,104,Hospital,F,0,1
+18,52,104,Hospital,M,0,5
+17,2,2,Hospital,F,1-14,1
+17,3,3,Hospital,F,1-14,1
+17,4,4,Care Home,M,1-14,1
+17,4,4,Hospital,F,1-14,1
+17,4,4,Hospital,M,1-14,1
+17,5,5,Care Home,M,1-14,2
+17,6,6,Hospital,M,1-14,1
+17,6,6,Hospital,F,1-14,2
+17,7,7,Hospital,F,1-14,2
+17,8,8,Home / Non-institution,M,1-14,2
+17,8,8,Hospital,M,1-14,1
+17,9,9,Home / Non-institution,M,1-14,1
+17,9,9,Hospital,F,1-14,1
+17,10,10,Home / Non-institution,M,1-14,1
+17,10,10,Hospital,F,1-14,1
+17,12,12,Home / Non-institution,F,1-14,1
+17,12,12,Hospital,M,1-14,1
+17,14,14,Hospital,F,1-14,1
+17,16,16,Home / Non-institution,F,1-14,1
+17,16,16,Home / Non-institution,M,1-14,1
+17,16,16,Hospital,M,1-14,1
+17,17,17,Hospital,M,1-14,1
+17,18,18,Hospital,M,1-14,1
+17,19,19,Hospital,F,1-14,1
+17,19,19,Hospital,M,1-14,2
+17,20,20,Home / Non-institution,F,1-14,1
+17,20,20,Home / Non-institution,M,1-14,1
+17,23,23,Care Home,M,1-14,1
+17,23,23,Hospital,F,1-14,2
+17,24,24,Home / Non-institution,F,1-14,1
+17,24,24,Home / Non-institution,M,1-14,1
+17,24,24,Hospital,M,1-14,1
+17,25,25,Care Home,F,1-14,1
+17,25,25,Care Home,M,1-14,1
+17,25,25,Home / Non-institution,F,1-14,1
+17,25,25,Home / Non-institution,M,1-14,1
+17,25,25,Hospital,M,1-14,1
+17,26,26,Hospital,M,1-14,1
+17,27,27,Home / Non-institution,F,1-14,1
+17,27,27,Hospital,F,1-14,2
+17,28,28,Home / Non-institution,F,1-14,2
+17,30,30,Home / Non-institution,F,1-14,1
+17,31,31,Care Home,F,1-14,1
+17,31,31,Hospital,M,1-14,1
+17,32,32,Home / Non-institution,F,1-14,1
+17,32,32,Hospital,M,1-14,2
+17,34,34,Hospital,F,1-14,1
+17,36,36,Hospital,F,1-14,1
+17,37,37,Home / Non-institution,F,1-14,1
+17,37,37,Home / Non-institution,M,1-14,1
+17,38,38,Home / Non-institution,F,1-14,1
+17,38,38,Home / Non-institution,M,1-14,1
+17,38,38,Hospital,F,1-14,1
+17,40,40,Hospital,M,1-14,1
+17,41,41,Hospital,F,1-14,1
+17,42,42,Home / Non-institution,M,1-14,2
+17,42,42,Hospital,M,1-14,1
+17,43,43,Home / Non-institution,F,1-14,1
+17,43,43,Home / Non-institution,M,1-14,1
+17,43,43,Hospital,M,1-14,1
+17,44,44,Care Home,F,1-14,1
+17,44,44,Home / Non-institution,F,1-14,1
+17,45,45,Home / Non-institution,M,1-14,1
+17,45,45,Hospital,M,1-14,1
+17,47,47,Home / Non-institution,M,1-14,1
+17,47,47,Hospital,F,1-14,1
+17,49,49,Care Home,M,1-14,1
+17,50,50,Hospital,M,1-14,1
+17,51,51,Home / Non-institution,M,1-14,1
+17,51,51,Hospital,M,1-14,1
+17,52,52,Hospital,M,1-14,1
+18,1,53,Home / Non-institution,M,1-14,1
+18,2,54,Home / Non-institution,F,1-14,1
+18,2,54,Hospital,F,1-14,1
+18,2,54,Hospital,M,1-14,3
+18,3,55,Home / Non-institution,F,1-14,2
+18,4,56,Hospital,M,1-14,1
+18,5,57,Care Home,M,1-14,1
+18,7,59,Hospital,M,1-14,1
+18,8,60,Care Home,F,1-14,1
+18,8,60,Hospital,F,1-14,1
+18,10,62,Care Home,F,1-14,1
+18,11,63,Home / Non-institution,F,1-14,2
+18,11,63,Hospital,F,1-14,1
+18,12,64,Hospital,F,1-14,1
+18,13,65,Home / Non-institution,M,1-14,1
+18,14,66,Hospital,M,1-14,2
+18,15,67,Care Home,F,1-14,1
+18,16,68,Hospital,M,1-14,1
+18,17,69,Care Home,F,1-14,1
+18,18,70,Hospital,F,1-14,1
+18,19,71,Home / Non-institution,M,1-14,1
+18,19,71,Hospital,F,1-14,1
+18,21,73,Hospital,F,1-14,1
+18,21,73,Hospital,M,1-14,1
+18,23,75,Home / Non-institution,M,1-14,2
+18,25,77,Care Home,M,1-14,1
+18,25,77,Hospital,M,1-14,1
+18,28,80,Care Home,M,1-14,1
+18,28,80,Home / Non-institution,F,1-14,2
+18,28,80,Hospital,M,1-14,1
+18,30,82,Home / Non-institution,M,1-14,1
+18,31,83,Home / Non-institution,M,1-14,1
+18,32,84,Hospital,F,1-14,1
+18,32,84,Hospital,M,1-14,2
+18,34,86,Home / Non-institution,F,1-14,2
+18,35,87,Hospital,F,1-14,1
+18,35,87,Hospital,M,1-14,1
+18,36,88,Home / Non-institution,F,1-14,1
+18,36,88,Home / Non-institution,M,1-14,1
+18,36,88,Hospital,F,1-14,1
+18,37,89,Home / Non-institution,F,1-14,1
+18,37,89,Hospital,F,1-14,1
+18,37,89,Hospital,M,1-14,1
+18,38,90,Care Home,M,1-14,1
+18,39,91,Home / Non-institution,F,1-14,1
+18,39,91,Home / Non-institution,M,1-14,1
+18,39,91,Hospital,F,1-14,1
+18,40,92,Hospital,F,1-14,1
+18,41,93,Care Home,M,1-14,1
+18,41,93,Home / Non-institution,M,1-14,1
+18,42,94,Hospital,F,1-14,1
+18,43,95,Hospital,F,1-14,1
+18,44,96,Care Home,F,1-14,1
+18,44,96,Home / Non-institution,M,1-14,1
+18,45,97,Home / Non-institution,F,1-14,1
+18,45,97,Hospital,M,1-14,1
+18,46,98,Care Home,F,1-14,1
+18,46,98,Home / Non-institution,F,1-14,1
+18,46,98,Hospital,F,1-14,1
+18,48,100,Home / Non-institution,M,1-14,1
+18,48,100,Home / Non-institution,F,1-14,2
+18,49,101,Care Home,M,1-14,1
+18,49,101,Hospital,M,1-14,1
+18,50,102,Home / Non-institution,M,1-14,1
+18,50,102,Hospital,F,1-14,1
+18,50,102,Hospital,M,1-14,3
+18,51,103,Care Home,F,1-14,1
+18,51,103,Home / Non-institution,F,1-14,1
+18,51,103,Hospital,M,1-14,3
+17,1,1,Care Home,M,15-44,2
+17,1,1,Home / Non-institution,F,15-44,4
+17,1,1,Home / Non-institution,M,15-44,17
+17,1,1,Hospital,F,15-44,6
+17,1,1,Hospital,M,15-44,14
+17,1,1,Other institution,F,15-44,1
+17,2,2,Home / Non-institution,F,15-44,10
+17,2,2,Home / Non-institution,M,15-44,17
+17,2,2,Hospital,F,15-44,6
+17,2,2,Hospital,M,15-44,10
+17,2,2,Other institution,M,15-44,1
+17,3,3,Care Home,F,15-44,1
+17,3,3,Home / Non-institution,F,15-44,8
+17,3,3,Home / Non-institution,M,15-44,15
+17,3,3,Hospital,M,15-44,8
+17,3,3,Hospital,F,15-44,10
+17,3,3,Other institution,M,15-44,1
+17,4,4,Care Home,M,15-44,2
+17,4,4,Home / Non-institution,F,15-44,8
+17,4,4,Home / Non-institution,M,15-44,17
+17,4,4,Hospital,F,15-44,5
+17,4,4,Hospital,M,15-44,11
+17,5,5,Care Home,F,15-44,1
+17,5,5,Care Home,M,15-44,1
+17,5,5,Home / Non-institution,F,15-44,4
+17,5,5,Home / Non-institution,M,15-44,11
+17,5,5,Hospital,F,15-44,4
+17,5,5,Hospital,M,15-44,9
+17,5,5,Other institution,M,15-44,1
+17,6,6,Care Home,F,15-44,1
+17,6,6,Care Home,M,15-44,2
+17,6,6,Home / Non-institution,F,15-44,7
+17,6,6,Home / Non-institution,M,15-44,20
+17,6,6,Hospital,F,15-44,5
+17,6,6,Hospital,M,15-44,7
+17,7,7,Home / Non-institution,F,15-44,5
+17,7,7,Home / Non-institution,M,15-44,13
+17,7,7,Hospital,M,15-44,5
+17,7,7,Hospital,F,15-44,6
+17,8,8,Care Home,F,15-44,1
+17,8,8,Home / Non-institution,F,15-44,9
+17,8,8,Home / Non-institution,M,15-44,17
+17,8,8,Hospital,F,15-44,3
+17,8,8,Hospital,M,15-44,11
+17,8,8,Other institution,M,15-44,1
+17,9,9,Care Home,M,15-44,3
+17,9,9,Home / Non-institution,F,15-44,9
+17,9,9,Home / Non-institution,M,15-44,21
+17,9,9,Hospital,F,15-44,2
+17,9,9,Hospital,M,15-44,5
+17,9,9,Other institution,M,15-44,1
+17,10,10,Home / Non-institution,F,15-44,6
+17,10,10,Home / Non-institution,M,15-44,15
+17,10,10,Hospital,M,15-44,5
+17,10,10,Hospital,F,15-44,6
+17,11,11,Care Home,F,15-44,1
+17,11,11,Care Home,M,15-44,1
+17,11,11,Home / Non-institution,F,15-44,3
+17,11,11,Home / Non-institution,M,15-44,18
+17,11,11,Hospital,F,15-44,3
+17,11,11,Hospital,M,15-44,5
+17,12,12,Care Home,F,15-44,1
+17,12,12,Home / Non-institution,F,15-44,16
+17,12,12,Home / Non-institution,M,15-44,16
+17,12,12,Hospital,M,15-44,7
+17,12,12,Hospital,F,15-44,8
+17,13,13,Care Home,F,15-44,1
+17,13,13,Care Home,M,15-44,1
+17,13,13,Home / Non-institution,F,15-44,4
+17,13,13,Home / Non-institution,M,15-44,14
+17,13,13,Hospital,F,15-44,4
+17,13,13,Hospital,M,15-44,5
+17,13,13,Other institution,M,15-44,1
+17,14,14,Care Home,F,15-44,1
+17,14,14,Care Home,M,15-44,1
+17,14,14,Home / Non-institution,F,15-44,7
+17,14,14,Home / Non-institution,M,15-44,15
+17,14,14,Hospital,F,15-44,2
+17,14,14,Hospital,M,15-44,9
+17,15,15,Care Home,F,15-44,2
+17,15,15,Home / Non-institution,F,15-44,4
+17,15,15,Home / Non-institution,M,15-44,11
+17,15,15,Hospital,F,15-44,5
+17,15,15,Hospital,M,15-44,10
+17,16,16,Home / Non-institution,F,15-44,10
+17,16,16,Home / Non-institution,M,15-44,15
+17,16,16,Hospital,F,15-44,8
+17,16,16,Hospital,M,15-44,10
+17,17,17,Care Home,F,15-44,1
+17,17,17,Care Home,M,15-44,3
+17,17,17,Home / Non-institution,F,15-44,4
+17,17,17,Home / Non-institution,M,15-44,15
+17,17,17,Hospital,F,15-44,3
+17,17,17,Hospital,M,15-44,10
+17,18,18,Care Home,F,15-44,1
+17,18,18,Home / Non-institution,F,15-44,8
+17,18,18,Home / Non-institution,M,15-44,16
+17,18,18,Hospital,F,15-44,5
+17,18,18,Hospital,M,15-44,9
+17,19,19,Care Home,F,15-44,1
+17,19,19,Home / Non-institution,F,15-44,3
+17,19,19,Home / Non-institution,M,15-44,17
+17,19,19,Hospital,M,15-44,7
+17,19,19,Hospital,F,15-44,8
+17,19,19,Other institution,M,15-44,1
+17,20,20,Care Home,F,15-44,1
+17,20,20,Care Home,M,15-44,1
+17,20,20,Home / Non-institution,F,15-44,9
+17,20,20,Home / Non-institution,M,15-44,16
+17,20,20,Hospital,F,15-44,5
+17,20,20,Hospital,M,15-44,10
+17,21,21,Care Home,M,15-44,1
+17,21,21,Home / Non-institution,F,15-44,9
+17,21,21,Home / Non-institution,M,15-44,15
+17,21,21,Hospital,F,15-44,4
+17,21,21,Hospital,M,15-44,12
+17,21,21,Other institution,M,15-44,1
+17,22,22,Care Home,F,15-44,1
+17,22,22,Care Home,M,15-44,1
+17,22,22,Home / Non-institution,F,15-44,7
+17,22,22,Home / Non-institution,M,15-44,16
+17,22,22,Hospital,F,15-44,4
+17,22,22,Hospital,M,15-44,9
+17,23,23,Care Home,F,15-44,1
+17,23,23,Care Home,M,15-44,2
+17,23,23,Home / Non-institution,F,15-44,7
+17,23,23,Home / Non-institution,M,15-44,28
+17,23,23,Hospital,M,15-44,3
+17,23,23,Hospital,F,15-44,6
+17,24,24,Care Home,M,15-44,1
+17,24,24,Home / Non-institution,F,15-44,6
+17,24,24,Home / Non-institution,M,15-44,20
+17,24,24,Hospital,F,15-44,3
+17,24,24,Hospital,M,15-44,8
+17,25,25,Care Home,F,15-44,1
+17,25,25,Care Home,M,15-44,1
+17,25,25,Home / Non-institution,F,15-44,4
+17,25,25,Home / Non-institution,M,15-44,20
+17,25,25,Hospital,M,15-44,4
+17,25,25,Hospital,F,15-44,7
+17,26,26,Care Home,F,15-44,1
+17,26,26,Home / Non-institution,F,15-44,6
+17,26,26,Home / Non-institution,M,15-44,19
+17,26,26,Hospital,F,15-44,4
+17,26,26,Hospital,M,15-44,9
+17,27,27,Care Home,F,15-44,2
+17,27,27,Home / Non-institution,F,15-44,6
+17,27,27,Home / Non-institution,M,15-44,13
+17,27,27,Hospital,F,15-44,6
+17,27,27,Hospital,M,15-44,11
+17,28,28,Care Home,F,15-44,1
+17,28,28,Care Home,M,15-44,1
+17,28,28,Home / Non-institution,F,15-44,9
+17,28,28,Home / Non-institution,M,15-44,17
+17,28,28,Hospital,F,15-44,3
+17,28,28,Hospital,M,15-44,10
+17,29,29,Care Home,M,15-44,1
+17,29,29,Home / Non-institution,F,15-44,9
+17,29,29,Home / Non-institution,M,15-44,25
+17,29,29,Hospital,F,15-44,9
+17,29,29,Hospital,M,15-44,11
+17,29,29,Other institution,M,15-44,1
+17,30,30,Care Home,F,15-44,1
+17,30,30,Care Home,M,15-44,1
+17,30,30,Home / Non-institution,F,15-44,11
+17,30,30,Home / Non-institution,M,15-44,17
+17,30,30,Hospital,F,15-44,2
+17,30,30,Hospital,M,15-44,12
+17,31,31,Care Home,F,15-44,1
+17,31,31,Home / Non-institution,F,15-44,6
+17,31,31,Home / Non-institution,M,15-44,20
+17,31,31,Hospital,M,15-44,10
+17,31,31,Hospital,F,15-44,12
+17,32,32,Home / Non-institution,F,15-44,16
+17,32,32,Home / Non-institution,M,15-44,24
+17,32,32,Hospital,F,15-44,6
+17,32,32,Hospital,M,15-44,9
+17,33,33,Care Home,F,15-44,1
+17,33,33,Home / Non-institution,F,15-44,8
+17,33,33,Home / Non-institution,M,15-44,29
+17,33,33,Hospital,M,15-44,1
+17,33,33,Hospital,F,15-44,5
+17,34,34,Care Home,M,15-44,1
+17,34,34,Home / Non-institution,F,15-44,5
+17,34,34,Home / Non-institution,M,15-44,18
+17,34,34,Hospital,M,15-44,5
+17,34,34,Hospital,F,15-44,7
+17,35,35,Care Home,F,15-44,2
+17,35,35,Care Home,M,15-44,2
+17,35,35,Home / Non-institution,F,15-44,5
+17,35,35,Home / Non-institution,M,15-44,13
+17,35,35,Hospital,M,15-44,9
+17,35,35,Hospital,F,15-44,16
+17,36,36,Care Home,F,15-44,1
+17,36,36,Home / Non-institution,F,15-44,9
+17,36,36,Home / Non-institution,M,15-44,21
+17,36,36,Hospital,F,15-44,3
+17,36,36,Hospital,M,15-44,5
+17,37,37,Care Home,M,15-44,1
+17,37,37,Home / Non-institution,F,15-44,4
+17,37,37,Home / Non-institution,M,15-44,15
+17,37,37,Hospital,F,15-44,3
+17,37,37,Hospital,M,15-44,5
+17,37,37,Other institution,F,15-44,1
+17,38,38,Care Home,M,15-44,1
+17,38,38,Home / Non-institution,F,15-44,7
+17,38,38,Home / Non-institution,M,15-44,13
+17,38,38,Hospital,M,15-44,6
+17,38,38,Hospital,F,15-44,7
+17,38,38,Other institution,M,15-44,1
+17,39,39,Home / Non-institution,F,15-44,4
+17,39,39,Home / Non-institution,M,15-44,18
+17,39,39,Hospital,F,15-44,7
+17,39,39,Hospital,M,15-44,13
+17,39,39,Other institution,M,15-44,2
+17,40,40,Care Home,M,15-44,2
+17,40,40,Home / Non-institution,F,15-44,6
+17,40,40,Home / Non-institution,M,15-44,14
+17,40,40,Hospital,F,15-44,4
+17,40,40,Hospital,M,15-44,7
+17,41,41,Care Home,M,15-44,1
+17,41,41,Care Home,F,15-44,2
+17,41,41,Home / Non-institution,F,15-44,5
+17,41,41,Home / Non-institution,M,15-44,15
+17,41,41,Hospital,F,15-44,6
+17,41,41,Hospital,M,15-44,6
+17,41,41,Other institution,M,15-44,1
+17,42,42,Home / Non-institution,F,15-44,4
+17,42,42,Home / Non-institution,M,15-44,28
+17,42,42,Hospital,F,15-44,3
+17,42,42,Hospital,M,15-44,7
+17,43,43,Care Home,F,15-44,4
+17,43,43,Home / Non-institution,F,15-44,8
+17,43,43,Home / Non-institution,M,15-44,24
+17,43,43,Hospital,M,15-44,8
+17,43,43,Hospital,F,15-44,9
+17,44,44,Home / Non-institution,F,15-44,8
+17,44,44,Home / Non-institution,M,15-44,22
+17,44,44,Hospital,M,15-44,3
+17,44,44,Hospital,F,15-44,6
+17,45,45,Care Home,F,15-44,3
+17,45,45,Home / Non-institution,F,15-44,11
+17,45,45,Home / Non-institution,M,15-44,17
+17,45,45,Hospital,F,15-44,3
+17,45,45,Hospital,M,15-44,10
+17,45,45,Other institution,M,15-44,1
+17,46,46,Care Home,F,15-44,1
+17,46,46,Home / Non-institution,F,15-44,7
+17,46,46,Home / Non-institution,M,15-44,20
+17,46,46,Hospital,F,15-44,3
+17,46,46,Hospital,M,15-44,7
+17,47,47,Care Home,F,15-44,1
+17,47,47,Home / Non-institution,F,15-44,8
+17,47,47,Home / Non-institution,M,15-44,18
+17,47,47,Hospital,M,15-44,3
+17,47,47,Hospital,F,15-44,7
+17,47,47,Other institution,F,15-44,1
+17,48,48,Home / Non-institution,F,15-44,8
+17,48,48,Home / Non-institution,M,15-44,18
+17,48,48,Hospital,M,15-44,4
+17,48,48,Hospital,F,15-44,7
+17,49,49,Care Home,M,15-44,2
+17,49,49,Home / Non-institution,F,15-44,9
+17,49,49,Home / Non-institution,M,15-44,15
+17,49,49,Hospital,F,15-44,5
+17,49,49,Hospital,M,15-44,7
+17,50,50,Home / Non-institution,F,15-44,10
+17,50,50,Home / Non-institution,M,15-44,25
+17,50,50,Hospital,M,15-44,1
+17,50,50,Hospital,F,15-44,7
+17,51,51,Care Home,M,15-44,1
+17,51,51,Home / Non-institution,F,15-44,11
+17,51,51,Home / Non-institution,M,15-44,13
+17,51,51,Hospital,F,15-44,7
+17,51,51,Hospital,M,15-44,8
+17,52,52,Care Home,F,15-44,1
+17,52,52,Care Home,M,15-44,1
+17,52,52,Home / Non-institution,F,15-44,4
+17,52,52,Home / Non-institution,M,15-44,8
+17,52,52,Hospital,F,15-44,4
+17,52,52,Hospital,M,15-44,6
+18,1,53,Care Home,M,15-44,1
+18,1,53,Care Home,F,15-44,3
+18,1,53,Home / Non-institution,F,15-44,5
+18,1,53,Home / Non-institution,M,15-44,17
+18,1,53,Hospital,F,15-44,5
+18,1,53,Hospital,M,15-44,8
+18,2,54,Care Home,F,15-44,1
+18,2,54,Home / Non-institution,F,15-44,11
+18,2,54,Home / Non-institution,M,15-44,14
+18,2,54,Hospital,F,15-44,8
+18,2,54,Hospital,M,15-44,8
+18,3,55,Care Home,F,15-44,1
+18,3,55,Care Home,M,15-44,1
+18,3,55,Home / Non-institution,F,15-44,9
+18,3,55,Home / Non-institution,M,15-44,10
+18,3,55,Hospital,M,15-44,7
+18,3,55,Hospital,F,15-44,9
+18,4,56,Care Home,M,15-44,3
+18,4,56,Home / Non-institution,F,15-44,11
+18,4,56,Home / Non-institution,M,15-44,24
+18,4,56,Hospital,F,15-44,7
+18,4,56,Hospital,M,15-44,8
+18,5,57,Care Home,M,15-44,3
+18,5,57,Home / Non-institution,F,15-44,7
+18,5,57,Home / Non-institution,M,15-44,15
+18,5,57,Hospital,F,15-44,4
+18,5,57,Hospital,M,15-44,8
+18,6,58,Care Home,M,15-44,1
+18,6,58,Home / Non-institution,F,15-44,10
+18,6,58,Home / Non-institution,M,15-44,23
+18,6,58,Hospital,F,15-44,6
+18,6,58,Hospital,M,15-44,9
+18,7,59,Home / Non-institution,F,15-44,8
+18,7,59,Home / Non-institution,M,15-44,23
+18,7,59,Hospital,F,15-44,7
+18,7,59,Hospital,M,15-44,13
+18,8,60,Home / Non-institution,F,15-44,9
+18,8,60,Home / Non-institution,M,15-44,22
+18,8,60,Hospital,F,15-44,6
+18,8,60,Hospital,M,15-44,6
+18,9,61,Home / Non-institution,F,15-44,9
+18,9,61,Home / Non-institution,M,15-44,21
+18,9,61,Hospital,M,15-44,5
+18,9,61,Hospital,F,15-44,8
+18,10,62,Care Home,F,15-44,3
+18,10,62,Home / Non-institution,F,15-44,13
+18,10,62,Home / Non-institution,M,15-44,27
+18,10,62,Hospital,F,15-44,6
+18,10,62,Hospital,M,15-44,7
+18,11,63,Care Home,F,15-44,1
+18,11,63,Home / Non-institution,F,15-44,7
+18,11,63,Home / Non-institution,M,15-44,29
+18,11,63,Hospital,F,15-44,3
+18,11,63,Hospital,M,15-44,9
+18,12,64,Care Home,F,15-44,1
+18,12,64,Care Home,M,15-44,1
+18,12,64,Home / Non-institution,F,15-44,8
+18,12,64,Home / Non-institution,M,15-44,20
+18,12,64,Hospital,M,15-44,7
+18,12,64,Hospital,F,15-44,12
+18,13,65,Care Home,M,15-44,1
+18,13,65,Home / Non-institution,F,15-44,5
+18,13,65,Home / Non-institution,M,15-44,14
+18,13,65,Hospital,F,15-44,3
+18,13,65,Hospital,M,15-44,6
+18,13,65,Other institution,F,15-44,1
+18,14,66,Care Home,M,15-44,1
+18,14,66,Home / Non-institution,F,15-44,6
+18,14,66,Home / Non-institution,M,15-44,25
+18,14,66,Hospital,F,15-44,11
+18,14,66,Hospital,M,15-44,11
+18,14,66,Other institution,M,15-44,1
+18,15,67,Home / Non-institution,F,15-44,8
+18,15,67,Home / Non-institution,M,15-44,22
+18,15,67,Hospital,M,15-44,7
+18,15,67,Hospital,F,15-44,8
+18,15,67,Other institution,F,15-44,1
+18,16,68,Care Home,M,15-44,2
+18,16,68,Care Home,F,15-44,3
+18,16,68,Home / Non-institution,F,15-44,10
+18,16,68,Home / Non-institution,M,15-44,17
+18,16,68,Hospital,F,15-44,9
+18,16,68,Hospital,M,15-44,11
+18,17,69,Care Home,M,15-44,1
+18,17,69,Care Home,F,15-44,2
+18,17,69,Home / Non-institution,F,15-44,8
+18,17,69,Home / Non-institution,M,15-44,23
+18,17,69,Hospital,F,15-44,3
+18,17,69,Hospital,M,15-44,5
+18,17,69,Other institution,M,15-44,1
+18,18,70,Care Home,F,15-44,1
+18,18,70,Home / Non-institution,F,15-44,5
+18,18,70,Home / Non-institution,M,15-44,21
+18,18,70,Hospital,F,15-44,7
+18,18,70,Hospital,M,15-44,7
+18,19,71,Care Home,M,15-44,1
+18,19,71,Care Home,F,15-44,2
+18,19,71,Home / Non-institution,F,15-44,5
+18,19,71,Home / Non-institution,M,15-44,15
+18,19,71,Hospital,F,15-44,6
+18,19,71,Hospital,M,15-44,7
+18,20,72,Care Home,M,15-44,1
+18,20,72,Care Home,F,15-44,2
+18,20,72,Home / Non-institution,F,15-44,9
+18,20,72,Home / Non-institution,M,15-44,23
+18,20,72,Hospital,F,15-44,2
+18,20,72,Hospital,M,15-44,10
+18,21,73,Care Home,M,15-44,1
+18,21,73,Care Home,F,15-44,3
+18,21,73,Home / Non-institution,F,15-44,9
+18,21,73,Home / Non-institution,M,15-44,18
+18,21,73,Hospital,F,15-44,1
+18,21,73,Hospital,M,15-44,6
+18,22,74,Care Home,M,15-44,2
+18,22,74,Care Home,F,15-44,4
+18,22,74,Home / Non-institution,F,15-44,8
+18,22,74,Home / Non-institution,M,15-44,17
+18,22,74,Hospital,M,15-44,4
+18,22,74,Hospital,F,15-44,7
+18,23,75,Care Home,F,15-44,1
+18,23,75,Home / Non-institution,F,15-44,12
+18,23,75,Home / Non-institution,M,15-44,25
+18,23,75,Hospital,F,15-44,6
+18,23,75,Hospital,M,15-44,9
+18,24,76,Care Home,F,15-44,1
+18,24,76,Home / Non-institution,F,15-44,9
+18,24,76,Home / Non-institution,M,15-44,22
+18,24,76,Hospital,F,15-44,4
+18,24,76,Hospital,M,15-44,11
+18,25,77,Home / Non-institution,F,15-44,7
+18,25,77,Home / Non-institution,M,15-44,24
+18,25,77,Hospital,F,15-44,5
+18,25,77,Hospital,M,15-44,10
+18,25,77,Other institution,M,15-44,2
+18,26,78,Care Home,F,15-44,1
+18,26,78,Care Home,M,15-44,1
+18,26,78,Home / Non-institution,F,15-44,5
+18,26,78,Home / Non-institution,M,15-44,24
+18,26,78,Hospital,F,15-44,4
+18,26,78,Hospital,M,15-44,5
+18,26,78,Other institution,M,15-44,1
+18,27,79,Care Home,M,15-44,1
+18,27,79,Home / Non-institution,F,15-44,4
+18,27,79,Home / Non-institution,M,15-44,16
+18,27,79,Hospital,F,15-44,6
+18,27,79,Hospital,M,15-44,9
+18,28,80,Care Home,F,15-44,2
+18,28,80,Home / Non-institution,F,15-44,13
+18,28,80,Home / Non-institution,M,15-44,17
+18,28,80,Hospital,F,15-44,3
+18,28,80,Hospital,M,15-44,4
+18,28,80,Other institution,F,15-44,1
+18,28,80,Other institution,M,15-44,1
+18,29,81,Care Home,F,15-44,3
+18,29,81,Home / Non-institution,F,15-44,8
+18,29,81,Home / Non-institution,M,15-44,22
+18,29,81,Hospital,F,15-44,6
+18,29,81,Hospital,M,15-44,10
+18,30,82,Care Home,M,15-44,1
+18,30,82,Care Home,F,15-44,2
+18,30,82,Home / Non-institution,F,15-44,5
+18,30,82,Home / Non-institution,M,15-44,17
+18,30,82,Hospital,F,15-44,2
+18,30,82,Hospital,M,15-44,6
+18,31,83,Care Home,F,15-44,1
+18,31,83,Care Home,M,15-44,2
+18,31,83,Home / Non-institution,F,15-44,7
+18,31,83,Home / Non-institution,M,15-44,23
+18,31,83,Hospital,F,15-44,2
+18,31,83,Hospital,M,15-44,8
+18,32,84,Home / Non-institution,F,15-44,11
+18,32,84,Home / Non-institution,M,15-44,24
+18,32,84,Hospital,F,15-44,1
+18,32,84,Hospital,M,15-44,7
+18,33,85,Care Home,F,15-44,1
+18,33,85,Home / Non-institution,F,15-44,5
+18,33,85,Home / Non-institution,M,15-44,19
+18,33,85,Hospital,F,15-44,1
+18,33,85,Hospital,M,15-44,5
+18,34,86,Care Home,F,15-44,1
+18,34,86,Home / Non-institution,M,15-44,9
+18,34,86,Home / Non-institution,F,15-44,12
+18,34,86,Hospital,F,15-44,4
+18,34,86,Hospital,M,15-44,5
+18,35,87,Home / Non-institution,M,15-44,10
+18,35,87,Home / Non-institution,F,15-44,16
+18,35,87,Hospital,F,15-44,4
+18,35,87,Hospital,M,15-44,6
+18,36,88,Home / Non-institution,F,15-44,7
+18,36,88,Home / Non-institution,M,15-44,23
+18,36,88,Hospital,F,15-44,6
+18,36,88,Hospital,M,15-44,8
+18,37,89,Care Home,F,15-44,1
+18,37,89,Home / Non-institution,F,15-44,11
+18,37,89,Home / Non-institution,M,15-44,15
+18,37,89,Hospital,F,15-44,6
+18,37,89,Hospital,M,15-44,6
+18,38,90,Care Home,F,15-44,1
+18,38,90,Home / Non-institution,F,15-44,7
+18,38,90,Home / Non-institution,M,15-44,19
+18,38,90,Hospital,F,15-44,3
+18,38,90,Hospital,M,15-44,6
+18,39,91,Care Home,M,15-44,2
+18,39,91,Home / Non-institution,F,15-44,4
+18,39,91,Home / Non-institution,M,15-44,26
+18,39,91,Hospital,F,15-44,6
+18,39,91,Hospital,M,15-44,10
+18,40,92,Care Home,F,15-44,3
+18,40,92,Home / Non-institution,F,15-44,7
+18,40,92,Home / Non-institution,M,15-44,24
+18,40,92,Hospital,F,15-44,6
+18,40,92,Hospital,M,15-44,8
+18,41,93,Care Home,F,15-44,1
+18,41,93,Care Home,M,15-44,2
+18,41,93,Home / Non-institution,F,15-44,4
+18,41,93,Home / Non-institution,M,15-44,25
+18,41,93,Hospital,F,15-44,6
+18,41,93,Hospital,M,15-44,15
+18,41,93,Other institution,M,15-44,2
+18,42,94,Care Home,F,15-44,1
+18,42,94,Home / Non-institution,F,15-44,8
+18,42,94,Home / Non-institution,M,15-44,16
+18,42,94,Hospital,F,15-44,6
+18,42,94,Hospital,M,15-44,6
+18,42,94,Other institution,M,15-44,1
+18,43,95,Home / Non-institution,F,15-44,12
+18,43,95,Home / Non-institution,M,15-44,16
+18,43,95,Hospital,M,15-44,3
+18,43,95,Hospital,F,15-44,4
+18,44,96,Care Home,M,15-44,2
+18,44,96,Care Home,F,15-44,3
+18,44,96,Home / Non-institution,F,15-44,5
+18,44,96,Home / Non-institution,M,15-44,20
+18,44,96,Hospital,M,15-44,3
+18,44,96,Hospital,F,15-44,5
+18,45,97,Care Home,M,15-44,2
+18,45,97,Home / Non-institution,F,15-44,1
+18,45,97,Home / Non-institution,M,15-44,23
+18,45,97,Hospital,F,15-44,7
+18,45,97,Hospital,M,15-44,8
+18,46,98,Care Home,F,15-44,2
+18,46,98,Home / Non-institution,F,15-44,3
+18,46,98,Home / Non-institution,M,15-44,22
+18,46,98,Hospital,F,15-44,3
+18,46,98,Hospital,M,15-44,7
+18,47,99,Care Home,F,15-44,1
+18,47,99,Care Home,M,15-44,1
+18,47,99,Home / Non-institution,F,15-44,8
+18,47,99,Home / Non-institution,M,15-44,19
+18,47,99,Hospital,F,15-44,4
+18,47,99,Hospital,M,15-44,8
+18,48,100,Care Home,F,15-44,1
+18,48,100,Home / Non-institution,F,15-44,6
+18,48,100,Home / Non-institution,M,15-44,21
+18,48,100,Hospital,F,15-44,3
+18,48,100,Hospital,M,15-44,11
+18,49,101,Home / Non-institution,F,15-44,7
+18,49,101,Home / Non-institution,M,15-44,20
+18,49,101,Hospital,F,15-44,4
+18,49,101,Hospital,M,15-44,5
+18,50,102,Care Home,M,15-44,1
+18,50,102,Care Home,F,15-44,3
+18,50,102,Home / Non-institution,F,15-44,8
+18,50,102,Home / Non-institution,M,15-44,24
+18,50,102,Hospital,M,15-44,7
+18,50,102,Hospital,F,15-44,8
+18,51,103,Home / Non-institution,F,15-44,11
+18,51,103,Home / Non-institution,M,15-44,19
+18,51,103,Hospital,F,15-44,6
+18,51,103,Hospital,M,15-44,10
+18,52,104,Home / Non-institution,F,15-44,5
+18,52,104,Home / Non-institution,M,15-44,8
+18,52,104,Hospital,M,15-44,4
+18,52,104,Hospital,F,15-44,5
+17,1,1,Care Home,F,45-64,7
+17,1,1,Care Home,M,45-64,9
+17,1,1,Home / Non-institution,F,45-64,20
+17,1,1,Home / Non-institution,M,45-64,36
+17,1,1,Hospital,F,45-64,28
+17,1,1,Hospital,M,45-64,37
+17,1,1,Other institution,M,45-64,1
+17,2,2,Care Home,F,45-64,2
+17,2,2,Care Home,M,45-64,8
+17,2,2,Home / Non-institution,F,45-64,33
+17,2,2,Home / Non-institution,M,45-64,55
+17,2,2,Hospital,F,45-64,46
+17,2,2,Hospital,M,45-64,54
+17,3,3,Care Home,M,45-64,4
+17,3,3,Care Home,F,45-64,11
+17,3,3,Home / Non-institution,F,45-64,20
+17,3,3,Home / Non-institution,M,45-64,48
+17,3,3,Hospital,F,45-64,29
+17,3,3,Hospital,M,45-64,51
+17,4,4,Care Home,F,45-64,4
+17,4,4,Care Home,M,45-64,6
+17,4,4,Home / Non-institution,F,45-64,19
+17,4,4,Home / Non-institution,M,45-64,51
+17,4,4,Hospital,F,45-64,29
+17,4,4,Hospital,M,45-64,52
+17,4,4,Other institution,M,45-64,2
+17,5,5,Care Home,M,45-64,6
+17,5,5,Care Home,F,45-64,9
+17,5,5,Home / Non-institution,F,45-64,24
+17,5,5,Home / Non-institution,M,45-64,47
+17,5,5,Hospital,F,45-64,40
+17,5,5,Hospital,M,45-64,48
+17,6,6,Care Home,M,45-64,6
+17,6,6,Care Home,F,45-64,7
+17,6,6,Home / Non-institution,F,45-64,34
+17,6,6,Home / Non-institution,M,45-64,43
+17,6,6,Hospital,F,45-64,33
+17,6,6,Hospital,M,45-64,48
+17,6,6,Other institution,M,45-64,1
+17,7,7,Care Home,F,45-64,6
+17,7,7,Care Home,M,45-64,10
+17,7,7,Home / Non-institution,F,45-64,31
+17,7,7,Home / Non-institution,M,45-64,48
+17,7,7,Hospital,M,45-64,36
+17,7,7,Hospital,F,45-64,37
+17,7,7,Other institution,F,45-64,1
+17,7,7,Other institution,M,45-64,1
+17,8,8,Care Home,M,45-64,12
+17,8,8,Care Home,F,45-64,14
+17,8,8,Home / Non-institution,F,45-64,29
+17,8,8,Home / Non-institution,M,45-64,43
+17,8,8,Hospital,F,45-64,23
+17,8,8,Hospital,M,45-64,39
+17,8,8,Other institution,M,45-64,1
+17,9,9,Care Home,M,45-64,6
+17,9,9,Care Home,F,45-64,11
+17,9,9,Home / Non-institution,F,45-64,31
+17,9,9,Home / Non-institution,M,45-64,48
+17,9,9,Hospital,M,45-64,41
+17,9,9,Hospital,F,45-64,48
+17,9,9,Other institution,F,45-64,1
+17,10,10,Care Home,F,45-64,11
+17,10,10,Care Home,M,45-64,12
+17,10,10,Home / Non-institution,F,45-64,27
+17,10,10,Home / Non-institution,M,45-64,44
+17,10,10,Hospital,F,45-64,37
+17,10,10,Hospital,M,45-64,41
+17,11,11,Care Home,F,45-64,1
+17,11,11,Care Home,M,45-64,7
+17,11,11,Home / Non-institution,F,45-64,16
+17,11,11,Home / Non-institution,M,45-64,42
+17,11,11,Hospital,M,45-64,36
+17,11,11,Hospital,F,45-64,37
+17,11,11,Other institution,M,45-64,1
+17,11,11,Other institution,F,45-64,2
+17,12,12,Care Home,M,45-64,2
+17,12,12,Care Home,F,45-64,10
+17,12,12,Home / Non-institution,F,45-64,18
+17,12,12,Home / Non-institution,M,45-64,51
+17,12,12,Hospital,F,45-64,32
+17,12,12,Hospital,M,45-64,40
+17,13,13,Care Home,M,45-64,7
+17,13,13,Care Home,F,45-64,11
+17,13,13,Home / Non-institution,F,45-64,22
+17,13,13,Home / Non-institution,M,45-64,34
+17,13,13,Hospital,F,45-64,35
+17,13,13,Hospital,M,45-64,40
+17,13,13,Other institution,F,45-64,1
+17,14,14,Care Home,M,45-64,3
+17,14,14,Care Home,F,45-64,7
+17,14,14,Home / Non-institution,F,45-64,27
+17,14,14,Home / Non-institution,M,45-64,41
+17,14,14,Hospital,F,45-64,37
+17,14,14,Hospital,M,45-64,56
+17,15,15,Care Home,F,45-64,3
+17,15,15,Care Home,M,45-64,5
+17,15,15,Home / Non-institution,F,45-64,27
+17,15,15,Home / Non-institution,M,45-64,40
+17,15,15,Hospital,F,45-64,35
+17,15,15,Hospital,M,45-64,36
+17,16,16,Care Home,F,45-64,7
+17,16,16,Care Home,M,45-64,7
+17,16,16,Home / Non-institution,F,45-64,20
+17,16,16,Home / Non-institution,M,45-64,36
+17,16,16,Hospital,F,45-64,32
+17,16,16,Hospital,M,45-64,42
+17,17,17,Care Home,F,45-64,6
+17,17,17,Care Home,M,45-64,12
+17,17,17,Home / Non-institution,F,45-64,28
+17,17,17,Home / Non-institution,M,45-64,44
+17,17,17,Hospital,F,45-64,34
+17,17,17,Hospital,M,45-64,36
+17,17,17,Other institution,F,45-64,1
+17,17,17,Other institution,M,45-64,1
+17,18,18,Care Home,M,45-64,5
+17,18,18,Care Home,F,45-64,8
+17,18,18,Home / Non-institution,F,45-64,18
+17,18,18,Home / Non-institution,M,45-64,38
+17,18,18,Hospital,F,45-64,25
+17,18,18,Hospital,M,45-64,36
+17,18,18,Other institution,F,45-64,1
+17,19,19,Care Home,F,45-64,6
+17,19,19,Care Home,M,45-64,8
+17,19,19,Home / Non-institution,F,45-64,22
+17,19,19,Home / Non-institution,M,45-64,57
+17,19,19,Hospital,F,45-64,40
+17,19,19,Hospital,M,45-64,45
+17,20,20,Care Home,M,45-64,2
+17,20,20,Care Home,F,45-64,8
+17,20,20,Home / Non-institution,F,45-64,26
+17,20,20,Home / Non-institution,M,45-64,36
+17,20,20,Hospital,F,45-64,41
+17,20,20,Hospital,M,45-64,42
+17,20,20,Other institution,M,45-64,1
+17,21,21,Care Home,M,45-64,9
+17,21,21,Care Home,F,45-64,13
+17,21,21,Home / Non-institution,F,45-64,18
+17,21,21,Home / Non-institution,M,45-64,44
+17,21,21,Hospital,F,45-64,31
+17,21,21,Hospital,M,45-64,38
+17,22,22,Care Home,M,45-64,6
+17,22,22,Care Home,F,45-64,7
+17,22,22,Home / Non-institution,F,45-64,16
+17,22,22,Home / Non-institution,M,45-64,42
+17,22,22,Hospital,F,45-64,32
+17,22,22,Hospital,M,45-64,34
+17,22,22,Other institution,M,45-64,1
+17,23,23,Care Home,M,45-64,7
+17,23,23,Care Home,F,45-64,12
+17,23,23,Home / Non-institution,F,45-64,24
+17,23,23,Home / Non-institution,M,45-64,37
+17,23,23,Hospital,F,45-64,35
+17,23,23,Hospital,M,45-64,39
+17,24,24,Care Home,F,45-64,4
+17,24,24,Care Home,M,45-64,8
+17,24,24,Home / Non-institution,F,45-64,31
+17,24,24,Home / Non-institution,M,45-64,44
+17,24,24,Hospital,F,45-64,30
+17,24,24,Hospital,M,45-64,45
+17,24,24,Other institution,M,45-64,1
+17,25,25,Care Home,F,45-64,8
+17,25,25,Care Home,M,45-64,12
+17,25,25,Home / Non-institution,F,45-64,19
+17,25,25,Home / Non-institution,M,45-64,50
+17,25,25,Hospital,F,45-64,31
+17,25,25,Hospital,M,45-64,47
+17,26,26,Care Home,M,45-64,4
+17,26,26,Care Home,F,45-64,6
+17,26,26,Home / Non-institution,F,45-64,27
+17,26,26,Home / Non-institution,M,45-64,34
+17,26,26,Hospital,F,45-64,26
+17,26,26,Hospital,M,45-64,35
+17,26,26,Other institution,F,45-64,1
+17,26,26,Other institution,M,45-64,1
+17,27,27,Care Home,F,45-64,4
+17,27,27,Care Home,M,45-64,8
+17,27,27,Home / Non-institution,F,45-64,28
+17,27,27,Home / Non-institution,M,45-64,46
+17,27,27,Hospital,F,45-64,21
+17,27,27,Hospital,M,45-64,39
+17,27,27,Other institution,F,45-64,1
+17,28,28,Care Home,F,45-64,5
+17,28,28,Care Home,M,45-64,11
+17,28,28,Home / Non-institution,F,45-64,20
+17,28,28,Home / Non-institution,M,45-64,39
+17,28,28,Hospital,F,45-64,24
+17,28,28,Hospital,M,45-64,27
+17,28,28,Other institution,F,45-64,1
+17,29,29,Care Home,F,45-64,4
+17,29,29,Care Home,M,45-64,8
+17,29,29,Home / Non-institution,F,45-64,20
+17,29,29,Home / Non-institution,M,45-64,52
+17,29,29,Hospital,F,45-64,26
+17,29,29,Hospital,M,45-64,40
+17,30,30,Care Home,M,45-64,5
+17,30,30,Care Home,F,45-64,10
+17,30,30,Home / Non-institution,F,45-64,23
+17,30,30,Home / Non-institution,M,45-64,54
+17,30,30,Hospital,F,45-64,27
+17,30,30,Hospital,M,45-64,29
+17,31,31,Care Home,M,45-64,4
+17,31,31,Care Home,F,45-64,12
+17,31,31,Home / Non-institution,F,45-64,22
+17,31,31,Home / Non-institution,M,45-64,42
+17,31,31,Hospital,F,45-64,30
+17,31,31,Hospital,M,45-64,40
+17,31,31,Other institution,F,45-64,1
+17,32,32,Care Home,M,45-64,5
+17,32,32,Care Home,F,45-64,8
+17,32,32,Home / Non-institution,F,45-64,28
+17,32,32,Home / Non-institution,M,45-64,43
+17,32,32,Hospital,F,45-64,29
+17,32,32,Hospital,M,45-64,38
+17,32,32,Other institution,F,45-64,1
+17,33,33,Care Home,M,45-64,1
+17,33,33,Care Home,F,45-64,6
+17,33,33,Home / Non-institution,F,45-64,21
+17,33,33,Home / Non-institution,M,45-64,34
+17,33,33,Hospital,F,45-64,29
+17,33,33,Hospital,M,45-64,38
+17,33,33,Other institution,M,45-64,1
+17,34,34,Care Home,F,45-64,6
+17,34,34,Care Home,M,45-64,8
+17,34,34,Home / Non-institution,F,45-64,22
+17,34,34,Home / Non-institution,M,45-64,44
+17,34,34,Hospital,F,45-64,32
+17,34,34,Hospital,M,45-64,41
+17,35,35,Care Home,F,45-64,6
+17,35,35,Care Home,M,45-64,6
+17,35,35,Home / Non-institution,F,45-64,20
+17,35,35,Home / Non-institution,M,45-64,46
+17,35,35,Hospital,F,45-64,32
+17,35,35,Hospital,M,45-64,45
+17,36,36,Care Home,F,45-64,4
+17,36,36,Care Home,M,45-64,5
+17,36,36,Home / Non-institution,F,45-64,19
+17,36,36,Home / Non-institution,M,45-64,36
+17,36,36,Hospital,F,45-64,29
+17,36,36,Hospital,M,45-64,37
+17,36,36,Other institution,M,45-64,1
+17,37,37,Care Home,M,45-64,5
+17,37,37,Care Home,F,45-64,11
+17,37,37,Home / Non-institution,F,45-64,22
+17,37,37,Home / Non-institution,M,45-64,44
+17,37,37,Hospital,F,45-64,30
+17,37,37,Hospital,M,45-64,40
+17,37,37,Other institution,M,45-64,1
+17,38,38,Care Home,M,45-64,6
+17,38,38,Care Home,F,45-64,8
+17,38,38,Home / Non-institution,F,45-64,25
+17,38,38,Home / Non-institution,M,45-64,43
+17,38,38,Hospital,F,45-64,34
+17,38,38,Hospital,M,45-64,44
+17,38,38,Other institution,F,45-64,1
+17,39,39,Care Home,M,45-64,8
+17,39,39,Care Home,F,45-64,12
+17,39,39,Home / Non-institution,F,45-64,20
+17,39,39,Home / Non-institution,M,45-64,44
+17,39,39,Hospital,F,45-64,30
+17,39,39,Hospital,M,45-64,34
+17,39,39,Other institution,F,45-64,1
+17,40,40,Care Home,F,45-64,6
+17,40,40,Care Home,M,45-64,7
+17,40,40,Home / Non-institution,F,45-64,34
+17,40,40,Home / Non-institution,M,45-64,38
+17,40,40,Hospital,F,45-64,27
+17,40,40,Hospital,M,45-64,41
+17,40,40,Other institution,F,45-64,2
+17,41,41,Care Home,F,45-64,7
+17,41,41,Care Home,M,45-64,13
+17,41,41,Home / Non-institution,F,45-64,17
+17,41,41,Home / Non-institution,M,45-64,41
+17,41,41,Hospital,F,45-64,27
+17,41,41,Hospital,M,45-64,40
+17,41,41,Other institution,F,45-64,1
+17,42,42,Care Home,F,45-64,6
+17,42,42,Care Home,M,45-64,6
+17,42,42,Home / Non-institution,F,45-64,22
+17,42,42,Home / Non-institution,M,45-64,52
+17,42,42,Hospital,F,45-64,29
+17,42,42,Hospital,M,45-64,43
+17,43,43,Care Home,F,45-64,7
+17,43,43,Care Home,M,45-64,15
+17,43,43,Home / Non-institution,F,45-64,24
+17,43,43,Home / Non-institution,M,45-64,41
+17,43,43,Hospital,F,45-64,27
+17,43,43,Hospital,M,45-64,36
+17,43,43,Other institution,F,45-64,1
+17,44,44,Care Home,F,45-64,8
+17,44,44,Care Home,M,45-64,15
+17,44,44,Home / Non-institution,F,45-64,33
+17,44,44,Home / Non-institution,M,45-64,42
+17,44,44,Hospital,F,45-64,28
+17,44,44,Hospital,M,45-64,33
+17,45,45,Care Home,F,45-64,6
+17,45,45,Care Home,M,45-64,10
+17,45,45,Home / Non-institution,F,45-64,21
+17,45,45,Home / Non-institution,M,45-64,54
+17,45,45,Hospital,F,45-64,29
+17,45,45,Hospital,M,45-64,43
+17,46,46,Care Home,M,45-64,4
+17,46,46,Care Home,F,45-64,9
+17,46,46,Home / Non-institution,F,45-64,26
+17,46,46,Home / Non-institution,M,45-64,49
+17,46,46,Hospital,F,45-64,44
+17,46,46,Hospital,M,45-64,49
+17,46,46,Other institution,F,45-64,1
+17,47,47,Care Home,M,45-64,8
+17,47,47,Care Home,F,45-64,16
+17,47,47,Home / Non-institution,F,45-64,21
+17,47,47,Home / Non-institution,M,45-64,47
+17,47,47,Hospital,F,45-64,28
+17,47,47,Hospital,M,45-64,45
+17,47,47,Other institution,M,45-64,3
+17,48,48,Care Home,M,45-64,4
+17,48,48,Care Home,F,45-64,8
+17,48,48,Home / Non-institution,F,45-64,22
+17,48,48,Home / Non-institution,M,45-64,42
+17,48,48,Hospital,F,45-64,30
+17,48,48,Hospital,M,45-64,48
+17,48,48,Other institution,M,45-64,1
+17,49,49,Care Home,F,45-64,9
+17,49,49,Care Home,M,45-64,9
+17,49,49,Home / Non-institution,F,45-64,18
+17,49,49,Home / Non-institution,M,45-64,39
+17,49,49,Hospital,F,45-64,35
+17,49,49,Hospital,M,45-64,45
+17,50,50,Care Home,M,45-64,9
+17,50,50,Care Home,F,45-64,13
+17,50,50,Home / Non-institution,F,45-64,29
+17,50,50,Home / Non-institution,M,45-64,62
+17,50,50,Hospital,F,45-64,31
+17,50,50,Hospital,M,45-64,52
+17,50,50,Other institution,M,45-64,1
+17,51,51,Care Home,F,45-64,8
+17,51,51,Care Home,M,45-64,10
+17,51,51,Home / Non-institution,F,45-64,33
+17,51,51,Home / Non-institution,M,45-64,39
+17,51,51,Hospital,F,45-64,36
+17,51,51,Hospital,M,45-64,50
+17,52,52,Care Home,F,45-64,6
+17,52,52,Care Home,M,45-64,7
+17,52,52,Home / Non-institution,F,45-64,16
+17,52,52,Home / Non-institution,M,45-64,34
+17,52,52,Hospital,M,45-64,29
+17,52,52,Hospital,F,45-64,36
+18,1,53,Care Home,M,45-64,6
+18,1,53,Care Home,F,45-64,7
+18,1,53,Home / Non-institution,F,45-64,32
+18,1,53,Home / Non-institution,M,45-64,42
+18,1,53,Hospital,F,45-64,33
+18,1,53,Hospital,M,45-64,43
+18,1,53,Other institution,F,45-64,1
+18,2,54,Care Home,M,45-64,8
+18,2,54,Care Home,F,45-64,10
+18,2,54,Home / Non-institution,F,45-64,37
+18,2,54,Home / Non-institution,M,45-64,63
+18,2,54,Hospital,F,45-64,58
+18,2,54,Hospital,M,45-64,65
+18,3,55,Care Home,M,45-64,3
+18,3,55,Care Home,F,45-64,8
+18,3,55,Home / Non-institution,F,45-64,30
+18,3,55,Home / Non-institution,M,45-64,63
+18,3,55,Hospital,M,45-64,46
+18,3,55,Hospital,F,45-64,49
+18,4,56,Care Home,F,45-64,9
+18,4,56,Care Home,M,45-64,11
+18,4,56,Home / Non-institution,F,45-64,32
+18,4,56,Home / Non-institution,M,45-64,62
+18,4,56,Hospital,F,45-64,33
+18,4,56,Hospital,M,45-64,40
+18,5,57,Care Home,M,45-64,9
+18,5,57,Care Home,F,45-64,10
+18,5,57,Home / Non-institution,F,45-64,26
+18,5,57,Home / Non-institution,M,45-64,56
+18,5,57,Hospital,F,45-64,32
+18,5,57,Hospital,M,45-64,44
+18,5,57,Other institution,F,45-64,1
+18,5,57,Other institution,M,45-64,2
+18,6,58,Care Home,F,45-64,5
+18,6,58,Care Home,M,45-64,15
+18,6,58,Home / Non-institution,F,45-64,26
+18,6,58,Home / Non-institution,M,45-64,55
+18,6,58,Hospital,F,45-64,41
+18,6,58,Hospital,M,45-64,51
+18,7,59,Care Home,M,45-64,8
+18,7,59,Care Home,F,45-64,13
+18,7,59,Home / Non-institution,F,45-64,26
+18,7,59,Home / Non-institution,M,45-64,52
+18,7,59,Hospital,F,45-64,48
+18,7,59,Hospital,M,45-64,51
+18,8,60,Care Home,M,45-64,9
+18,8,60,Care Home,F,45-64,11
+18,8,60,Home / Non-institution,F,45-64,25
+18,8,60,Home / Non-institution,M,45-64,48
+18,8,60,Hospital,M,45-64,42
+18,8,60,Hospital,F,45-64,44
+18,9,61,Care Home,F,45-64,10
+18,9,61,Care Home,M,45-64,13
+18,9,61,Home / Non-institution,F,45-64,24
+18,9,61,Home / Non-institution,M,45-64,42
+18,9,61,Hospital,F,45-64,23
+18,9,61,Hospital,M,45-64,32
+18,9,61,Other institution,M,45-64,5
+18,10,62,Care Home,M,45-64,6
+18,10,62,Care Home,F,45-64,13
+18,10,62,Home / Non-institution,F,45-64,31
+18,10,62,Home / Non-institution,M,45-64,56
+18,10,62,Hospital,F,45-64,44
+18,10,62,Hospital,M,45-64,48
+18,11,63,Care Home,F,45-64,5
+18,11,63,Care Home,M,45-64,5
+18,11,63,Home / Non-institution,F,45-64,24
+18,11,63,Home / Non-institution,M,45-64,38
+18,11,63,Hospital,F,45-64,33
+18,11,63,Hospital,M,45-64,47
+18,12,64,Care Home,F,45-64,6
+18,12,64,Care Home,M,45-64,8
+18,12,64,Home / Non-institution,F,45-64,18
+18,12,64,Home / Non-institution,M,45-64,51
+18,12,64,Hospital,F,45-64,34
+18,12,64,Hospital,M,45-64,48
+18,12,64,Other institution,M,45-64,1
+18,13,65,Care Home,M,45-64,5
+18,13,65,Care Home,F,45-64,10
+18,13,65,Home / Non-institution,F,45-64,26
+18,13,65,Home / Non-institution,M,45-64,42
+18,13,65,Hospital,F,45-64,29
+18,13,65,Hospital,M,45-64,42
+18,14,66,Care Home,M,45-64,7
+18,14,66,Care Home,F,45-64,9
+18,14,66,Home / Non-institution,F,45-64,19
+18,14,66,Home / Non-institution,M,45-64,33
+18,14,66,Hospital,F,45-64,34
+18,14,66,Hospital,M,45-64,40
+18,15,67,Care Home,M,45-64,9
+18,15,67,Care Home,F,45-64,20
+18,15,67,Home / Non-institution,F,45-64,35
+18,15,67,Home / Non-institution,M,45-64,63
+18,15,67,Hospital,F,45-64,40
+18,15,67,Hospital,M,45-64,60
+18,15,67,Other institution,F,45-64,1
+18,16,68,Care Home,F,45-64,8
+18,16,68,Care Home,M,45-64,12
+18,16,68,Home / Non-institution,F,45-64,20
+18,16,68,Home / Non-institution,M,45-64,51
+18,16,68,Hospital,F,45-64,41
+18,16,68,Hospital,M,45-64,46
+18,16,68,Other institution,M,45-64,1
+18,17,69,Care Home,F,45-64,6
+18,17,69,Care Home,M,45-64,8
+18,17,69,Home / Non-institution,F,45-64,25
+18,17,69,Home / Non-institution,M,45-64,48
+18,17,69,Hospital,F,45-64,32
+18,17,69,Hospital,M,45-64,40
+18,17,69,Other institution,M,45-64,1
+18,18,70,Care Home,M,45-64,6
+18,18,70,Care Home,F,45-64,8
+18,18,70,Home / Non-institution,F,45-64,25
+18,18,70,Home / Non-institution,M,45-64,60
+18,18,70,Hospital,F,45-64,30
+18,18,70,Hospital,M,45-64,34
+18,18,70,Other institution,F,45-64,1
+18,19,71,Care Home,F,45-64,6
+18,19,71,Care Home,M,45-64,7
+18,19,71,Home / Non-institution,F,45-64,38
+18,19,71,Home / Non-institution,M,45-64,40
+18,19,71,Hospital,F,45-64,35
+18,19,71,Hospital,M,45-64,38
+18,19,71,Other institution,F,45-64,2
+18,20,72,Care Home,F,45-64,4
+18,20,72,Care Home,M,45-64,5
+18,20,72,Home / Non-institution,F,45-64,21
+18,20,72,Home / Non-institution,M,45-64,47
+18,20,72,Hospital,M,45-64,30
+18,20,72,Hospital,F,45-64,39
+18,20,72,Other institution,F,45-64,1
+18,20,72,Other institution,M,45-64,1
+18,21,73,Care Home,M,45-64,5
+18,21,73,Care Home,F,45-64,10
+18,21,73,Home / Non-institution,F,45-64,20
+18,21,73,Home / Non-institution,M,45-64,44
+18,21,73,Hospital,F,45-64,25
+18,21,73,Hospital,M,45-64,43
+18,22,74,Care Home,M,45-64,7
+18,22,74,Care Home,F,45-64,8
+18,22,74,Home / Non-institution,F,45-64,22
+18,22,74,Home / Non-institution,M,45-64,35
+18,22,74,Hospital,F,45-64,32
+18,22,74,Hospital,M,45-64,37
+18,23,75,Care Home,F,45-64,6
+18,23,75,Care Home,M,45-64,6
+18,23,75,Home / Non-institution,F,45-64,20
+18,23,75,Home / Non-institution,M,45-64,52
+18,23,75,Hospital,M,45-64,27
+18,23,75,Hospital,F,45-64,30
+18,23,75,Other institution,F,45-64,1
+18,23,75,Other institution,M,45-64,1
+18,24,76,Care Home,F,45-64,8
+18,24,76,Care Home,M,45-64,9
+18,24,76,Home / Non-institution,F,45-64,17
+18,24,76,Home / Non-institution,M,45-64,46
+18,24,76,Hospital,F,45-64,32
+18,24,76,Hospital,M,45-64,35
+18,24,76,Other institution,F,45-64,2
+18,25,77,Care Home,M,45-64,4
+18,25,77,Care Home,F,45-64,12
+18,25,77,Home / Non-institution,F,45-64,21
+18,25,77,Home / Non-institution,M,45-64,45
+18,25,77,Hospital,F,45-64,26
+18,25,77,Hospital,M,45-64,29
+18,26,78,Care Home,F,45-64,11
+18,26,78,Care Home,M,45-64,12
+18,26,78,Home / Non-institution,F,45-64,17
+18,26,78,Home / Non-institution,M,45-64,50
+18,26,78,Hospital,F,45-64,29
+18,26,78,Hospital,M,45-64,41
+18,27,79,Care Home,F,45-64,9
+18,27,79,Care Home,M,45-64,11
+18,27,79,Home / Non-institution,F,45-64,19
+18,27,79,Home / Non-institution,M,45-64,37
+18,27,79,Hospital,F,45-64,31
+18,27,79,Hospital,M,45-64,33
+18,28,80,Care Home,F,45-64,8
+18,28,80,Care Home,M,45-64,9
+18,28,80,Home / Non-institution,F,45-64,23
+18,28,80,Home / Non-institution,M,45-64,41
+18,28,80,Hospital,F,45-64,26
+18,28,80,Hospital,M,45-64,33
+18,28,80,Other institution,F,45-64,1
+18,29,81,Care Home,F,45-64,9
+18,29,81,Care Home,M,45-64,11
+18,29,81,Home / Non-institution,F,45-64,19
+18,29,81,Home / Non-institution,M,45-64,47
+18,29,81,Hospital,M,45-64,35
+18,29,81,Hospital,F,45-64,36
+18,30,82,Care Home,M,45-64,6
+18,30,82,Care Home,F,45-64,7
+18,30,82,Home / Non-institution,F,45-64,25
+18,30,82,Home / Non-institution,M,45-64,42
+18,30,82,Hospital,F,45-64,32
+18,30,82,Hospital,M,45-64,39
+18,31,83,Care Home,F,45-64,7
+18,31,83,Care Home,M,45-64,12
+18,31,83,Home / Non-institution,F,45-64,24
+18,31,83,Home / Non-institution,M,45-64,35
+18,31,83,Hospital,F,45-64,33
+18,31,83,Hospital,M,45-64,36
+18,31,83,Other institution,M,45-64,1
+18,32,84,Care Home,F,45-64,8
+18,32,84,Care Home,M,45-64,10
+18,32,84,Home / Non-institution,F,45-64,25
+18,32,84,Home / Non-institution,M,45-64,42
+18,32,84,Hospital,F,45-64,27
+18,32,84,Hospital,M,45-64,35
+18,32,84,Other institution,M,45-64,1
+18,33,85,Care Home,M,45-64,6
+18,33,85,Care Home,F,45-64,10
+18,33,85,Home / Non-institution,F,45-64,21
+18,33,85,Home / Non-institution,M,45-64,47
+18,33,85,Hospital,F,45-64,35
+18,33,85,Hospital,M,45-64,43
+18,33,85,Other institution,F,45-64,1
+18,34,86,Care Home,F,45-64,5
+18,34,86,Care Home,M,45-64,8
+18,34,86,Home / Non-institution,F,45-64,23
+18,34,86,Home / Non-institution,M,45-64,45
+18,34,86,Hospital,F,45-64,26
+18,34,86,Hospital,M,45-64,33
+18,35,87,Care Home,M,45-64,7
+18,35,87,Care Home,F,45-64,10
+18,35,87,Home / Non-institution,F,45-64,17
+18,35,87,Home / Non-institution,M,45-64,44
+18,35,87,Hospital,F,45-64,30
+18,35,87,Hospital,M,45-64,43
+18,36,88,Care Home,M,45-64,5
+18,36,88,Care Home,F,45-64,12
+18,36,88,Home / Non-institution,F,45-64,22
+18,36,88,Home / Non-institution,M,45-64,36
+18,36,88,Hospital,F,45-64,28
+18,36,88,Hospital,M,45-64,31
+18,37,89,Care Home,F,45-64,3
+18,37,89,Care Home,M,45-64,13
+18,37,89,Home / Non-institution,F,45-64,20
+18,37,89,Home / Non-institution,M,45-64,38
+18,37,89,Hospital,M,45-64,40
+18,37,89,Hospital,F,45-64,50
+18,37,89,Other institution,M,45-64,1
+18,38,90,Care Home,F,45-64,4
+18,38,90,Care Home,M,45-64,5
+18,38,90,Home / Non-institution,F,45-64,19
+18,38,90,Home / Non-institution,M,45-64,32
+18,38,90,Hospital,F,45-64,20
+18,38,90,Hospital,M,45-64,35
+18,38,90,Other institution,F,45-64,1
+18,39,91,Care Home,F,45-64,8
+18,39,91,Care Home,M,45-64,8
+18,39,91,Home / Non-institution,F,45-64,14
+18,39,91,Home / Non-institution,M,45-64,38
+18,39,91,Hospital,M,45-64,31
+18,39,91,Hospital,F,45-64,39
+18,39,91,Other institution,M,45-64,1
+18,40,92,Care Home,F,45-64,7
+18,40,92,Care Home,M,45-64,16
+18,40,92,Home / Non-institution,F,45-64,26
+18,40,92,Home / Non-institution,M,45-64,50
+18,40,92,Hospital,F,45-64,27
+18,40,92,Hospital,M,45-64,56
+18,41,93,Care Home,M,45-64,7
+18,41,93,Care Home,F,45-64,8
+18,41,93,Home / Non-institution,F,45-64,18
+18,41,93,Home / Non-institution,M,45-64,30
+18,41,93,Hospital,M,45-64,30
+18,41,93,Hospital,F,45-64,35
+18,42,94,Care Home,M,45-64,9
+18,42,94,Care Home,F,45-64,12
+18,42,94,Home / Non-institution,F,45-64,13
+18,42,94,Home / Non-institution,M,45-64,39
+18,42,94,Hospital,F,45-64,29
+18,42,94,Hospital,M,45-64,43
+18,42,94,Other institution,F,45-64,1
+18,43,95,Care Home,M,45-64,10
+18,43,95,Care Home,F,45-64,11
+18,43,95,Home / Non-institution,F,45-64,28
+18,43,95,Home / Non-institution,M,45-64,40
+18,43,95,Hospital,M,45-64,26
+18,43,95,Hospital,F,45-64,34
+18,43,95,Other institution,M,45-64,1
+18,43,95,Other institution,F,45-64,3
+18,44,96,Care Home,M,45-64,6
+18,44,96,Care Home,F,45-64,9
+18,44,96,Home / Non-institution,F,45-64,21
+18,44,96,Home / Non-institution,M,45-64,41
+18,44,96,Hospital,F,45-64,42
+18,44,96,Hospital,M,45-64,48
+18,45,97,Care Home,F,45-64,9
+18,45,97,Care Home,M,45-64,20
+18,45,97,Home / Non-institution,F,45-64,26
+18,45,97,Home / Non-institution,M,45-64,45
+18,45,97,Hospital,F,45-64,30
+18,45,97,Hospital,M,45-64,35
+18,45,97,Other institution,M,45-64,1
+18,46,98,Care Home,F,45-64,5
+18,46,98,Care Home,M,45-64,10
+18,46,98,Home / Non-institution,F,45-64,29
+18,46,98,Home / Non-institution,M,45-64,36
+18,46,98,Hospital,F,45-64,23
+18,46,98,Hospital,M,45-64,37
+18,46,98,Other institution,M,45-64,1
+18,46,98,Other institution,F,45-64,3
+18,47,99,Care Home,F,45-64,2
+18,47,99,Care Home,M,45-64,8
+18,47,99,Home / Non-institution,F,45-64,23
+18,47,99,Home / Non-institution,M,45-64,43
+18,47,99,Hospital,F,45-64,33
+18,47,99,Hospital,M,45-64,40
+18,47,99,Other institution,F,45-64,1
+18,47,99,Other institution,M,45-64,1
+18,48,100,Care Home,F,45-64,6
+18,48,100,Care Home,M,45-64,11
+18,48,100,Home / Non-institution,F,45-64,19
+18,48,100,Home / Non-institution,M,45-64,49
+18,48,100,Hospital,F,45-64,29
+18,48,100,Hospital,M,45-64,48
+18,48,100,Other institution,F,45-64,2
+18,49,101,Care Home,M,45-64,5
+18,49,101,Care Home,F,45-64,7
+18,49,101,Home / Non-institution,F,45-64,18
+18,49,101,Home / Non-institution,M,45-64,45
+18,49,101,Hospital,F,45-64,31
+18,49,101,Hospital,M,45-64,39
+18,49,101,Other institution,F,45-64,1
+18,50,102,Care Home,M,45-64,6
+18,50,102,Care Home,F,45-64,10
+18,50,102,Home / Non-institution,F,45-64,28
+18,50,102,Home / Non-institution,M,45-64,41
+18,50,102,Hospital,F,45-64,37
+18,50,102,Hospital,M,45-64,44
+18,50,102,Other institution,M,45-64,1
+18,51,103,Care Home,M,45-64,7
+18,51,103,Care Home,F,45-64,10
+18,51,103,Home / Non-institution,F,45-64,23
+18,51,103,Home / Non-institution,M,45-64,50
+18,51,103,Hospital,M,45-64,35
+18,51,103,Hospital,F,45-64,37
+18,51,103,Other institution,F,45-64,1
+18,52,104,Care Home,F,45-64,8
+18,52,104,Care Home,M,45-64,9
+18,52,104,Home / Non-institution,F,45-64,18
+18,52,104,Home / Non-institution,M,45-64,42
+18,52,104,Hospital,F,45-64,24
+18,52,104,Hospital,M,45-64,41
+17,1,1,Care Home,M,65-74,14
+17,1,1,Care Home,F,65-74,18
+17,1,1,Home / Non-institution,F,65-74,17
+17,1,1,Home / Non-institution,M,65-74,31
+17,1,1,Hospital,F,65-74,51
+17,1,1,Hospital,M,65-74,67
+17,2,2,Care Home,F,65-74,10
+17,2,2,Care Home,M,65-74,14
+17,2,2,Home / Non-institution,F,65-74,24
+17,2,2,Home / Non-institution,M,65-74,36
+17,2,2,Hospital,F,65-74,48
+17,2,2,Hospital,M,65-74,80
+17,2,2,Other institution,F,65-74,1
+17,3,3,Care Home,M,65-74,10
+17,3,3,Care Home,F,65-74,13
+17,3,3,Home / Non-institution,F,65-74,18
+17,3,3,Home / Non-institution,M,65-74,45
+17,3,3,Hospital,F,65-74,53
+17,3,3,Hospital,M,65-74,62
+17,4,4,Care Home,M,65-74,10
+17,4,4,Care Home,F,65-74,15
+17,4,4,Home / Non-institution,F,65-74,25
+17,4,4,Home / Non-institution,M,65-74,48
+17,4,4,Hospital,F,65-74,55
+17,4,4,Hospital,M,65-74,59
+17,5,5,Care Home,F,65-74,13
+17,5,5,Care Home,M,65-74,17
+17,5,5,Home / Non-institution,F,65-74,31
+17,5,5,Home / Non-institution,M,65-74,31
+17,5,5,Hospital,F,65-74,56
+17,5,5,Hospital,M,65-74,68
+17,5,5,Other institution,M,65-74,1
+17,6,6,Care Home,M,65-74,9
+17,6,6,Care Home,F,65-74,15
+17,6,6,Home / Non-institution,F,65-74,26
+17,6,6,Home / Non-institution,M,65-74,41
+17,6,6,Hospital,F,65-74,58
+17,6,6,Hospital,M,65-74,61
+17,7,7,Care Home,F,65-74,13
+17,7,7,Care Home,M,65-74,13
+17,7,7,Home / Non-institution,F,65-74,33
+17,7,7,Home / Non-institution,M,65-74,47
+17,7,7,Hospital,M,65-74,61
+17,7,7,Hospital,F,65-74,64
+17,8,8,Care Home,F,65-74,10
+17,8,8,Care Home,M,65-74,12
+17,8,8,Home / Non-institution,F,65-74,32
+17,8,8,Home / Non-institution,M,65-74,35
+17,8,8,Hospital,M,65-74,57
+17,8,8,Hospital,F,65-74,61
+17,9,9,Care Home,M,65-74,9
+17,9,9,Care Home,F,65-74,18
+17,9,9,Home / Non-institution,F,65-74,31
+17,9,9,Home / Non-institution,M,65-74,52
+17,9,9,Hospital,F,65-74,53
+17,9,9,Hospital,M,65-74,68
+17,9,9,Other institution,F,65-74,1
+17,9,9,Other institution,M,65-74,1
+17,10,10,Care Home,M,65-74,12
+17,10,10,Care Home,F,65-74,17
+17,10,10,Home / Non-institution,F,65-74,24
+17,10,10,Home / Non-institution,M,65-74,26
+17,10,10,Hospital,F,65-74,48
+17,10,10,Hospital,M,65-74,68
+17,11,11,Care Home,F,65-74,6
+17,11,11,Care Home,M,65-74,19
+17,11,11,Home / Non-institution,F,65-74,33
+17,11,11,Home / Non-institution,M,65-74,41
+17,11,11,Hospital,F,65-74,55
+17,11,11,Hospital,M,65-74,61
+17,11,11,Other institution,M,65-74,1
+17,12,12,Care Home,F,65-74,12
+17,12,12,Care Home,M,65-74,20
+17,12,12,Home / Non-institution,F,65-74,24
+17,12,12,Home / Non-institution,M,65-74,48
+17,12,12,Hospital,F,65-74,42
+17,12,12,Hospital,M,65-74,58
+17,12,12,Other institution,F,65-74,3
+17,13,13,Care Home,F,65-74,12
+17,13,13,Care Home,M,65-74,14
+17,13,13,Home / Non-institution,F,65-74,26
+17,13,13,Home / Non-institution,M,65-74,43
+17,13,13,Hospital,F,65-74,47
+17,13,13,Hospital,M,65-74,75
+17,13,13,Other institution,F,65-74,1
+17,13,13,Other institution,M,65-74,1
+17,14,14,Care Home,F,65-74,12
+17,14,14,Care Home,M,65-74,16
+17,14,14,Home / Non-institution,F,65-74,25
+17,14,14,Home / Non-institution,M,65-74,30
+17,14,14,Hospital,F,65-74,57
+17,14,14,Hospital,M,65-74,62
+17,14,14,Other institution,F,65-74,1
+17,15,15,Care Home,F,65-74,10
+17,15,15,Care Home,M,65-74,14
+17,15,15,Home / Non-institution,F,65-74,23
+17,15,15,Home / Non-institution,M,65-74,38
+17,15,15,Hospital,F,65-74,37
+17,15,15,Hospital,M,65-74,51
+17,16,16,Care Home,F,65-74,5
+17,16,16,Care Home,M,65-74,12
+17,16,16,Home / Non-institution,F,65-74,27
+17,16,16,Home / Non-institution,M,65-74,54
+17,16,16,Hospital,F,65-74,43
+17,16,16,Hospital,M,65-74,69
+17,16,16,Other institution,F,65-74,2
+17,17,17,Care Home,F,65-74,10
+17,17,17,Care Home,M,65-74,18
+17,17,17,Home / Non-institution,F,65-74,28
+17,17,17,Home / Non-institution,M,65-74,38
+17,17,17,Hospital,M,65-74,54
+17,17,17,Hospital,F,65-74,60
+17,18,18,Care Home,F,65-74,14
+17,18,18,Care Home,M,65-74,14
+17,18,18,Home / Non-institution,F,65-74,25
+17,18,18,Home / Non-institution,M,65-74,41
+17,18,18,Hospital,F,65-74,55
+17,18,18,Hospital,M,65-74,58
+17,19,19,Care Home,F,65-74,8
+17,19,19,Care Home,M,65-74,12
+17,19,19,Home / Non-institution,F,65-74,23
+17,19,19,Home / Non-institution,M,65-74,41
+17,19,19,Hospital,F,65-74,56
+17,19,19,Hospital,M,65-74,60
+17,19,19,Other institution,F,65-74,1
+17,20,20,Care Home,M,65-74,16
+17,20,20,Care Home,F,65-74,17
+17,20,20,Home / Non-institution,F,65-74,31
+17,20,20,Home / Non-institution,M,65-74,40
+17,20,20,Hospital,F,65-74,57
+17,20,20,Hospital,M,65-74,59
+17,21,21,Care Home,F,65-74,11
+17,21,21,Care Home,M,65-74,17
+17,21,21,Home / Non-institution,F,65-74,20
+17,21,21,Home / Non-institution,M,65-74,37
+17,21,21,Hospital,F,65-74,52
+17,21,21,Hospital,M,65-74,54
+17,22,22,Care Home,F,65-74,15
+17,22,22,Care Home,M,65-74,22
+17,22,22,Home / Non-institution,F,65-74,19
+17,22,22,Home / Non-institution,M,65-74,30
+17,22,22,Hospital,F,65-74,48
+17,22,22,Hospital,M,65-74,53
+17,23,23,Care Home,F,65-74,15
+17,23,23,Care Home,M,65-74,17
+17,23,23,Home / Non-institution,F,65-74,23
+17,23,23,Home / Non-institution,M,65-74,35
+17,23,23,Hospital,F,65-74,52
+17,23,23,Hospital,M,65-74,55
+17,23,23,Other institution,F,65-74,1
+17,24,24,Care Home,M,65-74,13
+17,24,24,Care Home,F,65-74,16
+17,24,24,Home / Non-institution,F,65-74,23
+17,24,24,Home / Non-institution,M,65-74,37
+17,24,24,Hospital,F,65-74,37
+17,24,24,Hospital,M,65-74,60
+17,24,24,Other institution,F,65-74,1
+17,25,25,Care Home,F,65-74,12
+17,25,25,Care Home,M,65-74,13
+17,25,25,Home / Non-institution,F,65-74,23
+17,25,25,Home / Non-institution,M,65-74,41
+17,25,25,Hospital,F,65-74,46
+17,25,25,Hospital,M,65-74,64
+17,26,26,Care Home,F,65-74,13
+17,26,26,Care Home,M,65-74,14
+17,26,26,Home / Non-institution,F,65-74,21
+17,26,26,Home / Non-institution,M,65-74,50
+17,26,26,Hospital,F,65-74,40
+17,26,26,Hospital,M,65-74,62
+17,26,26,Other institution,M,65-74,1
+17,26,26,Other institution,F,65-74,2
+17,27,27,Care Home,F,65-74,8
+17,27,27,Care Home,M,65-74,9
+17,27,27,Home / Non-institution,F,65-74,22
+17,27,27,Home / Non-institution,M,65-74,44
+17,27,27,Hospital,F,65-74,49
+17,27,27,Hospital,M,65-74,64
+17,28,28,Care Home,M,65-74,9
+17,28,28,Care Home,F,65-74,14
+17,28,28,Home / Non-institution,F,65-74,23
+17,28,28,Home / Non-institution,M,65-74,34
+17,28,28,Hospital,F,65-74,42
+17,28,28,Hospital,M,65-74,58
+17,28,28,Other institution,M,65-74,1
+17,29,29,Care Home,M,65-74,7
+17,29,29,Care Home,F,65-74,17
+17,29,29,Home / Non-institution,F,65-74,27
+17,29,29,Home / Non-institution,M,65-74,37
+17,29,29,Hospital,F,65-74,48
+17,29,29,Hospital,M,65-74,60
+17,29,29,Other institution,F,65-74,1
+17,30,30,Care Home,F,65-74,3
+17,30,30,Care Home,M,65-74,10
+17,30,30,Home / Non-institution,F,65-74,19
+17,30,30,Home / Non-institution,M,65-74,27
+17,30,30,Hospital,F,65-74,42
+17,30,30,Hospital,M,65-74,56
+17,30,30,Other institution,M,65-74,1
+17,31,31,Care Home,F,65-74,10
+17,31,31,Care Home,M,65-74,16
+17,31,31,Home / Non-institution,F,65-74,21
+17,31,31,Home / Non-institution,M,65-74,41
+17,31,31,Hospital,M,65-74,48
+17,31,31,Hospital,F,65-74,53
+17,31,31,Other institution,F,65-74,1
+17,32,32,Care Home,F,65-74,12
+17,32,32,Care Home,M,65-74,12
+17,32,32,Home / Non-institution,F,65-74,16
+17,32,32,Home / Non-institution,M,65-74,30
+17,32,32,Hospital,F,65-74,48
+17,32,32,Hospital,M,65-74,52
+17,33,33,Care Home,M,65-74,14
+17,33,33,Care Home,F,65-74,16
+17,33,33,Home / Non-institution,F,65-74,21
+17,33,33,Home / Non-institution,M,65-74,30
+17,33,33,Hospital,M,65-74,49
+17,33,33,Hospital,F,65-74,55
+17,34,34,Care Home,F,65-74,8
+17,34,34,Care Home,M,65-74,15
+17,34,34,Home / Non-institution,F,65-74,29
+17,34,34,Home / Non-institution,M,65-74,37
+17,34,34,Hospital,M,65-74,48
+17,34,34,Hospital,F,65-74,50
+17,35,35,Care Home,F,65-74,9
+17,35,35,Care Home,M,65-74,9
+17,35,35,Home / Non-institution,F,65-74,27
+17,35,35,Home / Non-institution,M,65-74,32
+17,35,35,Hospital,F,65-74,49
+17,35,35,Hospital,M,65-74,55
+17,35,35,Other institution,F,65-74,1
+17,35,35,Other institution,M,65-74,1
+17,36,36,Care Home,F,65-74,9
+17,36,36,Care Home,M,65-74,12
+17,36,36,Home / Non-institution,F,65-74,23
+17,36,36,Home / Non-institution,M,65-74,35
+17,36,36,Hospital,F,65-74,46
+17,36,36,Hospital,M,65-74,71
+17,36,36,Other institution,M,65-74,1
+17,37,37,Care Home,M,65-74,10
+17,37,37,Care Home,F,65-74,14
+17,37,37,Home / Non-institution,F,65-74,20
+17,37,37,Home / Non-institution,M,65-74,36
+17,37,37,Hospital,F,65-74,36
+17,37,37,Hospital,M,65-74,60
+17,37,37,Other institution,M,65-74,1
+17,37,37,Other institution,F,65-74,2
+17,38,38,Care Home,F,65-74,11
+17,38,38,Care Home,M,65-74,15
+17,38,38,Home / Non-institution,F,65-74,21
+17,38,38,Home / Non-institution,M,65-74,37
+17,38,38,Hospital,F,65-74,45
+17,38,38,Hospital,M,65-74,72
+17,39,39,Care Home,F,65-74,9
+17,39,39,Care Home,M,65-74,14
+17,39,39,Home / Non-institution,F,65-74,26
+17,39,39,Home / Non-institution,M,65-74,29
+17,39,39,Hospital,F,65-74,34
+17,39,39,Hospital,M,65-74,68
+17,39,39,Other institution,M,65-74,1
+17,40,40,Care Home,M,65-74,10
+17,40,40,Care Home,F,65-74,13
+17,40,40,Home / Non-institution,F,65-74,23
+17,40,40,Home / Non-institution,M,65-74,40
+17,40,40,Hospital,F,65-74,51
+17,40,40,Hospital,M,65-74,61
+17,40,40,Other institution,M,65-74,1
+17,41,41,Care Home,M,65-74,11
+17,41,41,Care Home,F,65-74,13
+17,41,41,Home / Non-institution,F,65-74,24
+17,41,41,Home / Non-institution,M,65-74,44
+17,41,41,Hospital,F,65-74,46
+17,41,41,Hospital,M,65-74,75
+17,41,41,Other institution,F,65-74,1
+17,41,41,Other institution,M,65-74,1
+17,42,42,Care Home,M,65-74,12
+17,42,42,Care Home,F,65-74,20
+17,42,42,Home / Non-institution,F,65-74,18
+17,42,42,Home / Non-institution,M,65-74,40
+17,42,42,Hospital,F,65-74,45
+17,42,42,Hospital,M,65-74,62
+17,42,42,Other institution,F,65-74,1
+17,42,42,Other institution,M,65-74,1
+17,43,43,Care Home,F,65-74,8
+17,43,43,Care Home,M,65-74,14
+17,43,43,Home / Non-institution,F,65-74,22
+17,43,43,Home / Non-institution,M,65-74,48
+17,43,43,Hospital,F,65-74,46
+17,43,43,Hospital,M,65-74,60
+17,44,44,Care Home,F,65-74,12
+17,44,44,Care Home,M,65-74,14
+17,44,44,Home / Non-institution,F,65-74,31
+17,44,44,Home / Non-institution,M,65-74,43
+17,44,44,Hospital,F,65-74,38
+17,44,44,Hospital,M,65-74,67
+17,44,44,Other institution,M,65-74,1
+17,45,45,Care Home,F,65-74,10
+17,45,45,Care Home,M,65-74,15
+17,45,45,Home / Non-institution,F,65-74,24
+17,45,45,Home / Non-institution,M,65-74,48
+17,45,45,Hospital,F,65-74,57
+17,45,45,Hospital,M,65-74,80
+17,45,45,Other institution,F,65-74,1
+17,45,45,Other institution,M,65-74,1
+17,46,46,Care Home,F,65-74,18
+17,46,46,Care Home,M,65-74,20
+17,46,46,Home / Non-institution,M,65-74,23
+17,46,46,Home / Non-institution,F,65-74,25
+17,46,46,Hospital,F,65-74,46
+17,46,46,Hospital,M,65-74,72
+17,46,46,Other institution,F,65-74,2
+17,47,47,Care Home,M,65-74,7
+17,47,47,Care Home,F,65-74,13
+17,47,47,Home / Non-institution,F,65-74,29
+17,47,47,Home / Non-institution,M,65-74,48
+17,47,47,Hospital,F,65-74,48
+17,47,47,Hospital,M,65-74,53
+17,47,47,Other institution,F,65-74,1
+17,47,47,Other institution,M,65-74,1
+17,48,48,Care Home,M,65-74,19
+17,48,48,Care Home,F,65-74,22
+17,48,48,Home / Non-institution,F,65-74,22
+17,48,48,Home / Non-institution,M,65-74,49
+17,48,48,Hospital,F,65-74,44
+17,48,48,Hospital,M,65-74,67
+17,49,49,Care Home,F,65-74,17
+17,49,49,Care Home,M,65-74,19
+17,49,49,Home / Non-institution,F,65-74,26
+17,49,49,Home / Non-institution,M,65-74,48
+17,49,49,Hospital,F,65-74,60
+17,49,49,Hospital,M,65-74,67
+17,50,50,Care Home,F,65-74,12
+17,50,50,Care Home,M,65-74,14
+17,50,50,Home / Non-institution,F,65-74,23
+17,50,50,Home / Non-institution,M,65-74,35
+17,50,50,Hospital,F,65-74,42
+17,50,50,Hospital,M,65-74,82
+17,50,50,Other institution,M,65-74,1
+17,50,50,Other institution,F,65-74,2
+17,51,51,Care Home,F,65-74,14
+17,51,51,Care Home,M,65-74,15
+17,51,51,Home / Non-institution,F,65-74,43
+17,51,51,Home / Non-institution,M,65-74,52
+17,51,51,Hospital,F,65-74,56
+17,51,51,Hospital,M,65-74,72
+17,51,51,Other institution,M,65-74,1
+17,52,52,Care Home,F,65-74,16
+17,52,52,Care Home,M,65-74,20
+17,52,52,Home / Non-institution,F,65-74,19
+17,52,52,Home / Non-institution,M,65-74,28
+17,52,52,Hospital,F,65-74,51
+17,52,52,Hospital,M,65-74,58
+17,52,52,Other institution,F,65-74,1
+18,1,53,Care Home,M,65-74,8
+18,1,53,Care Home,F,65-74,16
+18,1,53,Home / Non-institution,F,65-74,43
+18,1,53,Home / Non-institution,M,65-74,53
+18,1,53,Hospital,M,65-74,67
+18,1,53,Hospital,F,65-74,74
+18,1,53,Other institution,F,65-74,4
+18,2,54,Care Home,F,65-74,17
+18,2,54,Care Home,M,65-74,26
+18,2,54,Home / Non-institution,F,65-74,40
+18,2,54,Home / Non-institution,M,65-74,64
+18,2,54,Hospital,F,65-74,86
+18,2,54,Hospital,M,65-74,95
+18,2,54,Other institution,F,65-74,2
+18,2,54,Other institution,M,65-74,2
+18,3,55,Care Home,F,65-74,23
+18,3,55,Care Home,M,65-74,26
+18,3,55,Home / Non-institution,F,65-74,30
+18,3,55,Home / Non-institution,M,65-74,47
+18,3,55,Hospital,M,65-74,63
+18,3,55,Hospital,F,65-74,77
+18,3,55,Other institution,M,65-74,2
+18,4,56,Care Home,F,65-74,10
+18,4,56,Care Home,M,65-74,19
+18,4,56,Home / Non-institution,F,65-74,45
+18,4,56,Home / Non-institution,M,65-74,45
+18,4,56,Hospital,F,65-74,70
+18,4,56,Hospital,M,65-74,86
+18,4,56,Other institution,F,65-74,1
+18,5,57,Care Home,F,65-74,11
+18,5,57,Care Home,M,65-74,17
+18,5,57,Home / Non-institution,F,65-74,35
+18,5,57,Home / Non-institution,M,65-74,46
+18,5,57,Hospital,M,65-74,78
+18,5,57,Hospital,F,65-74,79
+18,5,57,Other institution,F,65-74,2
+18,6,58,Care Home,F,65-74,13
+18,6,58,Care Home,M,65-74,21
+18,6,58,Home / Non-institution,F,65-74,30
+18,6,58,Home / Non-institution,M,65-74,42
+18,6,58,Hospital,F,65-74,51
+18,6,58,Hospital,M,65-74,56
+18,7,59,Care Home,F,65-74,8
+18,7,59,Care Home,M,65-74,16
+18,7,59,Home / Non-institution,F,65-74,26
+18,7,59,Home / Non-institution,M,65-74,53
+18,7,59,Hospital,M,65-74,61
+18,7,59,Hospital,F,65-74,73
+18,7,59,Other institution,F,65-74,1
+18,7,59,Other institution,M,65-74,1
+18,8,60,Care Home,F,65-74,17
+18,8,60,Care Home,M,65-74,18
+18,8,60,Home / Non-institution,F,65-74,27
+18,8,60,Home / Non-institution,M,65-74,35
+18,8,60,Hospital,F,65-74,58
+18,8,60,Hospital,M,65-74,61
+18,8,60,Other institution,M,65-74,1
+18,8,60,Other institution,F,65-74,2
+18,9,61,Care Home,F,65-74,13
+18,9,61,Care Home,M,65-74,15
+18,9,61,Home / Non-institution,F,65-74,32
+18,9,61,Home / Non-institution,M,65-74,33
+18,9,61,Hospital,F,65-74,40
+18,9,61,Hospital,M,65-74,51
+18,10,62,Care Home,F,65-74,17
+18,10,62,Care Home,M,65-74,21
+18,10,62,Home / Non-institution,F,65-74,31
+18,10,62,Home / Non-institution,M,65-74,56
+18,10,62,Hospital,F,65-74,70
+18,10,62,Hospital,M,65-74,81
+18,11,63,Care Home,F,65-74,14
+18,11,63,Care Home,M,65-74,18
+18,11,63,Home / Non-institution,F,65-74,25
+18,11,63,Home / Non-institution,M,65-74,32
+18,11,63,Hospital,F,65-74,49
+18,11,63,Hospital,M,65-74,60
+18,11,63,Other institution,F,65-74,1
+18,12,64,Care Home,F,65-74,18
+18,12,64,Care Home,M,65-74,19
+18,12,64,Home / Non-institution,F,65-74,21
+18,12,64,Home / Non-institution,M,65-74,34
+18,12,64,Hospital,F,65-74,49
+18,12,64,Hospital,M,65-74,63
+18,13,65,Care Home,M,65-74,15
+18,13,65,Care Home,F,65-74,17
+18,13,65,Home / Non-institution,F,65-74,25
+18,13,65,Home / Non-institution,M,65-74,39
+18,13,65,Hospital,F,65-74,43
+18,13,65,Hospital,M,65-74,54
+18,14,66,Care Home,F,65-74,11
+18,14,66,Care Home,M,65-74,18
+18,14,66,Home / Non-institution,F,65-74,23
+18,14,66,Home / Non-institution,M,65-74,37
+18,14,66,Hospital,F,65-74,55
+18,14,66,Hospital,M,65-74,66
+18,14,66,Other institution,F,65-74,1
+18,14,66,Other institution,M,65-74,1
+18,15,67,Care Home,M,65-74,15
+18,15,67,Care Home,F,65-74,19
+18,15,67,Home / Non-institution,F,65-74,32
+18,15,67,Home / Non-institution,M,65-74,45
+18,15,67,Hospital,F,65-74,51
+18,15,67,Hospital,M,65-74,73
+18,15,67,Other institution,F,65-74,1
+18,16,68,Care Home,F,65-74,12
+18,16,68,Care Home,M,65-74,12
+18,16,68,Home / Non-institution,F,65-74,26
+18,16,68,Home / Non-institution,M,65-74,44
+18,16,68,Hospital,F,65-74,50
+18,16,68,Hospital,M,65-74,54
+18,17,69,Care Home,M,65-74,11
+18,17,69,Care Home,F,65-74,17
+18,17,69,Home / Non-institution,F,65-74,28
+18,17,69,Home / Non-institution,M,65-74,37
+18,17,69,Hospital,F,65-74,44
+18,17,69,Hospital,M,65-74,54
+18,18,70,Care Home,F,65-74,10
+18,18,70,Care Home,M,65-74,20
+18,18,70,Home / Non-institution,F,65-74,29
+18,18,70,Home / Non-institution,M,65-74,56
+18,18,70,Hospital,F,65-74,39
+18,18,70,Hospital,M,65-74,55
+18,18,70,Other institution,M,65-74,1
+18,19,71,Care Home,F,65-74,13
+18,19,71,Care Home,M,65-74,17
+18,19,71,Home / Non-institution,F,65-74,20
+18,19,71,Home / Non-institution,M,65-74,36
+18,19,71,Hospital,F,65-74,44
+18,19,71,Hospital,M,65-74,51
+18,19,71,Other institution,M,65-74,1
+18,20,72,Care Home,M,65-74,9
+18,20,72,Care Home,F,65-74,11
+18,20,72,Home / Non-institution,F,65-74,32
+18,20,72,Home / Non-institution,M,65-74,46
+18,20,72,Hospital,F,65-74,43
+18,20,72,Hospital,M,65-74,61
+18,20,72,Other institution,F,65-74,1
+18,21,73,Care Home,F,65-74,10
+18,21,73,Care Home,M,65-74,12
+18,21,73,Home / Non-institution,F,65-74,27
+18,21,73,Home / Non-institution,M,65-74,39
+18,21,73,Hospital,M,65-74,53
+18,21,73,Hospital,F,65-74,55
+18,21,73,Other institution,M,65-74,1
+18,22,74,Care Home,F,65-74,10
+18,22,74,Care Home,M,65-74,14
+18,22,74,Home / Non-institution,F,65-74,29
+18,22,74,Home / Non-institution,M,65-74,33
+18,22,74,Hospital,F,65-74,47
+18,22,74,Hospital,M,65-74,60
+18,22,74,Other institution,M,65-74,1
+18,22,74,Other institution,F,65-74,2
+18,23,75,Care Home,M,65-74,9
+18,23,75,Care Home,F,65-74,10
+18,23,75,Home / Non-institution,F,65-74,23
+18,23,75,Home / Non-institution,M,65-74,51
+18,23,75,Hospital,F,65-74,37
+18,23,75,Hospital,M,65-74,54
+18,23,75,Other institution,F,65-74,1
+18,23,75,Other institution,M,65-74,1
+18,24,76,Care Home,F,65-74,13
+18,24,76,Care Home,M,65-74,14
+18,24,76,Home / Non-institution,F,65-74,17
+18,24,76,Home / Non-institution,M,65-74,38
+18,24,76,Hospital,F,65-74,30
+18,24,76,Hospital,M,65-74,55
+18,24,76,Other institution,F,65-74,1
+18,24,76,Other institution,M,65-74,1
+18,25,77,Care Home,F,65-74,9
+18,25,77,Care Home,M,65-74,15
+18,25,77,Home / Non-institution,F,65-74,24
+18,25,77,Home / Non-institution,M,65-74,33
+18,25,77,Hospital,F,65-74,49
+18,25,77,Hospital,M,65-74,58
+18,26,78,Care Home,M,65-74,14
+18,26,78,Care Home,F,65-74,19
+18,26,78,Home / Non-institution,F,65-74,17
+18,26,78,Home / Non-institution,M,65-74,41
+18,26,78,Hospital,F,65-74,51
+18,26,78,Hospital,M,65-74,71
+18,27,79,Care Home,M,65-74,12
+18,27,79,Care Home,F,65-74,17
+18,27,79,Home / Non-institution,F,65-74,34
+18,27,79,Home / Non-institution,M,65-74,38
+18,27,79,Hospital,F,65-74,52
+18,27,79,Hospital,M,65-74,58
+18,27,79,Other institution,M,65-74,1
+18,27,79,Other institution,F,65-74,2
+18,28,80,Care Home,F,65-74,12
+18,28,80,Care Home,M,65-74,12
+18,28,80,Home / Non-institution,F,65-74,28
+18,28,80,Home / Non-institution,M,65-74,42
+18,28,80,Hospital,F,65-74,40
+18,28,80,Hospital,M,65-74,63
+18,29,81,Care Home,M,65-74,10
+18,29,81,Care Home,F,65-74,12
+18,29,81,Home / Non-institution,F,65-74,21
+18,29,81,Home / Non-institution,M,65-74,39
+18,29,81,Hospital,M,65-74,43
+18,29,81,Hospital,F,65-74,49
+18,29,81,Other institution,M,65-74,1
+18,30,82,Care Home,F,65-74,14
+18,30,82,Care Home,M,65-74,17
+18,30,82,Home / Non-institution,F,65-74,17
+18,30,82,Home / Non-institution,M,65-74,29
+18,30,82,Hospital,F,65-74,42
+18,30,82,Hospital,M,65-74,50
+18,31,83,Care Home,F,65-74,12
+18,31,83,Care Home,M,65-74,15
+18,31,83,Home / Non-institution,F,65-74,26
+18,31,83,Home / Non-institution,M,65-74,37
+18,31,83,Hospital,F,65-74,46
+18,31,83,Hospital,M,65-74,65
+18,31,83,Other institution,F,65-74,1
+18,31,83,Other institution,M,65-74,1
+18,32,84,Care Home,M,65-74,7
+18,32,84,Care Home,F,65-74,16
+18,32,84,Home / Non-institution,F,65-74,23
+18,32,84,Home / Non-institution,M,65-74,25
+18,32,84,Hospital,F,65-74,39
+18,32,84,Hospital,M,65-74,67
+18,32,84,Other institution,M,65-74,2
+18,33,85,Care Home,M,65-74,13
+18,33,85,Care Home,F,65-74,15
+18,33,85,Home / Non-institution,F,65-74,24
+18,33,85,Home / Non-institution,M,65-74,28
+18,33,85,Hospital,F,65-74,39
+18,33,85,Hospital,M,65-74,60
+18,33,85,Other institution,F,65-74,1
+18,34,86,Care Home,F,65-74,9
+18,34,86,Care Home,M,65-74,14
+18,34,86,Home / Non-institution,F,65-74,24
+18,34,86,Home / Non-institution,M,65-74,24
+18,34,86,Hospital,F,65-74,44
+18,34,86,Hospital,M,65-74,53
+18,35,87,Care Home,F,65-74,5
+18,35,87,Care Home,M,65-74,15
+18,35,87,Home / Non-institution,F,65-74,27
+18,35,87,Home / Non-institution,M,65-74,30
+18,35,87,Hospital,F,65-74,37
+18,35,87,Hospital,M,65-74,47
+18,36,88,Care Home,F,65-74,8
+18,36,88,Care Home,M,65-74,12
+18,36,88,Home / Non-institution,F,65-74,19
+18,36,88,Home / Non-institution,M,65-74,27
+18,36,88,Hospital,F,65-74,48
+18,36,88,Hospital,M,65-74,61
+18,36,88,Other institution,M,65-74,2
+18,37,89,Care Home,M,65-74,10
+18,37,89,Care Home,F,65-74,11
+18,37,89,Home / Non-institution,F,65-74,29
+18,37,89,Home / Non-institution,M,65-74,44
+18,37,89,Hospital,M,65-74,48
+18,37,89,Hospital,F,65-74,55
+18,38,90,Care Home,F,65-74,8
+18,38,90,Care Home,M,65-74,9
+18,38,90,Home / Non-institution,F,65-74,19
+18,38,90,Home / Non-institution,M,65-74,40
+18,38,90,Hospital,F,65-74,37
+18,38,90,Hospital,M,65-74,61
+18,39,91,Care Home,F,65-74,10
+18,39,91,Care Home,M,65-74,18
+18,39,91,Home / Non-institution,F,65-74,18
+18,39,91,Home / Non-institution,M,65-74,38
+18,39,91,Hospital,F,65-74,34
+18,39,91,Hospital,M,65-74,60
+18,40,92,Care Home,F,65-74,8
+18,40,92,Care Home,M,65-74,12
+18,40,92,Home / Non-institution,F,65-74,18
+18,40,92,Home / Non-institution,M,65-74,32
+18,40,92,Hospital,F,65-74,43
+18,40,92,Hospital,M,65-74,62
+18,41,93,Care Home,F,65-74,9
+18,41,93,Care Home,M,65-74,16
+18,41,93,Home / Non-institution,F,65-74,15
+18,41,93,Home / Non-institution,M,65-74,34
+18,41,93,Hospital,F,65-74,44
+18,41,93,Hospital,M,65-74,68
+18,42,94,Care Home,F,65-74,10
+18,42,94,Care Home,M,65-74,10
+18,42,94,Home / Non-institution,F,65-74,29
+18,42,94,Home / Non-institution,M,65-74,34
+18,42,94,Hospital,F,65-74,39
+18,42,94,Hospital,M,65-74,55
+18,43,95,Care Home,M,65-74,10
+18,43,95,Care Home,F,65-74,11
+18,43,95,Home / Non-institution,F,65-74,15
+18,43,95,Home / Non-institution,M,65-74,36
+18,43,95,Hospital,F,65-74,46
+18,43,95,Hospital,M,65-74,56
+18,43,95,Other institution,F,65-74,1
+18,43,95,Other institution,M,65-74,1
+18,44,96,Care Home,F,65-74,16
+18,44,96,Care Home,M,65-74,16
+18,44,96,Home / Non-institution,F,65-74,26
+18,44,96,Home / Non-institution,M,65-74,46
+18,44,96,Hospital,F,65-74,46
+18,44,96,Hospital,M,65-74,58
+18,44,96,Other institution,F,65-74,1
+18,44,96,Other institution,M,65-74,1
+18,45,97,Care Home,F,65-74,11
+18,45,97,Care Home,M,65-74,17
+18,45,97,Home / Non-institution,F,65-74,28
+18,45,97,Home / Non-institution,M,65-74,45
+18,45,97,Hospital,F,65-74,50
+18,45,97,Hospital,M,65-74,60
+18,46,98,Care Home,F,65-74,15
+18,46,98,Care Home,M,65-74,15
+18,46,98,Home / Non-institution,F,65-74,26
+18,46,98,Home / Non-institution,M,65-74,48
+18,46,98,Hospital,F,65-74,49
+18,46,98,Hospital,M,65-74,56
+18,46,98,Other institution,F,65-74,1
+18,47,99,Care Home,M,65-74,13
+18,47,99,Care Home,F,65-74,17
+18,47,99,Home / Non-institution,M,65-74,31
+18,47,99,Home / Non-institution,F,65-74,36
+18,47,99,Hospital,F,65-74,39
+18,47,99,Hospital,M,65-74,62
+18,47,99,Other institution,F,65-74,1
+18,48,100,Care Home,F,65-74,14
+18,48,100,Care Home,M,65-74,17
+18,48,100,Home / Non-institution,F,65-74,27
+18,48,100,Home / Non-institution,M,65-74,43
+18,48,100,Hospital,F,65-74,53
+18,48,100,Hospital,M,65-74,70
+18,49,101,Care Home,M,65-74,15
+18,49,101,Care Home,F,65-74,16
+18,49,101,Home / Non-institution,F,65-74,19
+18,49,101,Home / Non-institution,M,65-74,40
+18,49,101,Hospital,F,65-74,46
+18,49,101,Hospital,M,65-74,47
+18,49,101,Other institution,M,65-74,1
+18,50,102,Care Home,F,65-74,14
+18,50,102,Care Home,M,65-74,15
+18,50,102,Home / Non-institution,F,65-74,28
+18,50,102,Home / Non-institution,M,65-74,41
+18,50,102,Hospital,F,65-74,55
+18,50,102,Hospital,M,65-74,74
+18,50,102,Other institution,F,65-74,1
+18,51,103,Care Home,F,65-74,16
+18,51,103,Care Home,M,65-74,16
+18,51,103,Home / Non-institution,F,65-74,32
+18,51,103,Home / Non-institution,M,65-74,52
+18,51,103,Hospital,M,65-74,62
+18,51,103,Hospital,F,65-74,64
+18,52,104,Care Home,M,65-74,10
+18,52,104,Care Home,F,65-74,14
+18,52,104,Home / Non-institution,F,65-74,19
+18,52,104,Home / Non-institution,M,65-74,34
+18,52,104,Hospital,F,65-74,50
+18,52,104,Hospital,M,65-74,58
+17,1,1,Care Home,M,75-84,37
+17,1,1,Care Home,F,75-84,44
+17,1,1,Home / Non-institution,M,75-84,38
+17,1,1,Home / Non-institution,F,75-84,43
+17,1,1,Hospital,M,75-84,98
+17,1,1,Hospital,F,75-84,99
+17,1,1,Other institution,F,75-84,1
+17,1,1,Other institution,M,75-84,1
+17,2,2,Care Home,F,75-84,45
+17,2,2,Care Home,M,75-84,48
+17,2,2,Home / Non-institution,F,75-84,50
+17,2,2,Home / Non-institution,M,75-84,54
+17,2,2,Hospital,M,75-84,102
+17,2,2,Hospital,F,75-84,112
+17,2,2,Other institution,F,75-84,2
+17,2,2,Other institution,M,75-84,2
+17,3,3,Care Home,M,75-84,30
+17,3,3,Care Home,F,75-84,57
+17,3,3,Home / Non-institution,F,75-84,42
+17,3,3,Home / Non-institution,M,75-84,51
+17,3,3,Hospital,M,75-84,98
+17,3,3,Hospital,F,75-84,99
+17,4,4,Care Home,M,75-84,30
+17,4,4,Care Home,F,75-84,38
+17,4,4,Home / Non-institution,F,75-84,40
+17,4,4,Home / Non-institution,M,75-84,50
+17,4,4,Hospital,F,75-84,83
+17,4,4,Hospital,M,75-84,101
+17,4,4,Other institution,F,75-84,1
+17,4,4,Other institution,M,75-84,1
+17,5,5,Care Home,M,75-84,44
+17,5,5,Care Home,F,75-84,59
+17,5,5,Home / Non-institution,M,75-84,41
+17,5,5,Home / Non-institution,F,75-84,43
+17,5,5,Hospital,M,75-84,94
+17,5,5,Hospital,F,75-84,111
+17,5,5,Other institution,M,75-84,1
+17,6,6,Care Home,M,75-84,30
+17,6,6,Care Home,F,75-84,47
+17,6,6,Home / Non-institution,F,75-84,35
+17,6,6,Home / Non-institution,M,75-84,42
+17,6,6,Hospital,F,75-84,97
+17,6,6,Hospital,M,75-84,102
+17,7,7,Care Home,M,75-84,33
+17,7,7,Care Home,F,75-84,41
+17,7,7,Home / Non-institution,F,75-84,39
+17,7,7,Home / Non-institution,M,75-84,45
+17,7,7,Hospital,M,75-84,100
+17,7,7,Hospital,F,75-84,119
+17,7,7,Other institution,M,75-84,1
+17,8,8,Care Home,M,75-84,34
+17,8,8,Care Home,F,75-84,39
+17,8,8,Home / Non-institution,F,75-84,46
+17,8,8,Home / Non-institution,M,75-84,50
+17,8,8,Hospital,F,75-84,93
+17,8,8,Hospital,M,75-84,113
+17,8,8,Other institution,M,75-84,1
+17,9,9,Care Home,M,75-84,33
+17,9,9,Care Home,F,75-84,45
+17,9,9,Home / Non-institution,F,75-84,32
+17,9,9,Home / Non-institution,M,75-84,32
+17,9,9,Hospital,M,75-84,91
+17,9,9,Hospital,F,75-84,112
+17,9,9,Other institution,F,75-84,2
+17,10,10,Care Home,M,75-84,36
+17,10,10,Care Home,F,75-84,39
+17,10,10,Home / Non-institution,M,75-84,36
+17,10,10,Home / Non-institution,F,75-84,40
+17,10,10,Hospital,M,75-84,91
+17,10,10,Hospital,F,75-84,92
+17,10,10,Other institution,F,75-84,2
+17,10,10,Other institution,M,75-84,2
+17,11,11,Care Home,M,75-84,30
+17,11,11,Care Home,F,75-84,41
+17,11,11,Home / Non-institution,M,75-84,26
+17,11,11,Home / Non-institution,F,75-84,40
+17,11,11,Hospital,M,75-84,95
+17,11,11,Hospital,F,75-84,102
+17,12,12,Care Home,F,75-84,31
+17,12,12,Care Home,M,75-84,41
+17,12,12,Home / Non-institution,F,75-84,37
+17,12,12,Home / Non-institution,M,75-84,44
+17,12,12,Hospital,F,75-84,90
+17,12,12,Hospital,M,75-84,94
+17,12,12,Other institution,F,75-84,1
+17,12,12,Other institution,M,75-84,1
+17,13,13,Care Home,M,75-84,44
+17,13,13,Care Home,F,75-84,48
+17,13,13,Home / Non-institution,F,75-84,26
+17,13,13,Home / Non-institution,M,75-84,46
+17,13,13,Hospital,F,75-84,91
+17,13,13,Hospital,M,75-84,104
+17,14,14,Care Home,M,75-84,21
+17,14,14,Care Home,F,75-84,37
+17,14,14,Home / Non-institution,F,75-84,41
+17,14,14,Home / Non-institution,M,75-84,45
+17,14,14,Hospital,F,75-84,67
+17,14,14,Hospital,M,75-84,88
+17,15,15,Care Home,M,75-84,29
+17,15,15,Care Home,F,75-84,40
+17,15,15,Home / Non-institution,F,75-84,30
+17,15,15,Home / Non-institution,M,75-84,39
+17,15,15,Hospital,M,75-84,74
+17,15,15,Hospital,F,75-84,83
+17,15,15,Other institution,F,75-84,1
+17,15,15,Other institution,M,75-84,1
+17,16,16,Care Home,M,75-84,28
+17,16,16,Care Home,F,75-84,29
+17,16,16,Home / Non-institution,F,75-84,33
+17,16,16,Home / Non-institution,M,75-84,51
+17,16,16,Hospital,F,75-84,92
+17,16,16,Hospital,M,75-84,107
+17,17,17,Care Home,M,75-84,34
+17,17,17,Care Home,F,75-84,41
+17,17,17,Home / Non-institution,F,75-84,32
+17,17,17,Home / Non-institution,M,75-84,37
+17,17,17,Hospital,F,75-84,92
+17,17,17,Hospital,M,75-84,95
+17,17,17,Other institution,M,75-84,1
+17,18,18,Care Home,M,75-84,30
+17,18,18,Care Home,F,75-84,43
+17,18,18,Home / Non-institution,F,75-84,36
+17,18,18,Home / Non-institution,M,75-84,42
+17,18,18,Hospital,F,75-84,66
+17,18,18,Hospital,M,75-84,85
+17,19,19,Care Home,M,75-84,20
+17,19,19,Care Home,F,75-84,32
+17,19,19,Home / Non-institution,F,75-84,31
+17,19,19,Home / Non-institution,M,75-84,47
+17,19,19,Hospital,F,75-84,92
+17,19,19,Hospital,M,75-84,101
+17,20,20,Care Home,M,75-84,31
+17,20,20,Care Home,F,75-84,50
+17,20,20,Home / Non-institution,F,75-84,40
+17,20,20,Home / Non-institution,M,75-84,43
+17,20,20,Hospital,F,75-84,90
+17,20,20,Hospital,M,75-84,95
+17,21,21,Care Home,M,75-84,26
+17,21,21,Care Home,F,75-84,29
+17,21,21,Home / Non-institution,F,75-84,32
+17,21,21,Home / Non-institution,M,75-84,45
+17,21,21,Hospital,M,75-84,88
+17,21,21,Hospital,F,75-84,96
+17,21,21,Other institution,F,75-84,1
+17,21,21,Other institution,M,75-84,1
+17,22,22,Care Home,M,75-84,34
+17,22,22,Care Home,F,75-84,43
+17,22,22,Home / Non-institution,F,75-84,25
+17,22,22,Home / Non-institution,M,75-84,40
+17,22,22,Hospital,M,75-84,68
+17,22,22,Hospital,F,75-84,75
+17,22,22,Other institution,F,75-84,2
+17,23,23,Care Home,M,75-84,28
+17,23,23,Care Home,F,75-84,44
+17,23,23,Home / Non-institution,M,75-84,43
+17,23,23,Home / Non-institution,F,75-84,46
+17,23,23,Hospital,F,75-84,69
+17,23,23,Hospital,M,75-84,72
+17,23,23,Other institution,M,75-84,2
+17,24,24,Care Home,M,75-84,28
+17,24,24,Care Home,F,75-84,38
+17,24,24,Home / Non-institution,F,75-84,32
+17,24,24,Home / Non-institution,M,75-84,42
+17,24,24,Hospital,M,75-84,75
+17,24,24,Hospital,F,75-84,84
+17,25,25,Care Home,F,75-84,29
+17,25,25,Care Home,M,75-84,35
+17,25,25,Home / Non-institution,F,75-84,27
+17,25,25,Home / Non-institution,M,75-84,42
+17,25,25,Hospital,F,75-84,79
+17,25,25,Hospital,M,75-84,88
+17,25,25,Other institution,F,75-84,2
+17,26,26,Care Home,M,75-84,19
+17,26,26,Care Home,F,75-84,39
+17,26,26,Home / Non-institution,F,75-84,39
+17,26,26,Home / Non-institution,M,75-84,42
+17,26,26,Hospital,F,75-84,83
+17,26,26,Hospital,M,75-84,83
+17,26,26,Other institution,F,75-84,1
+17,27,27,Care Home,M,75-84,34
+17,27,27,Care Home,F,75-84,35
+17,27,27,Home / Non-institution,F,75-84,31
+17,27,27,Home / Non-institution,M,75-84,47
+17,27,27,Hospital,F,75-84,78
+17,27,27,Hospital,M,75-84,103
+17,27,27,Other institution,F,75-84,1
+17,28,28,Care Home,M,75-84,30
+17,28,28,Care Home,F,75-84,36
+17,28,28,Home / Non-institution,F,75-84,36
+17,28,28,Home / Non-institution,M,75-84,37
+17,28,28,Hospital,M,75-84,93
+17,28,28,Hospital,F,75-84,94
+17,28,28,Other institution,M,75-84,1
+17,29,29,Care Home,F,75-84,29
+17,29,29,Care Home,M,75-84,29
+17,29,29,Home / Non-institution,F,75-84,34
+17,29,29,Home / Non-institution,M,75-84,37
+17,29,29,Hospital,F,75-84,79
+17,29,29,Hospital,M,75-84,105
+17,29,29,Other institution,M,75-84,1
+17,30,30,Care Home,M,75-84,32
+17,30,30,Care Home,F,75-84,35
+17,30,30,Home / Non-institution,F,75-84,32
+17,30,30,Home / Non-institution,M,75-84,49
+17,30,30,Hospital,F,75-84,69
+17,30,30,Hospital,M,75-84,85
+17,30,30,Other institution,F,75-84,1
+17,30,30,Other institution,M,75-84,2
+17,31,31,Care Home,M,75-84,20
+17,31,31,Care Home,F,75-84,46
+17,31,31,Home / Non-institution,F,75-84,24
+17,31,31,Home / Non-institution,M,75-84,40
+17,31,31,Hospital,F,75-84,85
+17,31,31,Hospital,M,75-84,88
+17,32,32,Care Home,M,75-84,18
+17,32,32,Care Home,F,75-84,33
+17,32,32,Home / Non-institution,F,75-84,34
+17,32,32,Home / Non-institution,M,75-84,35
+17,32,32,Hospital,M,75-84,79
+17,32,32,Hospital,F,75-84,88
+17,32,32,Other institution,F,75-84,1
+17,32,32,Other institution,M,75-84,2
+17,33,33,Care Home,M,75-84,21
+17,33,33,Care Home,F,75-84,38
+17,33,33,Home / Non-institution,F,75-84,38
+17,33,33,Home / Non-institution,M,75-84,40
+17,33,33,Hospital,F,75-84,83
+17,33,33,Hospital,M,75-84,101
+17,33,33,Other institution,F,75-84,1
+17,33,33,Other institution,M,75-84,2
+17,34,34,Care Home,M,75-84,24
+17,34,34,Care Home,F,75-84,37
+17,34,34,Home / Non-institution,M,75-84,35
+17,34,34,Home / Non-institution,F,75-84,44
+17,34,34,Hospital,F,75-84,76
+17,34,34,Hospital,M,75-84,96
+17,35,35,Care Home,M,75-84,25
+17,35,35,Care Home,F,75-84,38
+17,35,35,Home / Non-institution,F,75-84,31
+17,35,35,Home / Non-institution,M,75-84,42
+17,35,35,Hospital,F,75-84,70
+17,35,35,Hospital,M,75-84,74
+17,35,35,Other institution,F,75-84,2
+17,36,36,Care Home,M,75-84,36
+17,36,36,Care Home,F,75-84,46
+17,36,36,Home / Non-institution,F,75-84,28
+17,36,36,Home / Non-institution,M,75-84,38
+17,36,36,Hospital,F,75-84,87
+17,36,36,Hospital,M,75-84,91
+17,36,36,Other institution,F,75-84,2
+17,37,37,Care Home,F,75-84,32
+17,37,37,Care Home,M,75-84,34
+17,37,37,Home / Non-institution,F,75-84,35
+17,37,37,Home / Non-institution,M,75-84,39
+17,37,37,Hospital,F,75-84,72
+17,37,37,Hospital,M,75-84,81
+17,38,38,Care Home,M,75-84,29
+17,38,38,Care Home,F,75-84,35
+17,38,38,Home / Non-institution,F,75-84,31
+17,38,38,Home / Non-institution,M,75-84,51
+17,38,38,Hospital,M,75-84,77
+17,38,38,Hospital,F,75-84,79
+17,39,39,Care Home,M,75-84,30
+17,39,39,Care Home,F,75-84,36
+17,39,39,Home / Non-institution,F,75-84,37
+17,39,39,Home / Non-institution,M,75-84,39
+17,39,39,Hospital,M,75-84,92
+17,39,39,Hospital,F,75-84,101
+17,40,40,Care Home,F,75-84,35
+17,40,40,Care Home,M,75-84,37
+17,40,40,Home / Non-institution,F,75-84,23
+17,40,40,Home / Non-institution,M,75-84,51
+17,40,40,Hospital,F,75-84,72
+17,40,40,Hospital,M,75-84,77
+17,40,40,Other institution,F,75-84,1
+17,40,40,Other institution,M,75-84,1
+17,41,41,Care Home,M,75-84,35
+17,41,41,Care Home,F,75-84,46
+17,41,41,Home / Non-institution,M,75-84,42
+17,41,41,Home / Non-institution,F,75-84,49
+17,41,41,Hospital,F,75-84,79
+17,41,41,Hospital,M,75-84,102
+17,41,41,Other institution,M,75-84,1
+17,42,42,Care Home,M,75-84,26
+17,42,42,Care Home,F,75-84,39
+17,42,42,Home / Non-institution,M,75-84,39
+17,42,42,Home / Non-institution,F,75-84,44
+17,42,42,Hospital,M,75-84,81
+17,42,42,Hospital,F,75-84,85
+17,42,42,Other institution,M,75-84,1
+17,43,43,Care Home,M,75-84,34
+17,43,43,Care Home,F,75-84,45
+17,43,43,Home / Non-institution,F,75-84,35
+17,43,43,Home / Non-institution,M,75-84,40
+17,43,43,Hospital,M,75-84,91
+17,43,43,Hospital,F,75-84,92
+17,43,43,Other institution,F,75-84,2
+17,44,44,Care Home,M,75-84,25
+17,44,44,Care Home,F,75-84,42
+17,44,44,Home / Non-institution,F,75-84,36
+17,44,44,Home / Non-institution,M,75-84,45
+17,44,44,Hospital,F,75-84,79
+17,44,44,Hospital,M,75-84,91
+17,44,44,Other institution,M,75-84,1
+17,44,44,Other institution,F,75-84,2
+17,45,45,Care Home,M,75-84,22
+17,45,45,Care Home,F,75-84,42
+17,45,45,Home / Non-institution,M,75-84,31
+17,45,45,Home / Non-institution,F,75-84,32
+17,45,45,Hospital,F,75-84,78
+17,45,45,Hospital,M,75-84,96
+17,45,45,Other institution,F,75-84,1
+17,45,45,Other institution,M,75-84,1
+17,46,46,Care Home,M,75-84,40
+17,46,46,Care Home,F,75-84,41
+17,46,46,Home / Non-institution,F,75-84,38
+17,46,46,Home / Non-institution,M,75-84,46
+17,46,46,Hospital,F,75-84,81
+17,46,46,Hospital,M,75-84,114
+17,46,46,Other institution,F,75-84,1
+17,46,46,Other institution,M,75-84,1
+17,47,47,Care Home,M,75-84,35
+17,47,47,Care Home,F,75-84,44
+17,47,47,Home / Non-institution,F,75-84,40
+17,47,47,Home / Non-institution,M,75-84,43
+17,47,47,Hospital,F,75-84,94
+17,47,47,Hospital,M,75-84,108
+17,48,48,Care Home,M,75-84,37
+17,48,48,Care Home,F,75-84,53
+17,48,48,Home / Non-institution,F,75-84,34
+17,48,48,Home / Non-institution,M,75-84,46
+17,48,48,Hospital,F,75-84,69
+17,48,48,Hospital,M,75-84,105
+17,48,48,Other institution,F,75-84,1
+17,48,48,Other institution,M,75-84,1
+17,49,49,Care Home,M,75-84,31
+17,49,49,Care Home,F,75-84,45
+17,49,49,Home / Non-institution,F,75-84,48
+17,49,49,Home / Non-institution,M,75-84,55
+17,49,49,Hospital,F,75-84,88
+17,49,49,Hospital,M,75-84,98
+17,49,49,Other institution,F,75-84,1
+17,50,50,Care Home,M,75-84,43
+17,50,50,Care Home,F,75-84,47
+17,50,50,Home / Non-institution,F,75-84,49
+17,50,50,Home / Non-institution,M,75-84,54
+17,50,50,Hospital,M,75-84,92
+17,50,50,Hospital,F,75-84,115
+17,50,50,Other institution,F,75-84,1
+17,50,50,Other institution,M,75-84,1
+17,51,51,Care Home,M,75-84,32
+17,51,51,Care Home,F,75-84,68
+17,51,51,Home / Non-institution,F,75-84,49
+17,51,51,Home / Non-institution,M,75-84,66
+17,51,51,Hospital,F,75-84,102
+17,51,51,Hospital,M,75-84,113
+17,51,51,Other institution,F,75-84,1
+17,52,52,Care Home,F,75-84,37
+17,52,52,Care Home,M,75-84,49
+17,52,52,Home / Non-institution,F,75-84,35
+17,52,52,Home / Non-institution,M,75-84,41
+17,52,52,Hospital,F,75-84,89
+17,52,52,Hospital,M,75-84,98
+17,52,52,Other institution,F,75-84,1
+17,52,52,Other institution,M,75-84,1
+18,1,53,Care Home,M,75-84,44
+18,1,53,Care Home,F,75-84,62
+18,1,53,Home / Non-institution,F,75-84,53
+18,1,53,Home / Non-institution,M,75-84,60
+18,1,53,Hospital,M,75-84,109
+18,1,53,Hospital,F,75-84,149
+18,1,53,Other institution,M,75-84,1
+18,1,53,Other institution,F,75-84,2
+18,2,54,Care Home,M,75-84,43
+18,2,54,Care Home,F,75-84,63
+18,2,54,Home / Non-institution,F,75-84,63
+18,2,54,Home / Non-institution,M,75-84,77
+18,2,54,Hospital,M,75-84,139
+18,2,54,Hospital,F,75-84,160
+18,2,54,Other institution,F,75-84,1
+18,2,54,Other institution,M,75-84,1
+18,3,55,Care Home,M,75-84,57
+18,3,55,Care Home,F,75-84,62
+18,3,55,Home / Non-institution,F,75-84,43
+18,3,55,Home / Non-institution,M,75-84,55
+18,3,55,Hospital,M,75-84,128
+18,3,55,Hospital,F,75-84,133
+18,3,55,Other institution,F,75-84,1
+18,3,55,Other institution,M,75-84,2
+18,4,56,Care Home,M,75-84,47
+18,4,56,Care Home,F,75-84,64
+18,4,56,Home / Non-institution,F,75-84,42
+18,4,56,Home / Non-institution,M,75-84,57
+18,4,56,Hospital,M,75-84,131
+18,4,56,Hospital,F,75-84,136
+18,4,56,Other institution,F,75-84,2
+18,5,57,Care Home,M,75-84,36
+18,5,57,Care Home,F,75-84,48
+18,5,57,Home / Non-institution,F,75-84,40
+18,5,57,Home / Non-institution,M,75-84,49
+18,5,57,Hospital,F,75-84,91
+18,5,57,Hospital,M,75-84,112
+18,5,57,Other institution,M,75-84,1
+18,5,57,Other institution,F,75-84,2
+18,6,58,Care Home,M,75-84,26
+18,6,58,Care Home,F,75-84,42
+18,6,58,Home / Non-institution,F,75-84,38
+18,6,58,Home / Non-institution,M,75-84,56
+18,6,58,Hospital,F,75-84,99
+18,6,58,Hospital,M,75-84,105
+18,6,58,Other institution,F,75-84,1
+18,7,59,Care Home,F,75-84,37
+18,7,59,Care Home,M,75-84,48
+18,7,59,Home / Non-institution,F,75-84,47
+18,7,59,Home / Non-institution,M,75-84,60
+18,7,59,Hospital,F,75-84,93
+18,7,59,Hospital,M,75-84,101
+18,7,59,Other institution,M,75-84,3
+18,8,60,Care Home,M,75-84,29
+18,8,60,Care Home,F,75-84,45
+18,8,60,Home / Non-institution,M,75-84,43
+18,8,60,Home / Non-institution,F,75-84,51
+18,8,60,Hospital,M,75-84,98
+18,8,60,Hospital,F,75-84,111
+18,8,60,Other institution,M,75-84,1
+18,9,61,Care Home,F,75-84,36
+18,9,61,Care Home,M,75-84,36
+18,9,61,Home / Non-institution,F,75-84,29
+18,9,61,Home / Non-institution,M,75-84,44
+18,9,61,Hospital,F,75-84,72
+18,9,61,Hospital,M,75-84,75
+18,10,62,Care Home,M,75-84,36
+18,10,62,Care Home,F,75-84,52
+18,10,62,Home / Non-institution,F,75-84,49
+18,10,62,Home / Non-institution,M,75-84,60
+18,10,62,Hospital,F,75-84,111
+18,10,62,Hospital,M,75-84,121
+18,10,62,Other institution,F,75-84,2
+18,11,63,Care Home,M,75-84,36
+18,11,63,Care Home,F,75-84,42
+18,11,63,Home / Non-institution,F,75-84,46
+18,11,63,Home / Non-institution,M,75-84,55
+18,11,63,Hospital,F,75-84,93
+18,11,63,Hospital,M,75-84,114
+18,11,63,Other institution,M,75-84,1
+18,12,64,Care Home,M,75-84,32
+18,12,64,Care Home,F,75-84,43
+18,12,64,Home / Non-institution,F,75-84,38
+18,12,64,Home / Non-institution,M,75-84,41
+18,12,64,Hospital,F,75-84,98
+18,12,64,Hospital,M,75-84,105
+18,12,64,Other institution,M,75-84,1
+18,12,64,Other institution,F,75-84,2
+18,13,65,Care Home,M,75-84,19
+18,13,65,Care Home,F,75-84,39
+18,13,65,Home / Non-institution,F,75-84,32
+18,13,65,Home / Non-institution,M,75-84,42
+18,13,65,Hospital,F,75-84,79
+18,13,65,Hospital,M,75-84,94
+18,13,65,Other institution,F,75-84,1
+18,13,65,Other institution,M,75-84,1
+18,14,66,Care Home,M,75-84,33
+18,14,66,Care Home,F,75-84,50
+18,14,66,Home / Non-institution,F,75-84,39
+18,14,66,Home / Non-institution,M,75-84,40
+18,14,66,Hospital,F,75-84,93
+18,14,66,Hospital,M,75-84,118
+18,14,66,Other institution,F,75-84,2
+18,15,67,Care Home,M,75-84,31
+18,15,67,Care Home,F,75-84,33
+18,15,67,Home / Non-institution,F,75-84,30
+18,15,67,Home / Non-institution,M,75-84,33
+18,15,67,Hospital,F,75-84,87
+18,15,67,Hospital,M,75-84,99
+18,15,67,Other institution,F,75-84,1
+18,16,68,Care Home,M,75-84,33
+18,16,68,Care Home,F,75-84,44
+18,16,68,Home / Non-institution,F,75-84,31
+18,16,68,Home / Non-institution,M,75-84,55
+18,16,68,Hospital,M,75-84,86
+18,16,68,Hospital,F,75-84,99
+18,16,68,Other institution,F,75-84,2
+18,17,69,Care Home,M,75-84,22
+18,17,69,Care Home,F,75-84,42
+18,17,69,Home / Non-institution,F,75-84,30
+18,17,69,Home / Non-institution,M,75-84,32
+18,17,69,Hospital,F,75-84,75
+18,17,69,Hospital,M,75-84,91
+18,18,70,Care Home,M,75-84,33
+18,18,70,Care Home,F,75-84,37
+18,18,70,Home / Non-institution,F,75-84,29
+18,18,70,Home / Non-institution,M,75-84,49
+18,18,70,Hospital,M,75-84,85
+18,18,70,Hospital,F,75-84,89
+18,18,70,Other institution,F,75-84,1
+18,19,71,Care Home,M,75-84,28
+18,19,71,Care Home,F,75-84,33
+18,19,71,Home / Non-institution,F,75-84,32
+18,19,71,Home / Non-institution,M,75-84,40
+18,19,71,Hospital,M,75-84,71
+18,19,71,Hospital,F,75-84,73
+18,19,71,Other institution,F,75-84,1
+18,20,72,Care Home,M,75-84,26
+18,20,72,Care Home,F,75-84,31
+18,20,72,Home / Non-institution,F,75-84,25
+18,20,72,Home / Non-institution,M,75-84,34
+18,20,72,Hospital,F,75-84,70
+18,20,72,Hospital,M,75-84,82
+18,20,72,Other institution,F,75-84,1
+18,21,73,Care Home,F,75-84,35
+18,21,73,Care Home,M,75-84,42
+18,21,73,Home / Non-institution,M,75-84,26
+18,21,73,Home / Non-institution,F,75-84,43
+18,21,73,Hospital,M,75-84,87
+18,21,73,Hospital,F,75-84,89
+18,21,73,Other institution,M,75-84,1
+18,21,73,Other institution,F,75-84,2
+18,22,74,Care Home,M,75-84,23
+18,22,74,Care Home,F,75-84,32
+18,22,74,Home / Non-institution,F,75-84,30
+18,22,74,Home / Non-institution,M,75-84,43
+18,22,74,Hospital,F,75-84,81
+18,22,74,Hospital,M,75-84,83
+18,23,75,Care Home,M,75-84,30
+18,23,75,Care Home,F,75-84,42
+18,23,75,Home / Non-institution,F,75-84,38
+18,23,75,Home / Non-institution,M,75-84,48
+18,23,75,Hospital,F,75-84,78
+18,23,75,Hospital,M,75-84,103
+18,24,76,Care Home,F,75-84,20
+18,24,76,Care Home,M,75-84,30
+18,24,76,Home / Non-institution,F,75-84,28
+18,24,76,Home / Non-institution,M,75-84,52
+18,24,76,Hospital,M,75-84,70
+18,24,76,Hospital,F,75-84,80
+18,24,76,Other institution,M,75-84,1
+18,24,76,Other institution,F,75-84,2
+18,25,77,Care Home,M,75-84,30
+18,25,77,Care Home,F,75-84,37
+18,25,77,Home / Non-institution,F,75-84,37
+18,25,77,Home / Non-institution,M,75-84,41
+18,25,77,Hospital,M,75-84,76
+18,25,77,Hospital,F,75-84,88
+18,25,77,Other institution,F,75-84,1
+18,26,78,Care Home,M,75-84,32
+18,26,78,Care Home,F,75-84,33
+18,26,78,Home / Non-institution,F,75-84,26
+18,26,78,Home / Non-institution,M,75-84,44
+18,26,78,Hospital,F,75-84,90
+18,26,78,Hospital,M,75-84,94
+18,26,78,Other institution,F,75-84,2
+18,27,79,Care Home,M,75-84,31
+18,27,79,Care Home,F,75-84,39
+18,27,79,Home / Non-institution,F,75-84,38
+18,27,79,Home / Non-institution,M,75-84,41
+18,27,79,Hospital,F,75-84,81
+18,27,79,Hospital,M,75-84,99
+18,27,79,Other institution,F,75-84,1
+18,28,80,Care Home,F,75-84,31
+18,28,80,Care Home,M,75-84,34
+18,28,80,Home / Non-institution,F,75-84,33
+18,28,80,Home / Non-institution,M,75-84,37
+18,28,80,Hospital,F,75-84,72
+18,28,80,Hospital,M,75-84,76
+18,28,80,Other institution,F,75-84,1
+18,28,80,Other institution,M,75-84,1
+18,29,81,Care Home,M,75-84,24
+18,29,81,Care Home,F,75-84,28
+18,29,81,Home / Non-institution,F,75-84,28
+18,29,81,Home / Non-institution,M,75-84,42
+18,29,81,Hospital,F,75-84,66
+18,29,81,Hospital,M,75-84,76
+18,29,81,Other institution,M,75-84,1
+18,30,82,Care Home,F,75-84,25
+18,30,82,Care Home,M,75-84,31
+18,30,82,Home / Non-institution,M,75-84,33
+18,30,82,Home / Non-institution,F,75-84,36
+18,30,82,Hospital,F,75-84,61
+18,30,82,Hospital,M,75-84,82
+18,30,82,Other institution,F,75-84,1
+18,31,83,Care Home,M,75-84,14
+18,31,83,Care Home,F,75-84,36
+18,31,83,Home / Non-institution,F,75-84,34
+18,31,83,Home / Non-institution,M,75-84,47
+18,31,83,Hospital,M,75-84,80
+18,31,83,Hospital,F,75-84,85
+18,32,84,Care Home,M,75-84,31
+18,32,84,Care Home,F,75-84,38
+18,32,84,Home / Non-institution,M,75-84,30
+18,32,84,Home / Non-institution,F,75-84,42
+18,32,84,Hospital,F,75-84,63
+18,32,84,Hospital,M,75-84,77
+18,32,84,Other institution,M,75-84,1
+18,33,85,Care Home,F,75-84,33
+18,33,85,Care Home,M,75-84,37
+18,33,85,Home / Non-institution,F,75-84,33
+18,33,85,Home / Non-institution,M,75-84,35
+18,33,85,Hospital,M,75-84,77
+18,33,85,Hospital,F,75-84,98
+18,33,85,Other institution,M,75-84,3
+18,34,86,Care Home,M,75-84,26
+18,34,86,Care Home,F,75-84,37
+18,34,86,Home / Non-institution,F,75-84,36
+18,34,86,Home / Non-institution,M,75-84,38
+18,34,86,Hospital,F,75-84,65
+18,34,86,Hospital,M,75-84,76
+18,34,86,Other institution,F,75-84,1
+18,35,87,Care Home,F,75-84,26
+18,35,87,Care Home,M,75-84,30
+18,35,87,Home / Non-institution,F,75-84,34
+18,35,87,Home / Non-institution,M,75-84,43
+18,35,87,Hospital,M,75-84,77
+18,35,87,Hospital,F,75-84,78
+18,35,87,Other institution,M,75-84,2
+18,36,88,Care Home,M,75-84,36
+18,36,88,Care Home,F,75-84,40
+18,36,88,Home / Non-institution,M,75-84,34
+18,36,88,Home / Non-institution,F,75-84,39
+18,36,88,Hospital,F,75-84,71
+18,36,88,Hospital,M,75-84,77
+18,36,88,Other institution,F,75-84,1
+18,37,89,Care Home,M,75-84,28
+18,37,89,Care Home,F,75-84,29
+18,37,89,Home / Non-institution,F,75-84,24
+18,37,89,Home / Non-institution,M,75-84,37
+18,37,89,Hospital,F,75-84,67
+18,37,89,Hospital,M,75-84,92
+18,37,89,Other institution,F,75-84,1
+18,38,90,Care Home,M,75-84,24
+18,38,90,Care Home,F,75-84,29
+18,38,90,Home / Non-institution,M,75-84,43
+18,38,90,Home / Non-institution,F,75-84,45
+18,38,90,Hospital,F,75-84,73
+18,38,90,Hospital,M,75-84,78
+18,38,90,Other institution,M,75-84,1
+18,39,91,Care Home,M,75-84,27
+18,39,91,Care Home,F,75-84,36
+18,39,91,Home / Non-institution,F,75-84,34
+18,39,91,Home / Non-institution,M,75-84,35
+18,39,91,Hospital,F,75-84,84
+18,39,91,Hospital,M,75-84,98
+18,40,92,Care Home,M,75-84,23
+18,40,92,Care Home,F,75-84,26
+18,40,92,Home / Non-institution,M,75-84,39
+18,40,92,Home / Non-institution,F,75-84,42
+18,40,92,Hospital,F,75-84,77
+18,40,92,Hospital,M,75-84,89
+18,41,93,Care Home,M,75-84,30
+18,41,93,Care Home,F,75-84,37
+18,41,93,Home / Non-institution,F,75-84,32
+18,41,93,Home / Non-institution,M,75-84,46
+18,41,93,Hospital,F,75-84,86
+18,41,93,Hospital,M,75-84,111
+18,41,93,Other institution,M,75-84,1
+18,42,94,Care Home,F,75-84,21
+18,42,94,Care Home,M,75-84,35
+18,42,94,Home / Non-institution,F,75-84,33
+18,42,94,Home / Non-institution,M,75-84,45
+18,42,94,Hospital,F,75-84,84
+18,42,94,Hospital,M,75-84,103
+18,43,95,Care Home,M,75-84,27
+18,43,95,Care Home,F,75-84,41
+18,43,95,Home / Non-institution,F,75-84,37
+18,43,95,Home / Non-institution,M,75-84,40
+18,43,95,Hospital,M,75-84,81
+18,43,95,Hospital,F,75-84,85
+18,44,96,Care Home,M,75-84,25
+18,44,96,Care Home,F,75-84,46
+18,44,96,Home / Non-institution,F,75-84,27
+18,44,96,Home / Non-institution,M,75-84,43
+18,44,96,Hospital,F,75-84,81
+18,44,96,Hospital,M,75-84,94
+18,44,96,Other institution,F,75-84,2
+18,45,97,Care Home,F,75-84,34
+18,45,97,Care Home,M,75-84,36
+18,45,97,Home / Non-institution,F,75-84,31
+18,45,97,Home / Non-institution,M,75-84,48
+18,45,97,Hospital,F,75-84,90
+18,45,97,Hospital,M,75-84,110
+18,45,97,Other institution,F,75-84,1
+18,46,98,Care Home,M,75-84,38
+18,46,98,Care Home,F,75-84,47
+18,46,98,Home / Non-institution,M,75-84,37
+18,46,98,Home / Non-institution,F,75-84,39
+18,46,98,Hospital,M,75-84,83
+18,46,98,Hospital,F,75-84,95
+18,46,98,Other institution,F,75-84,1
+18,47,99,Care Home,M,75-84,34
+18,47,99,Care Home,F,75-84,46
+18,47,99,Home / Non-institution,F,75-84,28
+18,47,99,Home / Non-institution,M,75-84,42
+18,47,99,Hospital,F,75-84,75
+18,47,99,Hospital,M,75-84,97
+18,47,99,Other institution,F,75-84,1
+18,47,99,Other institution,M,75-84,1
+18,48,100,Care Home,M,75-84,27
+18,48,100,Care Home,F,75-84,34
+18,48,100,Home / Non-institution,F,75-84,32
+18,48,100,Home / Non-institution,M,75-84,35
+18,48,100,Hospital,F,75-84,82
+18,48,100,Hospital,M,75-84,82
+18,49,101,Care Home,M,75-84,36
+18,49,101,Care Home,F,75-84,41
+18,49,101,Home / Non-institution,F,75-84,30
+18,49,101,Home / Non-institution,M,75-84,44
+18,49,101,Hospital,M,75-84,76
+18,49,101,Hospital,F,75-84,89
+18,49,101,Other institution,M,75-84,2
+18,50,102,Care Home,M,75-84,28
+18,50,102,Care Home,F,75-84,49
+18,50,102,Home / Non-institution,F,75-84,42
+18,50,102,Home / Non-institution,M,75-84,42
+18,50,102,Hospital,F,75-84,106
+18,50,102,Hospital,M,75-84,107
+18,51,103,Care Home,M,75-84,46
+18,51,103,Care Home,F,75-84,55
+18,51,103,Home / Non-institution,F,75-84,37
+18,51,103,Home / Non-institution,M,75-84,53
+18,51,103,Hospital,M,75-84,90
+18,51,103,Hospital,F,75-84,95
+18,51,103,Other institution,F,75-84,2
+18,52,104,Care Home,M,75-84,33
+18,52,104,Care Home,F,75-84,36
+18,52,104,Home / Non-institution,F,75-84,24
+18,52,104,Home / Non-institution,M,75-84,46
+18,52,104,Hospital,F,75-84,78
+18,52,104,Hospital,M,75-84,89
+18,52,104,Other institution,M,75-84,2
+18,52,104,Other institution,F,75-84,4
+17,1,1,Care Home,M,85+,54
+17,1,1,Care Home,F,85+,124
+17,1,1,Home / Non-institution,M,85+,27
+17,1,1,Home / Non-institution,F,85+,34
+17,1,1,Hospital,M,85+,92
+17,1,1,Hospital,F,85+,124
+17,1,1,Other institution,M,85+,1
+17,1,1,Other institution,F,85+,2
+17,2,2,Care Home,M,85+,50
+17,2,2,Care Home,F,85+,143
+17,2,2,Home / Non-institution,M,85+,27
+17,2,2,Home / Non-institution,F,85+,44
+17,2,2,Hospital,M,85+,108
+17,2,2,Hospital,F,85+,133
+17,2,2,Other institution,F,85+,1
+17,3,3,Care Home,M,85+,51
+17,3,3,Care Home,F,85+,133
+17,3,3,Home / Non-institution,M,85+,21
+17,3,3,Home / Non-institution,F,85+,37
+17,3,3,Hospital,M,85+,75
+17,3,3,Hospital,F,85+,116
+17,3,3,Other institution,F,85+,1
+17,4,4,Care Home,M,85+,49
+17,4,4,Care Home,F,85+,134
+17,4,4,Home / Non-institution,M,85+,22
+17,4,4,Home / Non-institution,F,85+,33
+17,4,4,Hospital,M,85+,69
+17,4,4,Hospital,F,85+,116
+17,4,4,Other institution,F,85+,2
+17,4,4,Other institution,M,85+,2
+17,5,5,Care Home,M,85+,52
+17,5,5,Care Home,F,85+,161
+17,5,5,Home / Non-institution,M,85+,26
+17,5,5,Home / Non-institution,F,85+,40
+17,5,5,Hospital,M,85+,92
+17,5,5,Hospital,F,85+,138
+17,5,5,Other institution,M,85+,1
+17,5,5,Other institution,F,85+,2
+17,6,6,Care Home,M,85+,45
+17,6,6,Care Home,F,85+,126
+17,6,6,Home / Non-institution,M,85+,25
+17,6,6,Home / Non-institution,F,85+,29
+17,6,6,Hospital,M,85+,79
+17,6,6,Hospital,F,85+,107
+17,6,6,Other institution,M,85+,2
+17,6,6,Other institution,F,85+,3
+17,7,7,Care Home,M,85+,44
+17,7,7,Care Home,F,85+,109
+17,7,7,Home / Non-institution,M,85+,24
+17,7,7,Home / Non-institution,F,85+,34
+17,7,7,Hospital,M,85+,85
+17,7,7,Hospital,F,85+,121
+17,7,7,Other institution,F,85+,1
+17,8,8,Care Home,M,85+,43
+17,8,8,Care Home,F,85+,126
+17,8,8,Home / Non-institution,M,85+,20
+17,8,8,Home / Non-institution,F,85+,32
+17,8,8,Hospital,M,85+,81
+17,8,8,Hospital,F,85+,89
+17,8,8,Other institution,F,85+,2
+17,9,9,Care Home,M,85+,34
+17,9,9,Care Home,F,85+,115
+17,9,9,Home / Non-institution,M,85+,33
+17,9,9,Home / Non-institution,F,85+,40
+17,9,9,Hospital,M,85+,84
+17,9,9,Hospital,F,85+,99
+17,9,9,Other institution,M,85+,1
+17,9,9,Other institution,F,85+,3
+17,10,10,Care Home,M,85+,46
+17,10,10,Care Home,F,85+,109
+17,10,10,Home / Non-institution,M,85+,24
+17,10,10,Home / Non-institution,F,85+,39
+17,10,10,Hospital,M,85+,79
+17,10,10,Hospital,F,85+,106
+17,10,10,Other institution,F,85+,2
+17,11,11,Care Home,M,85+,43
+17,11,11,Care Home,F,85+,107
+17,11,11,Home / Non-institution,M,85+,22
+17,11,11,Home / Non-institution,F,85+,32
+17,11,11,Hospital,M,85+,89
+17,11,11,Hospital,F,85+,118
+17,11,11,Other institution,M,85+,1
+17,11,11,Other institution,F,85+,2
+17,12,12,Care Home,M,85+,30
+17,12,12,Care Home,F,85+,117
+17,12,12,Home / Non-institution,M,85+,24
+17,12,12,Home / Non-institution,F,85+,43
+17,12,12,Hospital,M,85+,62
+17,12,12,Hospital,F,85+,123
+17,12,12,Other institution,F,85+,2
+17,13,13,Care Home,M,85+,40
+17,13,13,Care Home,F,85+,94
+17,13,13,Home / Non-institution,M,85+,25
+17,13,13,Home / Non-institution,F,85+,31
+17,13,13,Hospital,M,85+,69
+17,13,13,Hospital,F,85+,88
+17,13,13,Other institution,F,85+,1
+17,13,13,Other institution,M,85+,2
+17,14,14,Care Home,M,85+,43
+17,14,14,Care Home,F,85+,104
+17,14,14,Home / Non-institution,M,85+,25
+17,14,14,Home / Non-institution,F,85+,29
+17,14,14,Hospital,M,85+,69
+17,14,14,Hospital,F,85+,77
+17,14,14,Other institution,F,85+,1
+17,14,14,Other institution,M,85+,1
+17,15,15,Care Home,M,85+,34
+17,15,15,Care Home,F,85+,92
+17,15,15,Home / Non-institution,M,85+,26
+17,15,15,Home / Non-institution,F,85+,36
+17,15,15,Hospital,M,85+,65
+17,15,15,Hospital,F,85+,91
+17,15,15,Other institution,M,85+,2
+17,16,16,Care Home,M,85+,36
+17,16,16,Care Home,F,85+,108
+17,16,16,Home / Non-institution,M,85+,15
+17,16,16,Home / Non-institution,F,85+,31
+17,16,16,Hospital,M,85+,71
+17,16,16,Hospital,F,85+,100
+17,16,16,Other institution,F,85+,3
+17,17,17,Care Home,M,85+,44
+17,17,17,Care Home,F,85+,111
+17,17,17,Home / Non-institution,M,85+,22
+17,17,17,Home / Non-institution,F,85+,33
+17,17,17,Hospital,M,85+,64
+17,17,17,Hospital,F,85+,103
+17,17,17,Other institution,M,85+,1
+17,17,17,Other institution,F,85+,2
+17,18,18,Care Home,M,85+,55
+17,18,18,Care Home,F,85+,96
+17,18,18,Home / Non-institution,M,85+,22
+17,18,18,Home / Non-institution,F,85+,39
+17,18,18,Hospital,M,85+,70
+17,18,18,Hospital,F,85+,78
+17,18,18,Other institution,F,85+,4
+17,19,19,Care Home,M,85+,34
+17,19,19,Care Home,F,85+,107
+17,19,19,Home / Non-institution,M,85+,23
+17,19,19,Home / Non-institution,F,85+,32
+17,19,19,Hospital,M,85+,74
+17,19,19,Hospital,F,85+,98
+17,19,19,Other institution,F,85+,1
+17,19,19,Other institution,M,85+,1
+17,20,20,Care Home,M,85+,33
+17,20,20,Care Home,F,85+,102
+17,20,20,Home / Non-institution,M,85+,20
+17,20,20,Home / Non-institution,F,85+,35
+17,20,20,Hospital,M,85+,63
+17,20,20,Hospital,F,85+,85
+17,20,20,Other institution,M,85+,1
+17,20,20,Other institution,F,85+,2
+17,21,21,Care Home,M,85+,34
+17,21,21,Care Home,F,85+,102
+17,21,21,Home / Non-institution,M,85+,28
+17,21,21,Home / Non-institution,F,85+,44
+17,21,21,Hospital,M,85+,66
+17,21,21,Hospital,F,85+,79
+17,21,21,Other institution,F,85+,2
+17,21,21,Other institution,M,85+,2
+17,22,22,Care Home,M,85+,44
+17,22,22,Care Home,F,85+,101
+17,22,22,Home / Non-institution,F,85+,27
+17,22,22,Home / Non-institution,M,85+,27
+17,22,22,Hospital,M,85+,72
+17,22,22,Hospital,F,85+,88
+17,22,22,Other institution,M,85+,1
+17,22,22,Other institution,F,85+,2
+17,23,23,Care Home,M,85+,35
+17,23,23,Care Home,F,85+,95
+17,23,23,Home / Non-institution,M,85+,27
+17,23,23,Home / Non-institution,F,85+,36
+17,23,23,Hospital,M,85+,65
+17,23,23,Hospital,F,85+,105
+17,23,23,Other institution,F,85+,1
+17,24,24,Care Home,M,85+,40
+17,24,24,Care Home,F,85+,80
+17,24,24,Home / Non-institution,F,85+,29
+17,24,24,Home / Non-institution,M,85+,29
+17,24,24,Hospital,M,85+,67
+17,24,24,Hospital,F,85+,92
+17,24,24,Other institution,F,85+,2
+17,25,25,Care Home,M,85+,34
+17,25,25,Care Home,F,85+,79
+17,25,25,Home / Non-institution,M,85+,25
+17,25,25,Home / Non-institution,F,85+,29
+17,25,25,Hospital,M,85+,64
+17,25,25,Hospital,F,85+,89
+17,26,26,Care Home,M,85+,32
+17,26,26,Care Home,F,85+,81
+17,26,26,Home / Non-institution,M,85+,24
+17,26,26,Home / Non-institution,F,85+,34
+17,26,26,Hospital,M,85+,60
+17,26,26,Hospital,F,85+,78
+17,26,26,Other institution,F,85+,2
+17,27,27,Care Home,M,85+,35
+17,27,27,Care Home,F,85+,91
+17,27,27,Home / Non-institution,M,85+,23
+17,27,27,Home / Non-institution,F,85+,24
+17,27,27,Hospital,M,85+,54
+17,27,27,Hospital,F,85+,91
+17,27,27,Other institution,M,85+,1
+17,27,27,Other institution,F,85+,2
+17,28,28,Care Home,M,85+,39
+17,28,28,Care Home,F,85+,78
+17,28,28,Home / Non-institution,M,85+,23
+17,28,28,Home / Non-institution,F,85+,39
+17,28,28,Hospital,F,85+,77
+17,28,28,Hospital,M,85+,78
+17,28,28,Other institution,M,85+,1
+17,29,29,Care Home,M,85+,40
+17,29,29,Care Home,F,85+,89
+17,29,29,Home / Non-institution,M,85+,20
+17,29,29,Home / Non-institution,F,85+,24
+17,29,29,Hospital,M,85+,57
+17,29,29,Hospital,F,85+,74
+17,29,29,Other institution,F,85+,1
+17,29,29,Other institution,M,85+,1
+17,30,30,Care Home,M,85+,27
+17,30,30,Care Home,F,85+,89
+17,30,30,Home / Non-institution,M,85+,24
+17,30,30,Home / Non-institution,F,85+,29
+17,30,30,Hospital,M,85+,63
+17,30,30,Hospital,F,85+,88
+17,31,31,Care Home,M,85+,32
+17,31,31,Care Home,F,85+,82
+17,31,31,Home / Non-institution,M,85+,17
+17,31,31,Home / Non-institution,F,85+,28
+17,31,31,Hospital,M,85+,63
+17,31,31,Hospital,F,85+,86
+17,31,31,Other institution,F,85+,1
+17,32,32,Care Home,M,85+,35
+17,32,32,Care Home,F,85+,90
+17,32,32,Home / Non-institution,M,85+,21
+17,32,32,Home / Non-institution,F,85+,42
+17,32,32,Hospital,M,85+,66
+17,32,32,Hospital,F,85+,73
+17,32,32,Other institution,F,85+,2
+17,33,33,Care Home,M,85+,28
+17,33,33,Care Home,F,85+,78
+17,33,33,Home / Non-institution,M,85+,21
+17,33,33,Home / Non-institution,F,85+,31
+17,33,33,Hospital,M,85+,71
+17,33,33,Hospital,F,85+,83
+17,33,33,Other institution,F,85+,3
+17,33,33,Other institution,M,85+,3
+17,34,34,Care Home,M,85+,44
+17,34,34,Care Home,F,85+,97
+17,34,34,Home / Non-institution,M,85+,18
+17,34,34,Home / Non-institution,F,85+,34
+17,34,34,Hospital,M,85+,70
+17,34,34,Hospital,F,85+,90
+17,35,35,Care Home,M,85+,44
+17,35,35,Care Home,F,85+,80
+17,35,35,Home / Non-institution,M,85+,15
+17,35,35,Home / Non-institution,F,85+,32
+17,35,35,Hospital,M,85+,67
+17,35,35,Hospital,F,85+,72
+17,35,35,Other institution,F,85+,2
+17,36,36,Care Home,M,85+,33
+17,36,36,Care Home,F,85+,83
+17,36,36,Home / Non-institution,M,85+,22
+17,36,36,Home / Non-institution,F,85+,30
+17,36,36,Hospital,M,85+,50
+17,36,36,Hospital,F,85+,85
+17,36,36,Other institution,F,85+,2
+17,37,37,Care Home,M,85+,34
+17,37,37,Care Home,F,85+,90
+17,37,37,Home / Non-institution,M,85+,22
+17,37,37,Home / Non-institution,F,85+,35
+17,37,37,Hospital,M,85+,48
+17,37,37,Hospital,F,85+,82
+17,37,37,Other institution,M,85+,1
+17,37,37,Other institution,F,85+,3
+17,38,38,Care Home,M,85+,40
+17,38,38,Care Home,F,85+,93
+17,38,38,Home / Non-institution,M,85+,20
+17,38,38,Home / Non-institution,F,85+,22
+17,38,38,Hospital,M,85+,75
+17,38,38,Hospital,F,85+,89
+17,38,38,Other institution,F,85+,1
+17,38,38,Other institution,M,85+,2
+17,39,39,Care Home,M,85+,44
+17,39,39,Care Home,F,85+,92
+17,39,39,Home / Non-institution,M,85+,25
+17,39,39,Home / Non-institution,F,85+,33
+17,39,39,Hospital,M,85+,57
+17,39,39,Hospital,F,85+,94
+17,39,39,Other institution,F,85+,1
+17,40,40,Care Home,M,85+,35
+17,40,40,Care Home,F,85+,78
+17,40,40,Home / Non-institution,M,85+,21
+17,40,40,Home / Non-institution,F,85+,34
+17,40,40,Hospital,M,85+,70
+17,40,40,Hospital,F,85+,89
+17,40,40,Other institution,F,85+,1
+17,41,41,Care Home,M,85+,37
+17,41,41,Care Home,F,85+,106
+17,41,41,Home / Non-institution,M,85+,27
+17,41,41,Home / Non-institution,F,85+,34
+17,41,41,Hospital,M,85+,67
+17,41,41,Hospital,F,85+,100
+17,41,41,Other institution,F,85+,2
+17,42,42,Care Home,M,85+,48
+17,42,42,Care Home,F,85+,105
+17,42,42,Home / Non-institution,M,85+,23
+17,42,42,Home / Non-institution,F,85+,31
+17,42,42,Hospital,M,85+,61
+17,42,42,Hospital,F,85+,74
+17,42,42,Other institution,M,85+,1
+17,42,42,Other institution,F,85+,3
+17,43,43,Care Home,M,85+,43
+17,43,43,Care Home,F,85+,88
+17,43,43,Home / Non-institution,M,85+,23
+17,43,43,Home / Non-institution,F,85+,34
+17,43,43,Hospital,M,85+,71
+17,43,43,Hospital,F,85+,91
+17,44,44,Care Home,M,85+,32
+17,44,44,Care Home,F,85+,83
+17,44,44,Home / Non-institution,M,85+,19
+17,44,44,Home / Non-institution,F,85+,37
+17,44,44,Hospital,M,85+,67
+17,44,44,Hospital,F,85+,89
+17,44,44,Other institution,F,85+,3
+17,45,45,Care Home,M,85+,48
+17,45,45,Care Home,F,85+,100
+17,45,45,Home / Non-institution,M,85+,27
+17,45,45,Home / Non-institution,F,85+,36
+17,45,45,Hospital,M,85+,68
+17,45,45,Hospital,F,85+,94
+17,45,45,Other institution,F,85+,2
+17,46,46,Care Home,M,85+,33
+17,46,46,Care Home,F,85+,102
+17,46,46,Home / Non-institution,M,85+,28
+17,46,46,Home / Non-institution,F,85+,42
+17,46,46,Hospital,M,85+,79
+17,46,46,Hospital,F,85+,95
+17,46,46,Other institution,F,85+,3
+17,47,47,Care Home,M,85+,66
+17,47,47,Care Home,F,85+,111
+17,47,47,Home / Non-institution,M,85+,25
+17,47,47,Home / Non-institution,F,85+,32
+17,47,47,Hospital,M,85+,72
+17,47,47,Hospital,F,85+,91
+17,47,47,Other institution,M,85+,2
+17,47,47,Other institution,F,85+,3
+17,48,48,Care Home,M,85+,33
+17,48,48,Care Home,F,85+,97
+17,48,48,Home / Non-institution,M,85+,34
+17,48,48,Home / Non-institution,F,85+,45
+17,48,48,Hospital,M,85+,70
+17,48,48,Hospital,F,85+,110
+17,49,49,Care Home,M,85+,43
+17,49,49,Care Home,F,85+,128
+17,49,49,Home / Non-institution,M,85+,35
+17,49,49,Home / Non-institution,F,85+,39
+17,49,49,Hospital,M,85+,84
+17,49,49,Hospital,F,85+,104
+17,49,49,Other institution,M,85+,1
+17,49,49,Other institution,F,85+,3
+17,50,50,Care Home,M,85+,65
+17,50,50,Care Home,F,85+,131
+17,50,50,Home / Non-institution,M,85+,26
+17,50,50,Home / Non-institution,F,85+,49
+17,50,50,Hospital,M,85+,88
+17,50,50,Hospital,F,85+,113
+17,50,50,Other institution,M,85+,2
+17,50,50,Other institution,F,85+,3
+17,51,51,Care Home,M,85+,70
+17,51,51,Care Home,F,85+,151
+17,51,51,Home / Non-institution,M,85+,26
+17,51,51,Home / Non-institution,F,85+,56
+17,51,51,Hospital,M,85+,106
+17,51,51,Hospital,F,85+,119
+17,51,51,Other institution,F,85+,4
+17,52,52,Care Home,M,85+,54
+17,52,52,Care Home,F,85+,151
+17,52,52,Home / Non-institution,M,85+,27
+17,52,52,Home / Non-institution,F,85+,50
+17,52,52,Hospital,M,85+,68
+17,52,52,Hospital,F,85+,115
+17,52,52,Other institution,M,85+,2
+17,52,52,Other institution,F,85+,3
+18,1,53,Care Home,M,85+,66
+18,1,53,Care Home,F,85+,178
+18,1,53,Home / Non-institution,M,85+,29
+18,1,53,Home / Non-institution,F,85+,66
+18,1,53,Hospital,M,85+,105
+18,1,53,Hospital,F,85+,134
+18,1,53,Other institution,F,85+,1
+18,1,53,Other institution,M,85+,2
+18,2,54,Care Home,M,85+,73
+18,2,54,Care Home,F,85+,224
+18,2,54,Home / Non-institution,M,85+,40
+18,2,54,Home / Non-institution,F,85+,71
+18,2,54,Hospital,M,85+,125
+18,2,54,Hospital,F,85+,187
+18,2,54,Other institution,F,85+,2
+18,2,54,Other institution,M,85+,2
+18,3,55,Care Home,M,85+,58
+18,3,55,Care Home,F,85+,219
+18,3,55,Home / Non-institution,M,85+,44
+18,3,55,Home / Non-institution,F,85+,48
+18,3,55,Hospital,M,85+,99
+18,3,55,Hospital,F,85+,170
+18,3,55,Other institution,M,85+,1
+18,3,55,Other institution,F,85+,2
+18,4,56,Care Home,M,85+,71
+18,4,56,Care Home,F,85+,193
+18,4,56,Home / Non-institution,F,85+,41
+18,4,56,Home / Non-institution,M,85+,44
+18,4,56,Hospital,M,85+,116
+18,4,56,Hospital,F,85+,140
+18,4,56,Other institution,F,85+,3
+18,5,57,Care Home,M,85+,51
+18,5,57,Care Home,F,85+,149
+18,5,57,Home / Non-institution,M,85+,23
+18,5,57,Home / Non-institution,F,85+,42
+18,5,57,Hospital,M,85+,94
+18,5,57,Hospital,F,85+,141
+18,5,57,Other institution,F,85+,1
+18,6,58,Care Home,M,85+,45
+18,6,58,Care Home,F,85+,136
+18,6,58,Home / Non-institution,F,85+,27
+18,6,58,Home / Non-institution,M,85+,28
+18,6,58,Hospital,M,85+,74
+18,6,58,Hospital,F,85+,123
+18,6,58,Other institution,F,85+,2
+18,6,58,Other institution,M,85+,2
+18,7,59,Care Home,M,85+,51
+18,7,59,Care Home,F,85+,102
+18,7,59,Home / Non-institution,M,85+,33
+18,7,59,Home / Non-institution,F,85+,48
+18,7,59,Hospital,M,85+,86
+18,7,59,Hospital,F,85+,111
+18,7,59,Other institution,F,85+,2
+18,7,59,Other institution,M,85+,2
+18,8,60,Care Home,M,85+,41
+18,8,60,Care Home,F,85+,114
+18,8,60,Home / Non-institution,M,85+,34
+18,8,60,Home / Non-institution,F,85+,39
+18,8,60,Hospital,M,85+,77
+18,8,60,Hospital,F,85+,117
+18,9,61,Care Home,M,85+,38
+18,9,61,Care Home,F,85+,95
+18,9,61,Home / Non-institution,M,85+,24
+18,9,61,Home / Non-institution,F,85+,33
+18,9,61,Hospital,M,85+,68
+18,9,61,Hospital,F,85+,90
+18,10,62,Care Home,M,85+,63
+18,10,62,Care Home,F,85+,147
+18,10,62,Home / Non-institution,M,85+,35
+18,10,62,Home / Non-institution,F,85+,40
+18,10,62,Hospital,M,85+,79
+18,10,62,Hospital,F,85+,145
+18,10,62,Other institution,F,85+,1
+18,11,63,Care Home,M,85+,44
+18,11,63,Care Home,F,85+,124
+18,11,63,Home / Non-institution,M,85+,18
+18,11,63,Home / Non-institution,F,85+,37
+18,11,63,Hospital,M,85+,81
+18,11,63,Hospital,F,85+,125
+18,12,64,Care Home,M,85+,37
+18,12,64,Care Home,F,85+,107
+18,12,64,Home / Non-institution,M,85+,19
+18,12,64,Home / Non-institution,F,85+,41
+18,12,64,Hospital,M,85+,79
+18,12,64,Hospital,F,85+,90
+18,12,64,Other institution,M,85+,1
+18,13,65,Care Home,M,85+,49
+18,13,65,Care Home,F,85+,104
+18,13,65,Home / Non-institution,M,85+,29
+18,13,65,Home / Non-institution,F,85+,42
+18,13,65,Hospital,M,85+,62
+18,13,65,Hospital,F,85+,76
+18,13,65,Other institution,F,85+,2
+18,14,66,Care Home,M,85+,34
+18,14,66,Care Home,F,85+,110
+18,14,66,Home / Non-institution,M,85+,29
+18,14,66,Home / Non-institution,F,85+,40
+18,14,66,Hospital,M,85+,83
+18,14,66,Hospital,F,85+,105
+18,14,66,Other institution,F,85+,1
+18,15,67,Care Home,M,85+,34
+18,15,67,Care Home,F,85+,101
+18,15,67,Home / Non-institution,M,85+,26
+18,15,67,Home / Non-institution,F,85+,38
+18,15,67,Hospital,M,85+,65
+18,15,67,Hospital,F,85+,98
+18,15,67,Other institution,M,85+,1
+18,16,68,Care Home,M,85+,43
+18,16,68,Care Home,F,85+,101
+18,16,68,Home / Non-institution,M,85+,18
+18,16,68,Home / Non-institution,F,85+,27
+18,16,68,Hospital,M,85+,60
+18,16,68,Hospital,F,85+,99
+18,16,68,Other institution,F,85+,1
+18,17,69,Care Home,M,85+,40
+18,17,69,Care Home,F,85+,78
+18,17,69,Home / Non-institution,M,85+,21
+18,17,69,Home / Non-institution,F,85+,31
+18,17,69,Hospital,M,85+,61
+18,17,69,Hospital,F,85+,88
+18,18,70,Care Home,M,85+,36
+18,18,70,Care Home,F,85+,97
+18,18,70,Home / Non-institution,M,85+,16
+18,18,70,Home / Non-institution,F,85+,38
+18,18,70,Hospital,M,85+,66
+18,18,70,Hospital,F,85+,95
+18,19,71,Care Home,M,85+,38
+18,19,71,Care Home,F,85+,80
+18,19,71,Home / Non-institution,M,85+,22
+18,19,71,Home / Non-institution,F,85+,28
+18,19,71,Hospital,M,85+,65
+18,19,71,Hospital,F,85+,69
+18,20,72,Care Home,M,85+,27
+18,20,72,Care Home,F,85+,88
+18,20,72,Home / Non-institution,M,85+,16
+18,20,72,Home / Non-institution,F,85+,34
+18,20,72,Hospital,M,85+,60
+18,20,72,Hospital,F,85+,80
+18,20,72,Other institution,F,85+,2
+18,21,73,Care Home,M,85+,51
+18,21,73,Care Home,F,85+,102
+18,21,73,Home / Non-institution,F,85+,23
+18,21,73,Home / Non-institution,M,85+,27
+18,21,73,Hospital,F,85+,76
+18,21,73,Hospital,M,85+,78
+18,21,73,Other institution,F,85+,1
+18,21,73,Other institution,M,85+,1
+18,22,74,Care Home,M,85+,38
+18,22,74,Care Home,F,85+,83
+18,22,74,Home / Non-institution,F,85+,25
+18,22,74,Home / Non-institution,M,85+,31
+18,22,74,Hospital,M,85+,60
+18,22,74,Hospital,F,85+,86
+18,22,74,Other institution,F,85+,1
+18,22,74,Other institution,M,85+,1
+18,23,75,Care Home,M,85+,34
+18,23,75,Care Home,F,85+,84
+18,23,75,Home / Non-institution,M,85+,20
+18,23,75,Home / Non-institution,F,85+,30
+18,23,75,Hospital,M,85+,57
+18,23,75,Hospital,F,85+,84
+18,23,75,Other institution,M,85+,1
+18,24,76,Care Home,M,85+,30
+18,24,76,Care Home,F,85+,81
+18,24,76,Home / Non-institution,M,85+,14
+18,24,76,Home / Non-institution,F,85+,24
+18,24,76,Hospital,M,85+,43
+18,24,76,Hospital,F,85+,72
+18,24,76,Other institution,M,85+,1
+18,25,77,Care Home,M,85+,28
+18,25,77,Care Home,F,85+,78
+18,25,77,Home / Non-institution,M,85+,24
+18,25,77,Home / Non-institution,F,85+,34
+18,25,77,Hospital,M,85+,61
+18,25,77,Hospital,F,85+,80
+18,25,77,Other institution,F,85+,2
+18,26,78,Care Home,M,85+,39
+18,26,78,Care Home,F,85+,84
+18,26,78,Home / Non-institution,F,85+,28
+18,26,78,Home / Non-institution,M,85+,28
+18,26,78,Hospital,M,85+,53
+18,26,78,Hospital,F,85+,74
+18,26,78,Other institution,F,85+,2
+18,26,78,Other institution,M,85+,2
+18,27,79,Care Home,M,85+,22
+18,27,79,Care Home,F,85+,92
+18,27,79,Home / Non-institution,M,85+,22
+18,27,79,Home / Non-institution,F,85+,40
+18,27,79,Hospital,M,85+,59
+18,27,79,Hospital,F,85+,82
+18,27,79,Other institution,F,85+,1
+18,28,80,Care Home,M,85+,33
+18,28,80,Care Home,F,85+,88
+18,28,80,Home / Non-institution,M,85+,19
+18,28,80,Home / Non-institution,F,85+,35
+18,28,80,Hospital,M,85+,77
+18,28,80,Hospital,F,85+,78
+18,29,81,Care Home,M,85+,27
+18,29,81,Care Home,F,85+,73
+18,29,81,Home / Non-institution,M,85+,25
+18,29,81,Home / Non-institution,F,85+,26
+18,29,81,Hospital,M,85+,51
+18,29,81,Hospital,F,85+,76
+18,29,81,Other institution,M,85+,1
+18,30,82,Care Home,M,85+,39
+18,30,82,Care Home,F,85+,74
+18,30,82,Home / Non-institution,M,85+,17
+18,30,82,Home / Non-institution,F,85+,33
+18,30,82,Hospital,M,85+,55
+18,30,82,Hospital,F,85+,87
+18,30,82,Other institution,F,85+,1
+18,31,83,Care Home,M,85+,34
+18,31,83,Care Home,F,85+,78
+18,31,83,Home / Non-institution,M,85+,18
+18,31,83,Home / Non-institution,F,85+,26
+18,31,83,Hospital,F,85+,58
+18,31,83,Hospital,M,85+,61
+18,31,83,Other institution,F,85+,2
+18,32,84,Care Home,M,85+,30
+18,32,84,Care Home,F,85+,83
+18,32,84,Home / Non-institution,M,85+,16
+18,32,84,Home / Non-institution,F,85+,23
+18,32,84,Hospital,F,85+,71
+18,32,84,Hospital,M,85+,73
+18,32,84,Other institution,F,85+,1
+18,33,85,Care Home,M,85+,42
+18,33,85,Care Home,F,85+,67
+18,33,85,Home / Non-institution,M,85+,17
+18,33,85,Home / Non-institution,F,85+,26
+18,33,85,Hospital,F,85+,58
+18,33,85,Hospital,M,85+,68
+18,33,85,Other institution,F,85+,1
+18,33,85,Other institution,M,85+,2
+18,34,86,Care Home,M,85+,42
+18,34,86,Care Home,F,85+,87
+18,34,86,Home / Non-institution,M,85+,24
+18,34,86,Home / Non-institution,F,85+,28
+18,34,86,Hospital,M,85+,64
+18,34,86,Hospital,F,85+,76
+18,35,87,Care Home,M,85+,32
+18,35,87,Care Home,F,85+,81
+18,35,87,Home / Non-institution,M,85+,21
+18,35,87,Home / Non-institution,F,85+,30
+18,35,87,Hospital,M,85+,47
+18,35,87,Hospital,F,85+,77
+18,36,88,Care Home,M,85+,27
+18,36,88,Care Home,F,85+,89
+18,36,88,Home / Non-institution,M,85+,26
+18,36,88,Home / Non-institution,F,85+,39
+18,36,88,Hospital,M,85+,57
+18,36,88,Hospital,F,85+,73
+18,37,89,Care Home,M,85+,41
+18,37,89,Care Home,F,85+,96
+18,37,89,Home / Non-institution,M,85+,26
+18,37,89,Home / Non-institution,F,85+,31
+18,37,89,Hospital,M,85+,59
+18,37,89,Hospital,F,85+,75
+18,37,89,Other institution,M,85+,1
+18,37,89,Other institution,F,85+,3
+18,38,90,Care Home,M,85+,35
+18,38,90,Care Home,F,85+,75
+18,38,90,Home / Non-institution,M,85+,20
+18,38,90,Home / Non-institution,F,85+,29
+18,38,90,Hospital,F,85+,78
+18,38,90,Hospital,M,85+,82
+18,38,90,Other institution,M,85+,1
+18,38,90,Other institution,F,85+,2
+18,39,91,Care Home,M,85+,41
+18,39,91,Care Home,F,85+,79
+18,39,91,Home / Non-institution,M,85+,27
+18,39,91,Home / Non-institution,F,85+,41
+18,39,91,Hospital,M,85+,66
+18,39,91,Hospital,F,85+,76
+18,39,91,Other institution,F,85+,1
+18,40,92,Care Home,M,85+,41
+18,40,92,Care Home,F,85+,79
+18,40,92,Home / Non-institution,F,85+,22
+18,40,92,Home / Non-institution,M,85+,22
+18,40,92,Hospital,M,85+,84
+18,40,92,Hospital,F,85+,88
+18,40,92,Other institution,F,85+,3
+18,41,93,Care Home,M,85+,43
+18,41,93,Care Home,F,85+,94
+18,41,93,Home / Non-institution,F,85+,26
+18,41,93,Home / Non-institution,M,85+,27
+18,41,93,Hospital,M,85+,77
+18,41,93,Hospital,F,85+,96
+18,42,94,Care Home,M,85+,46
+18,42,94,Care Home,F,85+,105
+18,42,94,Home / Non-institution,F,85+,29
+18,42,94,Home / Non-institution,M,85+,34
+18,42,94,Hospital,M,85+,50
+18,42,94,Hospital,F,85+,78
+18,42,94,Other institution,F,85+,1
+18,42,94,Other institution,M,85+,1
+18,43,95,Care Home,M,85+,38
+18,43,95,Care Home,F,85+,88
+18,43,95,Home / Non-institution,M,85+,18
+18,43,95,Home / Non-institution,F,85+,38
+18,43,95,Hospital,M,85+,59
+18,43,95,Hospital,F,85+,97
+18,43,95,Other institution,F,85+,1
+18,44,96,Care Home,M,85+,38
+18,44,96,Care Home,F,85+,92
+18,44,96,Home / Non-institution,M,85+,26
+18,44,96,Home / Non-institution,F,85+,34
+18,44,96,Hospital,M,85+,63
+18,44,96,Hospital,F,85+,93
+18,44,96,Other institution,F,85+,1
+18,45,97,Care Home,M,85+,49
+18,45,97,Care Home,F,85+,100
+18,45,97,Home / Non-institution,M,85+,25
+18,45,97,Home / Non-institution,F,85+,26
+18,45,97,Hospital,M,85+,69
+18,45,97,Hospital,F,85+,100
+18,45,97,Other institution,F,85+,1
+18,46,98,Care Home,M,85+,37
+18,46,98,Care Home,F,85+,105
+18,46,98,Home / Non-institution,M,85+,26
+18,46,98,Home / Non-institution,F,85+,32
+18,46,98,Hospital,M,85+,63
+18,46,98,Hospital,F,85+,83
+18,46,98,Other institution,M,85+,1
+18,46,98,Other institution,F,85+,2
+18,47,99,Care Home,M,85+,34
+18,47,99,Care Home,F,85+,90
+18,47,99,Home / Non-institution,M,85+,26
+18,47,99,Home / Non-institution,F,85+,31
+18,47,99,Hospital,M,85+,69
+18,47,99,Hospital,F,85+,86
+18,47,99,Other institution,F,85+,1
+18,48,100,Care Home,M,85+,45
+18,48,100,Care Home,F,85+,89
+18,48,100,Home / Non-institution,M,85+,22
+18,48,100,Home / Non-institution,F,85+,33
+18,48,100,Hospital,M,85+,71
+18,48,100,Hospital,F,85+,75
+18,48,100,Other institution,F,85+,2
+18,49,101,Care Home,M,85+,36
+18,49,101,Care Home,F,85+,114
+18,49,101,Home / Non-institution,M,85+,26
+18,49,101,Home / Non-institution,F,85+,60
+18,49,101,Hospital,M,85+,69
+18,49,101,Hospital,F,85+,80
+18,49,101,Other institution,F,85+,1
+18,49,101,Other institution,M,85+,3
+18,50,102,Care Home,M,85+,41
+18,50,102,Care Home,F,85+,121
+18,50,102,Home / Non-institution,M,85+,31
+18,50,102,Home / Non-institution,F,85+,34
+18,50,102,Hospital,M,85+,65
+18,50,102,Hospital,F,85+,89
+18,50,102,Other institution,F,85+,1
+18,51,103,Care Home,M,85+,53
+18,51,103,Care Home,F,85+,98
+18,51,103,Home / Non-institution,F,85+,28
+18,51,103,Home / Non-institution,M,85+,30
+18,51,103,Hospital,M,85+,69
+18,51,103,Hospital,F,85+,99
+18,51,103,Other institution,F,85+,1
+18,52,104,Care Home,M,85+,47
+18,52,104,Care Home,F,85+,100
+18,52,104,Home / Non-institution,M,85+,27
+18,52,104,Home / Non-institution,F,85+,34
+18,52,104,Hospital,M,85+,77
+18,52,104,Hospital,F,85+,106

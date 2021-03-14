@@ -1,0 +1,2519 @@
+Year,Week,Location,Sex,Age band,Deaths,Cause of Death
+20,1,Care Home,F,15-44,3,Non-COVID-19
+20,1,Care Home,M,45-64,8,Non-COVID-19
+20,1,Care Home,F,45-64,10,Non-COVID-19
+20,1,Care Home,M,65-74,12,Non-COVID-19
+20,1,Care Home,F,65-74,18,Non-COVID-19
+20,1,Care Home,M,75-84,34,Non-COVID-19
+20,1,Care Home,F,75-84,52,Non-COVID-19
+20,1,Care Home,M,85+,47,Non-COVID-19
+20,1,Care Home,F,85+,122,Non-COVID-19
+20,1,Home / Non-institution,F,15-44,4,Non-COVID-19
+20,1,Home / Non-institution,M,15-44,8,Non-COVID-19
+20,1,Home / Non-institution,F,45-64,17,Non-COVID-19
+20,1,Home / Non-institution,M,45-64,44,Non-COVID-19
+20,1,Home / Non-institution,F,65-74,23,Non-COVID-19
+20,1,Home / Non-institution,M,65-74,41,Non-COVID-19
+20,1,Home / Non-institution,F,75-84,41,Non-COVID-19
+20,1,Home / Non-institution,M,75-84,55,Non-COVID-19
+20,1,Home / Non-institution,M,85+,34,Non-COVID-19
+20,1,Home / Non-institution,F,85+,37,Non-COVID-19
+20,1,Hospital,F,0,1,Non-COVID-19
+20,1,Hospital,M,0,2,Non-COVID-19
+20,1,Hospital,F,1-14,1,Non-COVID-19
+20,1,Hospital,F,15-44,4,Non-COVID-19
+20,1,Hospital,M,15-44,5,Non-COVID-19
+20,1,Hospital,F,45-64,34,Non-COVID-19
+20,1,Hospital,M,45-64,40,Non-COVID-19
+20,1,Hospital,F,65-74,40,Non-COVID-19
+20,1,Hospital,M,65-74,63,Non-COVID-19
+20,1,Hospital,M,75-84,88,Non-COVID-19
+20,1,Hospital,F,75-84,100,Non-COVID-19
+20,1,Hospital,M,85+,64,Non-COVID-19
+20,1,Hospital,F,85+,107,Non-COVID-19
+20,1,Other institution,F,75-84,2,Non-COVID-19
+20,2,Care Home,M,15-44,1,Non-COVID-19
+20,2,Care Home,F,45-64,6,Non-COVID-19
+20,2,Care Home,M,45-64,8,Non-COVID-19
+20,2,Care Home,F,65-74,17,Non-COVID-19
+20,2,Care Home,M,65-74,19,Non-COVID-19
+20,2,Care Home,M,75-84,36,Non-COVID-19
+20,2,Care Home,F,75-84,52,Non-COVID-19
+20,2,Care Home,M,85+,65,Non-COVID-19
+20,2,Care Home,F,85+,152,Non-COVID-19
+20,2,Home / Non-institution,F,15-44,8,Non-COVID-19
+20,2,Home / Non-institution,M,15-44,29,Non-COVID-19
+20,2,Home / Non-institution,F,45-64,39,Non-COVID-19
+20,2,Home / Non-institution,M,45-64,60,Non-COVID-19
+20,2,Home / Non-institution,F,65-74,40,Non-COVID-19
+20,2,Home / Non-institution,M,65-74,56,Non-COVID-19
+20,2,Home / Non-institution,F,75-84,44,Non-COVID-19
+20,2,Home / Non-institution,M,75-84,51,Non-COVID-19
+20,2,Home / Non-institution,M,85+,35,Non-COVID-19
+20,2,Home / Non-institution,F,85+,46,Non-COVID-19
+20,2,Hospital,F,1-14,1,Non-COVID-19
+20,2,Hospital,M,1-14,2,Non-COVID-19
+20,2,Hospital,F,15-44,9,Non-COVID-19
+20,2,Hospital,M,15-44,12,Non-COVID-19
+20,2,Hospital,F,45-64,49,Non-COVID-19
+20,2,Hospital,M,45-64,52,Non-COVID-19
+20,2,Hospital,F,65-74,69,Non-COVID-19
+20,2,Hospital,M,65-74,85,Non-COVID-19
+20,2,Hospital,F,75-84,121,Non-COVID-19
+20,2,Hospital,M,75-84,121,Non-COVID-19
+20,2,Hospital,M,85+,117,Non-COVID-19
+20,2,Hospital,F,85+,156,Non-COVID-19
+20,2,Other institution,F,45-64,1,Non-COVID-19
+20,2,Other institution,F,65-74,1,Non-COVID-19
+20,2,Other institution,M,65-74,1,Non-COVID-19
+20,2,Other institution,F,75-84,3,Non-COVID-19
+20,2,Other institution,F,85+,3,Non-COVID-19
+20,3,Care Home,F,15-44,1,Non-COVID-19
+20,3,Care Home,M,15-44,1,Non-COVID-19
+20,3,Care Home,M,45-64,10,Non-COVID-19
+20,3,Care Home,F,45-64,13,Non-COVID-19
+20,3,Care Home,F,65-74,14,Non-COVID-19
+20,3,Care Home,M,65-74,20,Non-COVID-19
+20,3,Care Home,M,75-84,34,Non-COVID-19
+20,3,Care Home,F,75-84,53,Non-COVID-19
+20,3,Care Home,M,85+,55,Non-COVID-19
+20,3,Care Home,F,85+,119,Non-COVID-19
+20,3,Home / Non-institution,F,15-44,4,Non-COVID-19
+20,3,Home / Non-institution,M,15-44,18,Non-COVID-19
+20,3,Home / Non-institution,F,45-64,36,Non-COVID-19
+20,3,Home / Non-institution,M,45-64,55,Non-COVID-19
+20,3,Home / Non-institution,F,65-74,34,Non-COVID-19
+20,3,Home / Non-institution,M,65-74,54,Non-COVID-19
+20,3,Home / Non-institution,F,75-84,35,Non-COVID-19
+20,3,Home / Non-institution,M,75-84,54,Non-COVID-19
+20,3,Home / Non-institution,M,85+,30,Non-COVID-19
+20,3,Home / Non-institution,F,85+,44,Non-COVID-19
+20,3,Hospital,F,0,1,Non-COVID-19
+20,3,Hospital,M,0,2,Non-COVID-19
+20,3,Hospital,F,15-44,4,Non-COVID-19
+20,3,Hospital,M,15-44,8,Non-COVID-19
+20,3,Hospital,F,45-64,31,Non-COVID-19
+20,3,Hospital,M,45-64,47,Non-COVID-19
+20,3,Hospital,F,65-74,57,Non-COVID-19
+20,3,Hospital,M,65-74,58,Non-COVID-19
+20,3,Hospital,F,75-84,97,Non-COVID-19
+20,3,Hospital,M,75-84,111,Non-COVID-19
+20,3,Hospital,M,85+,92,Non-COVID-19
+20,3,Hospital,F,85+,123,Non-COVID-19
+20,3,Other institution,M,45-64,1,Non-COVID-19
+20,3,Other institution,F,65-74,2,Non-COVID-19
+20,3,Other institution,F,75-84,1,Non-COVID-19
+20,3,Other institution,M,85+,1,Non-COVID-19
+20,3,Other institution,F,85+,2,Non-COVID-19
+20,4,Care Home,F,15-44,2,Non-COVID-19
+20,4,Care Home,M,45-64,5,Non-COVID-19
+20,4,Care Home,F,45-64,15,Non-COVID-19
+20,4,Care Home,F,65-74,16,Non-COVID-19
+20,4,Care Home,M,65-74,17,Non-COVID-19
+20,4,Care Home,M,75-84,33,Non-COVID-19
+20,4,Care Home,F,75-84,38,Non-COVID-19
+20,4,Care Home,M,85+,52,Non-COVID-19
+20,4,Care Home,F,85+,117,Non-COVID-19
+20,4,Home / Non-institution,M,1-14,1,Non-COVID-19
+20,4,Home / Non-institution,F,15-44,7,Non-COVID-19
+20,4,Home / Non-institution,M,15-44,24,Non-COVID-19
+20,4,Home / Non-institution,F,45-64,25,Non-COVID-19
+20,4,Home / Non-institution,M,45-64,46,Non-COVID-19
+20,4,Home / Non-institution,F,65-74,33,Non-COVID-19
+20,4,Home / Non-institution,M,65-74,42,Non-COVID-19
+20,4,Home / Non-institution,F,75-84,35,Non-COVID-19
+20,4,Home / Non-institution,M,75-84,58,Non-COVID-19
+20,4,Home / Non-institution,M,85+,26,Non-COVID-19
+20,4,Home / Non-institution,F,85+,33,Non-COVID-19
+20,4,Hospital,F,0,1,Non-COVID-19
+20,4,Hospital,M,1-14,2,Non-COVID-19
+20,4,Hospital,F,15-44,5,Non-COVID-19
+20,4,Hospital,M,15-44,11,Non-COVID-19
+20,4,Hospital,F,45-64,39,Non-COVID-19
+20,4,Hospital,M,45-64,40,Non-COVID-19
+20,4,Hospital,F,65-74,54,Non-COVID-19
+20,4,Hospital,M,65-74,68,Non-COVID-19
+20,4,Hospital,F,75-84,80,Non-COVID-19
+20,4,Hospital,M,75-84,97,Non-COVID-19
+20,4,Hospital,M,85+,76,Non-COVID-19
+20,4,Hospital,F,85+,123,Non-COVID-19
+20,4,Other institution,M,15-44,1,Non-COVID-19
+20,4,Other institution,F,45-64,1,Non-COVID-19
+20,4,Other institution,F,65-74,1,Non-COVID-19
+20,4,Other institution,F,75-84,2,Non-COVID-19
+20,5,Care Home,M,1-14,1,Non-COVID-19
+20,5,Care Home,M,15-44,1,Non-COVID-19
+20,5,Care Home,M,45-64,8,Non-COVID-19
+20,5,Care Home,F,45-64,14,Non-COVID-19
+20,5,Care Home,F,65-74,9,Non-COVID-19
+20,5,Care Home,M,65-74,19,Non-COVID-19
+20,5,Care Home,F,75-84,36,Non-COVID-19
+20,5,Care Home,M,75-84,38,Non-COVID-19
+20,5,Care Home,M,85+,61,Non-COVID-19
+20,5,Care Home,F,85+,92,Non-COVID-19
+20,5,Home / Non-institution,F,1-14,1,Non-COVID-19
+20,5,Home / Non-institution,F,15-44,3,Non-COVID-19
+20,5,Home / Non-institution,M,15-44,17,Non-COVID-19
+20,5,Home / Non-institution,F,45-64,22,Non-COVID-19
+20,5,Home / Non-institution,M,45-64,54,Non-COVID-19
+20,5,Home / Non-institution,F,65-74,32,Non-COVID-19
+20,5,Home / Non-institution,M,65-74,36,Non-COVID-19
+20,5,Home / Non-institution,F,75-84,44,Non-COVID-19
+20,5,Home / Non-institution,M,75-84,46,Non-COVID-19
+20,5,Home / Non-institution,M,85+,17,Non-COVID-19
+20,5,Home / Non-institution,F,85+,39,Non-COVID-19
+20,5,Hospital,M,0,1,Non-COVID-19
+20,5,Hospital,F,0,2,Non-COVID-19
+20,5,Hospital,F,1-14,1,Non-COVID-19
+20,5,Hospital,M,15-44,1,Non-COVID-19
+20,5,Hospital,F,15-44,9,Non-COVID-19
+20,5,Hospital,F,45-64,27,Non-COVID-19
+20,5,Hospital,M,45-64,47,Non-COVID-19
+20,5,Hospital,F,65-74,55,Non-COVID-19
+20,5,Hospital,M,65-74,63,Non-COVID-19
+20,5,Hospital,F,75-84,92,Non-COVID-19
+20,5,Hospital,M,75-84,111,Non-COVID-19
+20,5,Hospital,M,85+,84,Non-COVID-19
+20,5,Hospital,F,85+,98,Non-COVID-19
+20,5,Other institution,M,45-64,2,Non-COVID-19
+20,5,Other institution,F,75-84,1,Non-COVID-19
+20,5,Other institution,M,85+,1,Non-COVID-19
+20,5,Other institution,F,85+,3,Non-COVID-19
+20,6,Care Home,F,1-14,1,Non-COVID-19
+20,6,Care Home,M,1-14,1,Non-COVID-19
+20,6,Care Home,F,15-44,1,Non-COVID-19
+20,6,Care Home,M,15-44,1,Non-COVID-19
+20,6,Care Home,F,45-64,6,Non-COVID-19
+20,6,Care Home,M,45-64,12,Non-COVID-19
+20,6,Care Home,F,65-74,11,Non-COVID-19
+20,6,Care Home,M,65-74,22,Non-COVID-19
+20,6,Care Home,M,75-84,33,Non-COVID-19
+20,6,Care Home,F,75-84,48,Non-COVID-19
+20,6,Care Home,M,85+,42,Non-COVID-19
+20,6,Care Home,F,85+,109,Non-COVID-19
+20,6,Home / Non-institution,F,15-44,10,Non-COVID-19
+20,6,Home / Non-institution,M,15-44,10,Non-COVID-19
+20,6,Home / Non-institution,F,45-64,24,Non-COVID-19
+20,6,Home / Non-institution,M,45-64,52,Non-COVID-19
+20,6,Home / Non-institution,F,65-74,22,Non-COVID-19
+20,6,Home / Non-institution,M,65-74,26,Non-COVID-19
+20,6,Home / Non-institution,F,75-84,44,Non-COVID-19
+20,6,Home / Non-institution,M,75-84,56,Non-COVID-19
+20,6,Home / Non-institution,M,85+,37,Non-COVID-19
+20,6,Home / Non-institution,F,85+,39,Non-COVID-19
+20,6,Hospital,F,0,1,Non-COVID-19
+20,6,Hospital,M,0,5,Non-COVID-19
+20,6,Hospital,F,1-14,1,Non-COVID-19
+20,6,Hospital,M,1-14,1,Non-COVID-19
+20,6,Hospital,F,15-44,4,Non-COVID-19
+20,6,Hospital,M,15-44,5,Non-COVID-19
+20,6,Hospital,F,45-64,34,Non-COVID-19
+20,6,Hospital,M,45-64,41,Non-COVID-19
+20,6,Hospital,F,65-74,58,Non-COVID-19
+20,6,Hospital,M,65-74,71,Non-COVID-19
+20,6,Hospital,M,75-84,98,Non-COVID-19
+20,6,Hospital,F,75-84,99,Non-COVID-19
+20,6,Hospital,M,85+,85,Non-COVID-19
+20,6,Hospital,F,85+,100,Non-COVID-19
+20,6,Other institution,M,45-64,1,Non-COVID-19
+20,6,Other institution,F,65-74,1,Non-COVID-19
+20,6,Other institution,M,85+,1,Non-COVID-19
+20,6,Other institution,F,85+,3,Non-COVID-19
+20,7,Care Home,M,1-14,1,Non-COVID-19
+20,7,Care Home,F,15-44,1,Non-COVID-19
+20,7,Care Home,M,15-44,1,Non-COVID-19
+20,7,Care Home,F,45-64,6,Non-COVID-19
+20,7,Care Home,M,45-64,8,Non-COVID-19
+20,7,Care Home,F,65-74,9,Non-COVID-19
+20,7,Care Home,M,65-74,19,Non-COVID-19
+20,7,Care Home,M,75-84,30,Non-COVID-19
+20,7,Care Home,F,75-84,41,Non-COVID-19
+20,7,Care Home,M,85+,45,Non-COVID-19
+20,7,Care Home,F,85+,97,Non-COVID-19
+20,7,Home / Non-institution,F,15-44,2,Non-COVID-19
+20,7,Home / Non-institution,M,15-44,23,Non-COVID-19
+20,7,Home / Non-institution,F,45-64,29,Non-COVID-19
+20,7,Home / Non-institution,M,45-64,47,Non-COVID-19
+20,7,Home / Non-institution,F,65-74,26,Non-COVID-19
+20,7,Home / Non-institution,M,65-74,58,Non-COVID-19
+20,7,Home / Non-institution,F,75-84,36,Non-COVID-19
+20,7,Home / Non-institution,M,75-84,55,Non-COVID-19
+20,7,Home / Non-institution,M,85+,29,Non-COVID-19
+20,7,Home / Non-institution,F,85+,42,Non-COVID-19
+20,7,Hospital,M,0,4,Non-COVID-19
+20,7,Hospital,F,15-44,5,Non-COVID-19
+20,7,Hospital,M,15-44,7,Non-COVID-19
+20,7,Hospital,F,45-64,29,Non-COVID-19
+20,7,Hospital,M,45-64,46,Non-COVID-19
+20,7,Hospital,F,65-74,61,Non-COVID-19
+20,7,Hospital,M,65-74,67,Non-COVID-19
+20,7,Hospital,F,75-84,65,Non-COVID-19
+20,7,Hospital,M,75-84,100,Non-COVID-19
+20,7,Hospital,M,85+,77,Non-COVID-19
+20,7,Hospital,F,85+,94,Non-COVID-19
+20,7,Other institution,M,45-64,1,Non-COVID-19
+20,7,Other institution,F,75-84,1,Non-COVID-19
+20,8,Care Home,M,1-14,1,Non-COVID-19
+20,8,Care Home,M,15-44,1,Non-COVID-19
+20,8,Care Home,M,45-64,2,Non-COVID-19
+20,8,Care Home,F,45-64,6,Non-COVID-19
+20,8,Care Home,F,65-74,13,Non-COVID-19
+20,8,Care Home,M,65-74,16,Non-COVID-19
+20,8,Care Home,M,75-84,35,Non-COVID-19
+20,8,Care Home,F,75-84,50,Non-COVID-19
+20,8,Care Home,M,85+,41,Non-COVID-19
+20,8,Care Home,F,85+,102,Non-COVID-19
+20,8,Home / Non-institution,F,15-44,7,Non-COVID-19
+20,8,Home / Non-institution,M,15-44,19,Non-COVID-19
+20,8,Home / Non-institution,F,45-64,27,Non-COVID-19
+20,8,Home / Non-institution,M,45-64,42,Non-COVID-19
+20,8,Home / Non-institution,F,65-74,33,Non-COVID-19
+20,8,Home / Non-institution,M,65-74,45,Non-COVID-19
+20,8,Home / Non-institution,F,75-84,41,Non-COVID-19
+20,8,Home / Non-institution,M,75-84,50,Non-COVID-19
+20,8,Home / Non-institution,M,85+,29,Non-COVID-19
+20,8,Home / Non-institution,F,85+,43,Non-COVID-19
+20,8,Hospital,F,0,1,Non-COVID-19
+20,8,Hospital,M,0,1,Non-COVID-19
+20,8,Hospital,F,1-14,1,Non-COVID-19
+20,8,Hospital,M,15-44,8,Non-COVID-19
+20,8,Hospital,F,15-44,9,Non-COVID-19
+20,8,Hospital,F,45-64,31,Non-COVID-19
+20,8,Hospital,M,45-64,42,Non-COVID-19
+20,8,Hospital,F,65-74,55,Non-COVID-19
+20,8,Hospital,M,65-74,62,Non-COVID-19
+20,8,Hospital,F,75-84,80,Non-COVID-19
+20,8,Hospital,M,75-84,95,Non-COVID-19
+20,8,Hospital,M,85+,74,Non-COVID-19
+20,8,Hospital,F,85+,92,Non-COVID-19
+20,8,Other institution,F,15-44,1,Non-COVID-19
+20,8,Other institution,F,45-64,1,Non-COVID-19
+20,8,Other institution,M,75-84,1,Non-COVID-19
+20,8,Other institution,F,75-84,2,Non-COVID-19
+20,8,Other institution,M,85+,1,Non-COVID-19
+20,8,Other institution,F,85+,2,Non-COVID-19
+20,9,Care Home,M,15-44,1,Non-COVID-19
+20,9,Care Home,F,15-44,2,Non-COVID-19
+20,9,Care Home,M,45-64,8,Non-COVID-19
+20,9,Care Home,F,45-64,10,Non-COVID-19
+20,9,Care Home,F,65-74,14,Non-COVID-19
+20,9,Care Home,M,65-74,21,Non-COVID-19
+20,9,Care Home,M,75-84,31,Non-COVID-19
+20,9,Care Home,F,75-84,40,Non-COVID-19
+20,9,Care Home,M,85+,40,Non-COVID-19
+20,9,Care Home,F,85+,100,Non-COVID-19
+20,9,Home / Non-institution,M,1-14,1,Non-COVID-19
+20,9,Home / Non-institution,F,1-14,2,Non-COVID-19
+20,9,Home / Non-institution,F,15-44,11,Non-COVID-19
+20,9,Home / Non-institution,M,15-44,26,Non-COVID-19
+20,9,Home / Non-institution,F,45-64,29,Non-COVID-19
+20,9,Home / Non-institution,M,45-64,46,Non-COVID-19
+20,9,Home / Non-institution,F,65-74,21,Non-COVID-19
+20,9,Home / Non-institution,M,65-74,37,Non-COVID-19
+20,9,Home / Non-institution,F,75-84,39,Non-COVID-19
+20,9,Home / Non-institution,M,75-84,58,Non-COVID-19
+20,9,Home / Non-institution,M,85+,39,Non-COVID-19
+20,9,Home / Non-institution,F,85+,49,Non-COVID-19
+20,9,Hospital,M,0,2,Non-COVID-19
+20,9,Hospital,F,15-44,3,Non-COVID-19
+20,9,Hospital,M,15-44,4,Non-COVID-19
+20,9,Hospital,F,45-64,33,Non-COVID-19
+20,9,Hospital,M,45-64,38,Non-COVID-19
+20,9,Hospital,F,65-74,60,Non-COVID-19
+20,9,Hospital,M,65-74,61,Non-COVID-19
+20,9,Hospital,F,75-84,72,Non-COVID-19
+20,9,Hospital,M,75-84,91,Non-COVID-19
+20,9,Hospital,M,85+,74,Non-COVID-19
+20,9,Hospital,F,85+,104,Non-COVID-19
+20,9,Other institution,F,45-64,1,Non-COVID-19
+20,9,Other institution,F,75-84,1,Non-COVID-19
+20,9,Other institution,M,75-84,1,Non-COVID-19
+20,9,Other institution,M,85+,1,Non-COVID-19
+20,10,Care Home,F,0,1,Non-COVID-19
+20,10,Care Home,M,15-44,1,Non-COVID-19
+20,10,Care Home,F,15-44,2,Non-COVID-19
+20,10,Care Home,M,45-64,9,Non-COVID-19
+20,10,Care Home,F,45-64,14,Non-COVID-19
+20,10,Care Home,F,65-74,13,Non-COVID-19
+20,10,Care Home,M,65-74,16,Non-COVID-19
+20,10,Care Home,M,75-84,36,Non-COVID-19
+20,10,Care Home,F,75-84,46,Non-COVID-19
+20,10,Care Home,M,85+,40,Non-COVID-19
+20,10,Care Home,F,85+,110,Non-COVID-19
+20,10,Home / Non-institution,F,15-44,10,Non-COVID-19
+20,10,Home / Non-institution,M,15-44,21,Non-COVID-19
+20,10,Home / Non-institution,F,45-64,30,Non-COVID-19
+20,10,Home / Non-institution,M,45-64,49,Non-COVID-19
+20,10,Home / Non-institution,F,65-74,27,Non-COVID-19
+20,10,Home / Non-institution,M,65-74,47,Non-COVID-19
+20,10,Home / Non-institution,F,75-84,39,Non-COVID-19
+20,10,Home / Non-institution,M,75-84,45,Non-COVID-19
+20,10,Home / Non-institution,M,85+,30,Non-COVID-19
+20,10,Home / Non-institution,F,85+,46,Non-COVID-19
+20,10,Hospital,F,0,2,Non-COVID-19
+20,10,Hospital,M,15-44,5,Non-COVID-19
+20,10,Hospital,F,15-44,9,Non-COVID-19
+20,10,Hospital,F,45-64,27,Non-COVID-19
+20,10,Hospital,M,45-64,43,Non-COVID-19
+20,10,Hospital,F,65-74,46,Non-COVID-19
+20,10,Hospital,M,65-74,66,Non-COVID-19
+20,10,Hospital,F,75-84,93,Non-COVID-19
+20,10,Hospital,M,75-84,100,Non-COVID-19
+20,10,Hospital,M,85+,73,Non-COVID-19
+20,10,Hospital,F,85+,106,Non-COVID-19
+20,10,Other institution,M,45-64,1,Non-COVID-19
+20,10,Other institution,M,65-74,2,Non-COVID-19
+20,10,Other institution,M,75-84,1,Non-COVID-19
+20,10,Other institution,F,85+,2,Non-COVID-19
+20,11,Care Home,M,1-14,1,Non-COVID-19
+20,11,Care Home,M,15-44,1,Non-COVID-19
+20,11,Care Home,F,15-44,4,Non-COVID-19
+20,11,Care Home,M,45-64,5,Non-COVID-19
+20,11,Care Home,F,45-64,9,Non-COVID-19
+20,11,Care Home,F,65-74,10,Non-COVID-19
+20,11,Care Home,M,65-74,15,Non-COVID-19
+20,11,Care Home,M,75-84,39,Non-COVID-19
+20,11,Care Home,F,75-84,41,Non-COVID-19
+20,11,Care Home,M,85+,44,Non-COVID-19
+20,11,Care Home,F,85+,91,Non-COVID-19
+20,11,Home / Non-institution,F,15-44,17,Non-COVID-19
+20,11,Home / Non-institution,M,15-44,21,Non-COVID-19
+20,11,Home / Non-institution,F,45-64,19,Non-COVID-19
+20,11,Home / Non-institution,M,45-64,56,Non-COVID-19
+20,11,Home / Non-institution,F,65-74,20,Non-COVID-19
+20,11,Home / Non-institution,M,65-74,55,Non-COVID-19
+20,11,Home / Non-institution,F,75-84,47,Non-COVID-19
+20,11,Home / Non-institution,M,75-84,48,Non-COVID-19
+20,11,Home / Non-institution,M,85+,32,Non-COVID-19
+20,11,Home / Non-institution,F,85+,44,Non-COVID-19
+20,11,Hospital,M,0,2,Non-COVID-19
+20,11,Hospital,F,0,3,Non-COVID-19
+20,11,Hospital,M,1-14,1,Non-COVID-19
+20,11,Hospital,F,15-44,4,Non-COVID-19
+20,11,Hospital,M,15-44,4,Non-COVID-19
+20,11,Hospital,M,45-64,46,Non-COVID-19
+20,11,Hospital,F,45-64,47,Non-COVID-19
+20,11,Hospital,F,65-74,57,Non-COVID-19
+20,11,Hospital,M,65-74,68,Non-COVID-19
+20,11,Hospital,F,75-84,74,Non-COVID-19
+20,11,Hospital,M,75-84,81,Non-COVID-19
+20,11,Hospital,M,85+,90,Non-COVID-19
+20,11,Hospital,F,85+,97,Non-COVID-19
+20,11,Other institution,M,45-64,1,Non-COVID-19
+20,11,Other institution,F,75-84,1,Non-COVID-19
+20,11,Other institution,F,85+,3,Non-COVID-19
+20,12,Care Home,M,65-74,1,COVID-19 mentioned
+20,12,Care Home,F,15-44,1,Non-COVID-19
+20,12,Care Home,M,15-44,1,Non-COVID-19
+20,12,Care Home,M,45-64,10,Non-COVID-19
+20,12,Care Home,F,45-64,15,Non-COVID-19
+20,12,Care Home,M,65-74,10,Non-COVID-19
+20,12,Care Home,F,65-74,11,Non-COVID-19
+20,12,Care Home,M,75-84,40,Non-COVID-19
+20,12,Care Home,F,75-84,47,Non-COVID-19
+20,12,Care Home,M,85+,43,Non-COVID-19
+20,12,Care Home,F,85+,96,Non-COVID-19
+20,12,Home / Non-institution,F,45-64,1,COVID-19 mentioned
+20,12,Home / Non-institution,F,65-74,1,COVID-19 mentioned
+20,12,Home / Non-institution,F,15-44,7,Non-COVID-19
+20,12,Home / Non-institution,M,15-44,24,Non-COVID-19
+20,12,Home / Non-institution,F,45-64,35,Non-COVID-19
+20,12,Home / Non-institution,M,45-64,43,Non-COVID-19
+20,12,Home / Non-institution,F,65-74,33,Non-COVID-19
+20,12,Home / Non-institution,M,65-74,51,Non-COVID-19
+20,12,Home / Non-institution,F,75-84,43,Non-COVID-19
+20,12,Home / Non-institution,M,75-84,55,Non-COVID-19
+20,12,Home / Non-institution,M,85+,34,Non-COVID-19
+20,12,Home / Non-institution,F,85+,36,Non-COVID-19
+20,12,Hospital,M,65-74,1,COVID-19 mentioned
+20,12,Hospital,F,65-74,2,COVID-19 mentioned
+20,12,Hospital,M,75-84,3,COVID-19 mentioned
+20,12,Hospital,F,85+,1,COVID-19 mentioned
+20,12,Hospital,M,85+,1,COVID-19 mentioned
+20,12,Hospital,M,0,1,Non-COVID-19
+20,12,Hospital,F,0,3,Non-COVID-19
+20,12,Hospital,F,15-44,3,Non-COVID-19
+20,12,Hospital,M,15-44,5,Non-COVID-19
+20,12,Hospital,F,45-64,28,Non-COVID-19
+20,12,Hospital,M,45-64,52,Non-COVID-19
+20,12,Hospital,F,65-74,44,Non-COVID-19
+20,12,Hospital,M,65-74,74,Non-COVID-19
+20,12,Hospital,F,75-84,79,Non-COVID-19
+20,12,Hospital,M,75-84,93,Non-COVID-19
+20,12,Hospital,M,85+,69,Non-COVID-19
+20,12,Hospital,F,85+,88,Non-COVID-19
+20,12,Other institution,F,45-64,2,Non-COVID-19
+20,12,Other institution,M,45-64,3,Non-COVID-19
+20,12,Other institution,M,75-84,1,Non-COVID-19
+20,12,Other institution,F,75-84,2,Non-COVID-19
+20,12,Other institution,M,85+,1,Non-COVID-19
+20,12,Other institution,F,85+,2,Non-COVID-19
+20,13,Care Home,M,75-84,1,COVID-19 mentioned
+20,13,Care Home,F,85+,2,COVID-19 mentioned
+20,13,Care Home,M,85+,2,COVID-19 mentioned
+20,13,Care Home,F,15-44,2,Non-COVID-19
+20,13,Care Home,F,45-64,3,Non-COVID-19
+20,13,Care Home,M,45-64,5,Non-COVID-19
+20,13,Care Home,F,65-74,12,Non-COVID-19
+20,13,Care Home,M,65-74,17,Non-COVID-19
+20,13,Care Home,M,75-84,28,Non-COVID-19
+20,13,Care Home,F,75-84,44,Non-COVID-19
+20,13,Care Home,M,85+,37,Non-COVID-19
+20,13,Care Home,F,85+,108,Non-COVID-19
+20,13,Home / Non-institution,F,45-64,3,COVID-19 mentioned
+20,13,Home / Non-institution,M,45-64,4,COVID-19 mentioned
+20,13,Home / Non-institution,M,65-74,3,COVID-19 mentioned
+20,13,Home / Non-institution,M,75-84,1,COVID-19 mentioned
+20,13,Home / Non-institution,M,85+,1,COVID-19 mentioned
+20,13,Home / Non-institution,F,85+,2,COVID-19 mentioned
+20,13,Home / Non-institution,M,1-14,1,Non-COVID-19
+20,13,Home / Non-institution,F,15-44,7,Non-COVID-19
+20,13,Home / Non-institution,M,15-44,12,Non-COVID-19
+20,13,Home / Non-institution,F,45-64,20,Non-COVID-19
+20,13,Home / Non-institution,M,45-64,48,Non-COVID-19
+20,13,Home / Non-institution,F,65-74,27,Non-COVID-19
+20,13,Home / Non-institution,M,65-74,46,Non-COVID-19
+20,13,Home / Non-institution,M,75-84,44,Non-COVID-19
+20,13,Home / Non-institution,F,75-84,53,Non-COVID-19
+20,13,Home / Non-institution,M,85+,34,Non-COVID-19
+20,13,Home / Non-institution,F,85+,46,Non-COVID-19
+20,13,Hospital,M,45-64,5,COVID-19 mentioned
+20,13,Hospital,F,65-74,3,COVID-19 mentioned
+20,13,Hospital,M,65-74,5,COVID-19 mentioned
+20,13,Hospital,F,75-84,9,COVID-19 mentioned
+20,13,Hospital,M,75-84,13,COVID-19 mentioned
+20,13,Hospital,M,85+,1,COVID-19 mentioned
+20,13,Hospital,F,85+,7,COVID-19 mentioned
+20,13,Hospital,M,0,1,Non-COVID-19
+20,13,Hospital,F,0,4,Non-COVID-19
+20,13,Hospital,F,15-44,1,Non-COVID-19
+20,13,Hospital,M,15-44,4,Non-COVID-19
+20,13,Hospital,M,45-64,28,Non-COVID-19
+20,13,Hospital,F,45-64,30,Non-COVID-19
+20,13,Hospital,M,65-74,42,Non-COVID-19
+20,13,Hospital,F,65-74,47,Non-COVID-19
+20,13,Hospital,M,75-84,59,Non-COVID-19
+20,13,Hospital,F,75-84,65,Non-COVID-19
+20,13,Hospital,M,85+,58,Non-COVID-19
+20,13,Hospital,F,85+,83,Non-COVID-19
+20,13,Other institution,M,85+,1,Non-COVID-19
+20,14,Care Home,F,45-64,1,COVID-19 mentioned
+20,14,Care Home,M,45-64,1,COVID-19 mentioned
+20,14,Care Home,F,65-74,1,COVID-19 mentioned
+20,14,Care Home,M,65-74,5,COVID-19 mentioned
+20,14,Care Home,M,75-84,6,COVID-19 mentioned
+20,14,Care Home,F,75-84,13,COVID-19 mentioned
+20,14,Care Home,M,85+,5,COVID-19 mentioned
+20,14,Care Home,F,85+,17,COVID-19 mentioned
+20,14,Care Home,M,15-44,1,Non-COVID-19
+20,14,Care Home,M,45-64,4,Non-COVID-19
+20,14,Care Home,F,45-64,11,Non-COVID-19
+20,14,Care Home,M,65-74,15,Non-COVID-19
+20,14,Care Home,F,65-74,24,Non-COVID-19
+20,14,Care Home,M,75-84,53,Non-COVID-19
+20,14,Care Home,F,75-84,68,Non-COVID-19
+20,14,Care Home,M,85+,80,Non-COVID-19
+20,14,Care Home,F,85+,138,Non-COVID-19
+20,14,Home / Non-institution,F,15-44,1,COVID-19 mentioned
+20,14,Home / Non-institution,M,15-44,2,COVID-19 mentioned
+20,14,Home / Non-institution,F,45-64,1,COVID-19 mentioned
+20,14,Home / Non-institution,M,45-64,8,COVID-19 mentioned
+20,14,Home / Non-institution,M,65-74,5,COVID-19 mentioned
+20,14,Home / Non-institution,F,65-74,6,COVID-19 mentioned
+20,14,Home / Non-institution,F,75-84,4,COVID-19 mentioned
+20,14,Home / Non-institution,M,75-84,4,COVID-19 mentioned
+20,14,Home / Non-institution,F,85+,3,COVID-19 mentioned
+20,14,Home / Non-institution,M,85+,5,COVID-19 mentioned
+20,14,Home / Non-institution,F,15-44,11,Non-COVID-19
+20,14,Home / Non-institution,M,15-44,29,Non-COVID-19
+20,14,Home / Non-institution,F,45-64,43,Non-COVID-19
+20,14,Home / Non-institution,M,45-64,71,Non-COVID-19
+20,14,Home / Non-institution,F,65-74,36,Non-COVID-19
+20,14,Home / Non-institution,M,65-74,74,Non-COVID-19
+20,14,Home / Non-institution,F,75-84,58,Non-COVID-19
+20,14,Home / Non-institution,M,75-84,79,Non-COVID-19
+20,14,Home / Non-institution,M,85+,53,Non-COVID-19
+20,14,Home / Non-institution,F,85+,72,Non-COVID-19
+20,14,Hospital,F,15-44,1,COVID-19 mentioned
+20,14,Hospital,M,45-64,9,COVID-19 mentioned
+20,14,Hospital,F,45-64,10,COVID-19 mentioned
+20,14,Hospital,F,65-74,13,COVID-19 mentioned
+20,14,Hospital,M,65-74,37,COVID-19 mentioned
+20,14,Hospital,F,75-84,33,COVID-19 mentioned
+20,14,Hospital,M,75-84,47,COVID-19 mentioned
+20,14,Hospital,M,85+,20,COVID-19 mentioned
+20,14,Hospital,F,85+,23,COVID-19 mentioned
+20,14,Hospital,M,0,1,Non-COVID-19
+20,14,Hospital,F,0,2,Non-COVID-19
+20,14,Hospital,F,1-14,1,Non-COVID-19
+20,14,Hospital,M,1-14,1,Non-COVID-19
+20,14,Hospital,F,15-44,5,Non-COVID-19
+20,14,Hospital,M,15-44,10,Non-COVID-19
+20,14,Hospital,M,45-64,32,Non-COVID-19
+20,14,Hospital,F,45-64,35,Non-COVID-19
+20,14,Hospital,F,65-74,47,Non-COVID-19
+20,14,Hospital,M,65-74,68,Non-COVID-19
+20,14,Hospital,F,75-84,74,Non-COVID-19
+20,14,Hospital,M,75-84,101,Non-COVID-19
+20,14,Hospital,M,85+,76,Non-COVID-19
+20,14,Hospital,F,85+,83,Non-COVID-19
+20,14,Other institution,M,85+,1,COVID-19 mentioned
+20,14,Other institution,M,15-44,1,Non-COVID-19
+20,14,Other institution,M,65-74,2,Non-COVID-19
+20,14,Other institution,F,75-84,1,Non-COVID-19
+20,14,Other institution,M,75-84,1,Non-COVID-19
+20,14,Other institution,F,85+,1,Non-COVID-19
+20,15,Care Home,F,45-64,1,COVID-19 mentioned
+20,15,Care Home,M,45-64,3,COVID-19 mentioned
+20,15,Care Home,F,65-74,3,COVID-19 mentioned
+20,15,Care Home,M,65-74,11,COVID-19 mentioned
+20,15,Care Home,F,75-84,30,COVID-19 mentioned
+20,15,Care Home,M,75-84,35,COVID-19 mentioned
+20,15,Care Home,M,85+,46,COVID-19 mentioned
+20,15,Care Home,F,85+,60,COVID-19 mentioned
+20,15,Care Home,F,15-44,1,Non-COVID-19
+20,15,Care Home,F,45-64,3,Non-COVID-19
+20,15,Care Home,M,45-64,4,Non-COVID-19
+20,15,Care Home,F,65-74,13,Non-COVID-19
+20,15,Care Home,M,65-74,18,Non-COVID-19
+20,15,Care Home,F,75-84,62,Non-COVID-19
+20,15,Care Home,M,75-84,71,Non-COVID-19
+20,15,Care Home,M,85+,92,Non-COVID-19
+20,15,Care Home,F,85+,149,Non-COVID-19
+20,15,Home / Non-institution,M,15-44,1,COVID-19 mentioned
+20,15,Home / Non-institution,F,15-44,2,COVID-19 mentioned
+20,15,Home / Non-institution,F,45-64,2,COVID-19 mentioned
+20,15,Home / Non-institution,M,45-64,9,COVID-19 mentioned
+20,15,Home / Non-institution,F,65-74,4,COVID-19 mentioned
+20,15,Home / Non-institution,M,65-74,4,COVID-19 mentioned
+20,15,Home / Non-institution,F,75-84,7,COVID-19 mentioned
+20,15,Home / Non-institution,M,75-84,15,COVID-19 mentioned
+20,15,Home / Non-institution,M,85+,8,COVID-19 mentioned
+20,15,Home / Non-institution,F,85+,11,COVID-19 mentioned
+20,15,Home / Non-institution,F,15-44,12,Non-COVID-19
+20,15,Home / Non-institution,M,15-44,28,Non-COVID-19
+20,15,Home / Non-institution,F,45-64,31,Non-COVID-19
+20,15,Home / Non-institution,M,45-64,72,Non-COVID-19
+20,15,Home / Non-institution,F,65-74,41,Non-COVID-19
+20,15,Home / Non-institution,M,65-74,73,Non-COVID-19
+20,15,Home / Non-institution,F,75-84,69,Non-COVID-19
+20,15,Home / Non-institution,M,75-84,75,Non-COVID-19
+20,15,Home / Non-institution,M,85+,60,Non-COVID-19
+20,15,Home / Non-institution,F,85+,71,Non-COVID-19
+20,15,Hospital,M,15-44,1,COVID-19 mentioned
+20,15,Hospital,F,45-64,14,COVID-19 mentioned
+20,15,Hospital,M,45-64,35,COVID-19 mentioned
+20,15,Hospital,F,65-74,25,COVID-19 mentioned
+20,15,Hospital,M,65-74,53,COVID-19 mentioned
+20,15,Hospital,F,75-84,60,COVID-19 mentioned
+20,15,Hospital,M,75-84,81,COVID-19 mentioned
+20,15,Hospital,F,85+,42,COVID-19 mentioned
+20,15,Hospital,M,85+,46,COVID-19 mentioned
+20,15,Hospital,F,0,1,Non-COVID-19
+20,15,Hospital,M,0,5,Non-COVID-19
+20,15,Hospital,F,1-14,1,Non-COVID-19
+20,15,Hospital,M,1-14,1,Non-COVID-19
+20,15,Hospital,M,15-44,3,Non-COVID-19
+20,15,Hospital,F,15-44,7,Non-COVID-19
+20,15,Hospital,F,45-64,26,Non-COVID-19
+20,15,Hospital,M,45-64,38,Non-COVID-19
+20,15,Hospital,F,65-74,35,Non-COVID-19
+20,15,Hospital,M,65-74,49,Non-COVID-19
+20,15,Hospital,M,75-84,63,Non-COVID-19
+20,15,Hospital,F,75-84,70,Non-COVID-19
+20,15,Hospital,M,85+,47,Non-COVID-19
+20,15,Hospital,F,85+,69,Non-COVID-19
+20,15,Other institution,F,45-64,1,Non-COVID-19
+20,15,Other institution,M,45-64,2,Non-COVID-19
+20,15,Other institution,F,65-74,1,Non-COVID-19
+20,15,Other institution,M,75-84,1,Non-COVID-19
+20,15,Other institution,F,75-84,2,Non-COVID-19
+20,15,Other institution,F,85+,1,Non-COVID-19
+20,15,Other institution,M,85+,1,Non-COVID-19
+20,16,Care Home,M,45-64,1,COVID-19 mentioned
+20,16,Care Home,M,65-74,7,COVID-19 mentioned
+20,16,Care Home,F,65-74,9,COVID-19 mentioned
+20,16,Care Home,M,75-84,47,COVID-19 mentioned
+20,16,Care Home,F,75-84,56,COVID-19 mentioned
+20,16,Care Home,M,85+,66,COVID-19 mentioned
+20,16,Care Home,F,85+,117,COVID-19 mentioned
+20,16,Care Home,M,45-64,6,Non-COVID-19
+20,16,Care Home,F,45-64,7,Non-COVID-19
+20,16,Care Home,M,65-74,15,Non-COVID-19
+20,16,Care Home,F,65-74,16,Non-COVID-19
+20,16,Care Home,M,75-84,52,Non-COVID-19
+20,16,Care Home,F,75-84,71,Non-COVID-19
+20,16,Care Home,M,85+,67,Non-COVID-19
+20,16,Care Home,F,85+,146,Non-COVID-19
+20,16,Home / Non-institution,F,45-64,3,COVID-19 mentioned
+20,16,Home / Non-institution,M,45-64,3,COVID-19 mentioned
+20,16,Home / Non-institution,M,65-74,1,COVID-19 mentioned
+20,16,Home / Non-institution,M,75-84,2,COVID-19 mentioned
+20,16,Home / Non-institution,F,75-84,5,COVID-19 mentioned
+20,16,Home / Non-institution,F,85+,11,COVID-19 mentioned
+20,16,Home / Non-institution,M,85+,11,COVID-19 mentioned
+20,16,Home / Non-institution,F,15-44,12,Non-COVID-19
+20,16,Home / Non-institution,M,15-44,26,Non-COVID-19
+20,16,Home / Non-institution,F,45-64,33,Non-COVID-19
+20,16,Home / Non-institution,M,45-64,70,Non-COVID-19
+20,16,Home / Non-institution,F,65-74,35,Non-COVID-19
+20,16,Home / Non-institution,M,65-74,59,Non-COVID-19
+20,16,Home / Non-institution,F,75-84,64,Non-COVID-19
+20,16,Home / Non-institution,M,75-84,76,Non-COVID-19
+20,16,Home / Non-institution,M,85+,46,Non-COVID-19
+20,16,Home / Non-institution,F,85+,69,Non-COVID-19
+20,16,Hospital,F,15-44,1,COVID-19 mentioned
+20,16,Hospital,M,15-44,1,COVID-19 mentioned
+20,16,Hospital,F,45-64,13,COVID-19 mentioned
+20,16,Hospital,M,45-64,26,COVID-19 mentioned
+20,16,Hospital,F,65-74,23,COVID-19 mentioned
+20,16,Hospital,M,65-74,41,COVID-19 mentioned
+20,16,Hospital,F,75-84,32,COVID-19 mentioned
+20,16,Hospital,M,75-84,80,COVID-19 mentioned
+20,16,Hospital,F,85+,40,COVID-19 mentioned
+20,16,Hospital,M,85+,54,COVID-19 mentioned
+20,16,Hospital,F,0,3,Non-COVID-19
+20,16,Hospital,F,15-44,2,Non-COVID-19
+20,16,Hospital,M,15-44,5,Non-COVID-19
+20,16,Hospital,F,45-64,19,Non-COVID-19
+20,16,Hospital,M,45-64,33,Non-COVID-19
+20,16,Hospital,F,65-74,32,Non-COVID-19
+20,16,Hospital,M,65-74,57,Non-COVID-19
+20,16,Hospital,F,75-84,54,Non-COVID-19
+20,16,Hospital,M,75-84,66,Non-COVID-19
+20,16,Hospital,F,85+,60,Non-COVID-19
+20,16,Hospital,M,85+,60,Non-COVID-19
+20,16,Other institution,F,75-84,1,Non-COVID-19
+20,16,Other institution,F,85+,4,Non-COVID-19
+20,17,Care Home,F,45-64,3,COVID-19 mentioned
+20,17,Care Home,M,45-64,3,COVID-19 mentioned
+20,17,Care Home,M,65-74,14,COVID-19 mentioned
+20,17,Care Home,F,65-74,15,COVID-19 mentioned
+20,17,Care Home,M,75-84,57,COVID-19 mentioned
+20,17,Care Home,F,75-84,63,COVID-19 mentioned
+20,17,Care Home,M,85+,57,COVID-19 mentioned
+20,17,Care Home,F,85+,129,COVID-19 mentioned
+20,17,Care Home,F,15-44,1,Non-COVID-19
+20,17,Care Home,M,45-64,8,Non-COVID-19
+20,17,Care Home,F,45-64,9,Non-COVID-19
+20,17,Care Home,M,65-74,18,Non-COVID-19
+20,17,Care Home,F,65-74,19,Non-COVID-19
+20,17,Care Home,M,75-84,43,Non-COVID-19
+20,17,Care Home,F,75-84,65,Non-COVID-19
+20,17,Care Home,M,85+,46,Non-COVID-19
+20,17,Care Home,F,85+,140,Non-COVID-19
+20,17,Home / Non-institution,M,15-44,1,COVID-19 mentioned
+20,17,Home / Non-institution,F,45-64,1,COVID-19 mentioned
+20,17,Home / Non-institution,M,45-64,4,COVID-19 mentioned
+20,17,Home / Non-institution,M,65-74,5,COVID-19 mentioned
+20,17,Home / Non-institution,F,65-74,8,COVID-19 mentioned
+20,17,Home / Non-institution,F,75-84,4,COVID-19 mentioned
+20,17,Home / Non-institution,M,75-84,11,COVID-19 mentioned
+20,17,Home / Non-institution,M,85+,1,COVID-19 mentioned
+20,17,Home / Non-institution,F,85+,9,COVID-19 mentioned
+20,17,Home / Non-institution,F,15-44,9,Non-COVID-19
+20,17,Home / Non-institution,M,15-44,26,Non-COVID-19
+20,17,Home / Non-institution,F,45-64,32,Non-COVID-19
+20,17,Home / Non-institution,M,45-64,67,Non-COVID-19
+20,17,Home / Non-institution,F,65-74,47,Non-COVID-19
+20,17,Home / Non-institution,M,65-74,54,Non-COVID-19
+20,17,Home / Non-institution,F,75-84,50,Non-COVID-19
+20,17,Home / Non-institution,M,75-84,65,Non-COVID-19
+20,17,Home / Non-institution,M,85+,47,Non-COVID-19
+20,17,Home / Non-institution,F,85+,67,Non-COVID-19
+20,17,Hospital,F,15-44,3,COVID-19 mentioned
+20,17,Hospital,M,15-44,3,COVID-19 mentioned
+20,17,Hospital,F,45-64,13,COVID-19 mentioned
+20,17,Hospital,M,45-64,30,COVID-19 mentioned
+20,17,Hospital,F,65-74,20,COVID-19 mentioned
+20,17,Hospital,M,65-74,38,COVID-19 mentioned
+20,17,Hospital,F,75-84,38,COVID-19 mentioned
+20,17,Hospital,M,75-84,54,COVID-19 mentioned
+20,17,Hospital,M,85+,38,COVID-19 mentioned
+20,17,Hospital,F,85+,40,COVID-19 mentioned
+20,17,Hospital,F,0,1,Non-COVID-19
+20,17,Hospital,M,0,1,Non-COVID-19
+20,17,Hospital,M,1-14,1,Non-COVID-19
+20,17,Hospital,M,15-44,5,Non-COVID-19
+20,17,Hospital,F,15-44,6,Non-COVID-19
+20,17,Hospital,F,45-64,26,Non-COVID-19
+20,17,Hospital,M,45-64,34,Non-COVID-19
+20,17,Hospital,F,65-74,25,Non-COVID-19
+20,17,Hospital,M,65-74,46,Non-COVID-19
+20,17,Hospital,M,75-84,62,Non-COVID-19
+20,17,Hospital,F,75-84,64,Non-COVID-19
+20,17,Hospital,M,85+,35,Non-COVID-19
+20,17,Hospital,F,85+,52,Non-COVID-19
+20,17,Other institution,F,75-84,1,Non-COVID-19
+20,17,Other institution,M,75-84,1,Non-COVID-19
+20,17,Other institution,F,85+,1,Non-COVID-19
+20,18,Care Home,F,45-64,3,COVID-19 mentioned
+20,18,Care Home,M,45-64,3,COVID-19 mentioned
+20,18,Care Home,F,65-74,12,COVID-19 mentioned
+20,18,Care Home,M,65-74,18,COVID-19 mentioned
+20,18,Care Home,F,75-84,37,COVID-19 mentioned
+20,18,Care Home,M,75-84,51,COVID-19 mentioned
+20,18,Care Home,M,85+,56,COVID-19 mentioned
+20,18,Care Home,F,85+,136,COVID-19 mentioned
+20,18,Care Home,F,1-14,1,Non-COVID-19
+20,18,Care Home,F,45-64,5,Non-COVID-19
+20,18,Care Home,M,45-64,11,Non-COVID-19
+20,18,Care Home,F,65-74,9,Non-COVID-19
+20,18,Care Home,M,65-74,14,Non-COVID-19
+20,18,Care Home,M,75-84,37,Non-COVID-19
+20,18,Care Home,F,75-84,57,Non-COVID-19
+20,18,Care Home,M,85+,57,Non-COVID-19
+20,18,Care Home,F,85+,132,Non-COVID-19
+20,18,Home / Non-institution,F,45-64,2,COVID-19 mentioned
+20,18,Home / Non-institution,M,45-64,4,COVID-19 mentioned
+20,18,Home / Non-institution,M,65-74,3,COVID-19 mentioned
+20,18,Home / Non-institution,F,75-84,2,COVID-19 mentioned
+20,18,Home / Non-institution,M,75-84,3,COVID-19 mentioned
+20,18,Home / Non-institution,F,85+,1,COVID-19 mentioned
+20,18,Home / Non-institution,M,85+,2,COVID-19 mentioned
+20,18,Home / Non-institution,F,15-44,10,Non-COVID-19
+20,18,Home / Non-institution,M,15-44,29,Non-COVID-19
+20,18,Home / Non-institution,F,45-64,28,Non-COVID-19
+20,18,Home / Non-institution,M,45-64,69,Non-COVID-19
+20,18,Home / Non-institution,F,65-74,51,Non-COVID-19
+20,18,Home / Non-institution,M,65-74,51,Non-COVID-19
+20,18,Home / Non-institution,F,75-84,63,Non-COVID-19
+20,18,Home / Non-institution,M,75-84,73,Non-COVID-19
+20,18,Home / Non-institution,M,85+,48,Non-COVID-19
+20,18,Home / Non-institution,F,85+,65,Non-COVID-19
+20,18,Hospital,F,15-44,2,COVID-19 mentioned
+20,18,Hospital,F,45-64,7,COVID-19 mentioned
+20,18,Hospital,M,45-64,19,COVID-19 mentioned
+20,18,Hospital,F,65-74,14,COVID-19 mentioned
+20,18,Hospital,M,65-74,27,COVID-19 mentioned
+20,18,Hospital,M,75-84,24,COVID-19 mentioned
+20,18,Hospital,F,75-84,27,COVID-19 mentioned
+20,18,Hospital,F,85+,36,COVID-19 mentioned
+20,18,Hospital,M,85+,38,COVID-19 mentioned
+20,18,Hospital,F,0,1,Non-COVID-19
+20,18,Hospital,F,15-44,4,Non-COVID-19
+20,18,Hospital,M,15-44,6,Non-COVID-19
+20,18,Hospital,F,45-64,16,Non-COVID-19
+20,18,Hospital,M,45-64,40,Non-COVID-19
+20,18,Hospital,M,65-74,31,Non-COVID-19
+20,18,Hospital,F,65-74,39,Non-COVID-19
+20,18,Hospital,F,75-84,44,Non-COVID-19
+20,18,Hospital,M,75-84,60,Non-COVID-19
+20,18,Hospital,F,85+,47,Non-COVID-19
+20,18,Hospital,M,85+,48,Non-COVID-19
+20,18,Other institution,F,65-74,1,Non-COVID-19
+20,18,Other institution,M,75-84,1,Non-COVID-19
+20,18,Other institution,F,85+,2,Non-COVID-19
+20,18,Other institution,M,85+,2,Non-COVID-19
+20,19,Care Home,M,45-64,3,COVID-19 mentioned
+20,19,Care Home,F,65-74,5,COVID-19 mentioned
+20,19,Care Home,M,65-74,9,COVID-19 mentioned
+20,19,Care Home,M,75-84,40,COVID-19 mentioned
+20,19,Care Home,F,75-84,41,COVID-19 mentioned
+20,19,Care Home,M,85+,40,COVID-19 mentioned
+20,19,Care Home,F,85+,100,COVID-19 mentioned
+20,19,Care Home,M,15-44,1,Non-COVID-19
+20,19,Care Home,M,45-64,6,Non-COVID-19
+20,19,Care Home,F,45-64,8,Non-COVID-19
+20,19,Care Home,M,65-74,9,Non-COVID-19
+20,19,Care Home,F,65-74,10,Non-COVID-19
+20,19,Care Home,M,75-84,27,Non-COVID-19
+20,19,Care Home,F,75-84,47,Non-COVID-19
+20,19,Care Home,M,85+,40,Non-COVID-19
+20,19,Care Home,F,85+,103,Non-COVID-19
+20,19,Home / Non-institution,M,15-44,1,COVID-19 mentioned
+20,19,Home / Non-institution,M,45-64,2,COVID-19 mentioned
+20,19,Home / Non-institution,F,45-64,3,COVID-19 mentioned
+20,19,Home / Non-institution,M,65-74,1,COVID-19 mentioned
+20,19,Home / Non-institution,F,65-74,3,COVID-19 mentioned
+20,19,Home / Non-institution,F,75-84,2,COVID-19 mentioned
+20,19,Home / Non-institution,M,75-84,3,COVID-19 mentioned
+20,19,Home / Non-institution,F,85+,3,COVID-19 mentioned
+20,19,Home / Non-institution,M,85+,4,COVID-19 mentioned
+20,19,Home / Non-institution,F,15-44,11,Non-COVID-19
+20,19,Home / Non-institution,M,15-44,18,Non-COVID-19
+20,19,Home / Non-institution,F,45-64,32,Non-COVID-19
+20,19,Home / Non-institution,M,45-64,50,Non-COVID-19
+20,19,Home / Non-institution,F,65-74,34,Non-COVID-19
+20,19,Home / Non-institution,M,65-74,53,Non-COVID-19
+20,19,Home / Non-institution,M,75-84,53,Non-COVID-19
+20,19,Home / Non-institution,F,75-84,71,Non-COVID-19
+20,19,Home / Non-institution,F,85+,43,Non-COVID-19
+20,19,Home / Non-institution,M,85+,50,Non-COVID-19
+20,19,Hospital,F,15-44,1,COVID-19 mentioned
+20,19,Hospital,F,45-64,13,COVID-19 mentioned
+20,19,Hospital,M,45-64,14,COVID-19 mentioned
+20,19,Hospital,F,65-74,12,COVID-19 mentioned
+20,19,Hospital,M,65-74,20,COVID-19 mentioned
+20,19,Hospital,F,75-84,22,COVID-19 mentioned
+20,19,Hospital,M,75-84,36,COVID-19 mentioned
+20,19,Hospital,F,85+,15,COVID-19 mentioned
+20,19,Hospital,M,85+,21,COVID-19 mentioned
+20,19,Hospital,F,0,1,Non-COVID-19
+20,19,Hospital,M,0,1,Non-COVID-19
+20,19,Hospital,M,1-14,2,Non-COVID-19
+20,19,Hospital,M,15-44,2,Non-COVID-19
+20,19,Hospital,F,15-44,5,Non-COVID-19
+20,19,Hospital,F,45-64,24,Non-COVID-19
+20,19,Hospital,M,45-64,27,Non-COVID-19
+20,19,Hospital,F,65-74,33,Non-COVID-19
+20,19,Hospital,M,65-74,52,Non-COVID-19
+20,19,Hospital,F,75-84,61,Non-COVID-19
+20,19,Hospital,M,75-84,63,Non-COVID-19
+20,19,Hospital,F,85+,41,Non-COVID-19
+20,19,Hospital,M,85+,42,Non-COVID-19
+20,19,Other institution,F,75-84,1,COVID-19 mentioned
+20,20,Care Home,M,45-64,5,COVID-19 mentioned
+20,20,Care Home,M,65-74,5,COVID-19 mentioned
+20,20,Care Home,F,65-74,8,COVID-19 mentioned
+20,20,Care Home,F,75-84,23,COVID-19 mentioned
+20,20,Care Home,M,75-84,27,COVID-19 mentioned
+20,20,Care Home,M,85+,38,COVID-19 mentioned
+20,20,Care Home,F,85+,81,COVID-19 mentioned
+20,20,Care Home,F,15-44,2,Non-COVID-19
+20,20,Care Home,F,45-64,5,Non-COVID-19
+20,20,Care Home,M,45-64,6,Non-COVID-19
+20,20,Care Home,F,65-74,8,Non-COVID-19
+20,20,Care Home,M,65-74,11,Non-COVID-19
+20,20,Care Home,F,75-84,33,Non-COVID-19
+20,20,Care Home,M,75-84,38,Non-COVID-19
+20,20,Care Home,M,85+,50,Non-COVID-19
+20,20,Care Home,F,85+,96,Non-COVID-19
+20,20,Home / Non-institution,M,15-44,1,COVID-19 mentioned
+20,20,Home / Non-institution,M,45-64,1,COVID-19 mentioned
+20,20,Home / Non-institution,F,45-64,3,COVID-19 mentioned
+20,20,Home / Non-institution,F,65-74,2,COVID-19 mentioned
+20,20,Home / Non-institution,M,65-74,5,COVID-19 mentioned
+20,20,Home / Non-institution,M,75-84,1,COVID-19 mentioned
+20,20,Home / Non-institution,F,75-84,2,COVID-19 mentioned
+20,20,Home / Non-institution,F,85+,2,COVID-19 mentioned
+20,20,Home / Non-institution,M,85+,2,COVID-19 mentioned
+20,20,Home / Non-institution,F,1-14,1,Non-COVID-19
+20,20,Home / Non-institution,F,15-44,8,Non-COVID-19
+20,20,Home / Non-institution,M,15-44,35,Non-COVID-19
+20,20,Home / Non-institution,F,45-64,33,Non-COVID-19
+20,20,Home / Non-institution,M,45-64,68,Non-COVID-19
+20,20,Home / Non-institution,F,65-74,35,Non-COVID-19
+20,20,Home / Non-institution,M,65-74,62,Non-COVID-19
+20,20,Home / Non-institution,F,75-84,54,Non-COVID-19
+20,20,Home / Non-institution,M,75-84,62,Non-COVID-19
+20,20,Home / Non-institution,M,85+,37,Non-COVID-19
+20,20,Home / Non-institution,F,85+,57,Non-COVID-19
+20,20,Hospital,M,15-44,1,COVID-19 mentioned
+20,20,Hospital,F,45-64,7,COVID-19 mentioned
+20,20,Hospital,M,45-64,9,COVID-19 mentioned
+20,20,Hospital,F,65-74,11,COVID-19 mentioned
+20,20,Hospital,M,65-74,16,COVID-19 mentioned
+20,20,Hospital,F,75-84,17,COVID-19 mentioned
+20,20,Hospital,M,75-84,23,COVID-19 mentioned
+20,20,Hospital,M,85+,20,COVID-19 mentioned
+20,20,Hospital,F,85+,24,COVID-19 mentioned
+20,20,Hospital,F,0,2,Non-COVID-19
+20,20,Hospital,M,0,2,Non-COVID-19
+20,20,Hospital,F,1-14,1,Non-COVID-19
+20,20,Hospital,M,15-44,4,Non-COVID-19
+20,20,Hospital,F,15-44,6,Non-COVID-19
+20,20,Hospital,F,45-64,23,Non-COVID-19
+20,20,Hospital,M,45-64,43,Non-COVID-19
+20,20,Hospital,F,65-74,34,Non-COVID-19
+20,20,Hospital,M,65-74,34,Non-COVID-19
+20,20,Hospital,F,75-84,54,Non-COVID-19
+20,20,Hospital,M,75-84,71,Non-COVID-19
+20,20,Hospital,M,85+,46,Non-COVID-19
+20,20,Hospital,F,85+,62,Non-COVID-19
+20,20,Other institution,F,85+,1,COVID-19 mentioned
+20,20,Other institution,M,85+,1,COVID-19 mentioned
+20,20,Other institution,F,75-84,1,Non-COVID-19
+20,20,Other institution,M,85+,1,Non-COVID-19
+20,21,Care Home,M,45-64,1,COVID-19 mentioned
+20,21,Care Home,F,65-74,1,COVID-19 mentioned
+20,21,Care Home,M,65-74,2,COVID-19 mentioned
+20,21,Care Home,M,75-84,11,COVID-19 mentioned
+20,21,Care Home,F,75-84,27,COVID-19 mentioned
+20,21,Care Home,M,85+,30,COVID-19 mentioned
+20,21,Care Home,F,85+,52,COVID-19 mentioned
+20,21,Care Home,F,45-64,6,Non-COVID-19
+20,21,Care Home,M,45-64,8,Non-COVID-19
+20,21,Care Home,F,65-74,5,Non-COVID-19
+20,21,Care Home,M,65-74,9,Non-COVID-19
+20,21,Care Home,F,75-84,23,Non-COVID-19
+20,21,Care Home,M,75-84,31,Non-COVID-19
+20,21,Care Home,M,85+,33,Non-COVID-19
+20,21,Care Home,F,85+,112,Non-COVID-19
+20,21,Home / Non-institution,F,45-64,2,COVID-19 mentioned
+20,21,Home / Non-institution,M,65-74,2,COVID-19 mentioned
+20,21,Home / Non-institution,M,75-84,1,COVID-19 mentioned
+20,21,Home / Non-institution,F,75-84,2,COVID-19 mentioned
+20,21,Home / Non-institution,F,85+,2,COVID-19 mentioned
+20,21,Home / Non-institution,M,1-14,2,Non-COVID-19
+20,21,Home / Non-institution,F,15-44,11,Non-COVID-19
+20,21,Home / Non-institution,M,15-44,22,Non-COVID-19
+20,21,Home / Non-institution,F,45-64,31,Non-COVID-19
+20,21,Home / Non-institution,M,45-64,59,Non-COVID-19
+20,21,Home / Non-institution,F,65-74,41,Non-COVID-19
+20,21,Home / Non-institution,M,65-74,65,Non-COVID-19
+20,21,Home / Non-institution,M,75-84,59,Non-COVID-19
+20,21,Home / Non-institution,F,75-84,66,Non-COVID-19
+20,21,Home / Non-institution,M,85+,25,Non-COVID-19
+20,21,Home / Non-institution,F,85+,53,Non-COVID-19
+20,21,Hospital,F,45-64,3,COVID-19 mentioned
+20,21,Hospital,M,45-64,6,COVID-19 mentioned
+20,21,Hospital,F,65-74,3,COVID-19 mentioned
+20,21,Hospital,M,65-74,15,COVID-19 mentioned
+20,21,Hospital,F,75-84,11,COVID-19 mentioned
+20,21,Hospital,M,75-84,18,COVID-19 mentioned
+20,21,Hospital,F,85+,19,COVID-19 mentioned
+20,21,Hospital,M,85+,20,COVID-19 mentioned
+20,21,Hospital,F,0,2,Non-COVID-19
+20,21,Hospital,M,0,2,Non-COVID-19
+20,21,Hospital,M,1-14,1,Non-COVID-19
+20,21,Hospital,F,15-44,6,Non-COVID-19
+20,21,Hospital,M,15-44,7,Non-COVID-19
+20,21,Hospital,M,45-64,22,Non-COVID-19
+20,21,Hospital,F,45-64,26,Non-COVID-19
+20,21,Hospital,F,65-74,32,Non-COVID-19
+20,21,Hospital,M,65-74,40,Non-COVID-19
+20,21,Hospital,F,75-84,44,Non-COVID-19
+20,21,Hospital,M,75-84,55,Non-COVID-19
+20,21,Hospital,M,85+,42,Non-COVID-19
+20,21,Hospital,F,85+,54,Non-COVID-19
+20,21,Other institution,F,75-84,1,COVID-19 mentioned
+20,21,Other institution,M,85+,1,COVID-19 mentioned
+20,21,Other institution,F,85+,1,Non-COVID-19
+20,21,Other institution,M,85+,1,Non-COVID-19
+20,22,Care Home,M,45-64,1,COVID-19 mentioned
+20,22,Care Home,M,65-74,1,COVID-19 mentioned
+20,22,Care Home,F,65-74,3,COVID-19 mentioned
+20,22,Care Home,F,75-84,10,COVID-19 mentioned
+20,22,Care Home,M,75-84,13,COVID-19 mentioned
+20,22,Care Home,M,85+,14,COVID-19 mentioned
+20,22,Care Home,F,85+,27,COVID-19 mentioned
+20,22,Care Home,F,45-64,9,Non-COVID-19
+20,22,Care Home,M,45-64,10,Non-COVID-19
+20,22,Care Home,M,65-74,9,Non-COVID-19
+20,22,Care Home,F,65-74,11,Non-COVID-19
+20,22,Care Home,M,75-84,26,Non-COVID-19
+20,22,Care Home,F,75-84,34,Non-COVID-19
+20,22,Care Home,M,85+,31,Non-COVID-19
+20,22,Care Home,F,85+,96,Non-COVID-19
+20,22,Home / Non-institution,F,15-44,1,COVID-19 mentioned
+20,22,Home / Non-institution,M,75-84,1,COVID-19 mentioned
+20,22,Home / Non-institution,F,75-84,2,COVID-19 mentioned
+20,22,Home / Non-institution,M,85+,3,COVID-19 mentioned
+20,22,Home / Non-institution,F,15-44,12,Non-COVID-19
+20,22,Home / Non-institution,M,15-44,21,Non-COVID-19
+20,22,Home / Non-institution,F,45-64,22,Non-COVID-19
+20,22,Home / Non-institution,M,45-64,63,Non-COVID-19
+20,22,Home / Non-institution,F,65-74,27,Non-COVID-19
+20,22,Home / Non-institution,M,65-74,49,Non-COVID-19
+20,22,Home / Non-institution,F,75-84,50,Non-COVID-19
+20,22,Home / Non-institution,M,75-84,58,Non-COVID-19
+20,22,Home / Non-institution,M,85+,31,Non-COVID-19
+20,22,Home / Non-institution,F,85+,62,Non-COVID-19
+20,22,Hospital,M,45-64,3,COVID-19 mentioned
+20,22,Hospital,F,45-64,5,COVID-19 mentioned
+20,22,Hospital,F,65-74,5,COVID-19 mentioned
+20,22,Hospital,M,65-74,7,COVID-19 mentioned
+20,22,Hospital,F,75-84,8,COVID-19 mentioned
+20,22,Hospital,M,75-84,11,COVID-19 mentioned
+20,22,Hospital,F,85+,8,COVID-19 mentioned
+20,22,Hospital,M,85+,8,COVID-19 mentioned
+20,22,Hospital,M,0,2,Non-COVID-19
+20,22,Hospital,F,1-14,1,Non-COVID-19
+20,22,Hospital,M,1-14,1,Non-COVID-19
+20,22,Hospital,F,15-44,5,Non-COVID-19
+20,22,Hospital,M,15-44,7,Non-COVID-19
+20,22,Hospital,F,45-64,25,Non-COVID-19
+20,22,Hospital,M,45-64,27,Non-COVID-19
+20,22,Hospital,F,65-74,35,Non-COVID-19
+20,22,Hospital,M,65-74,50,Non-COVID-19
+20,22,Hospital,F,75-84,54,Non-COVID-19
+20,22,Hospital,M,75-84,62,Non-COVID-19
+20,22,Hospital,M,85+,42,Non-COVID-19
+20,22,Hospital,F,85+,65,Non-COVID-19
+20,23,Care Home,M,15-44,1,COVID-19 mentioned
+20,23,Care Home,M,65-74,2,COVID-19 mentioned
+20,23,Care Home,F,65-74,4,COVID-19 mentioned
+20,23,Care Home,F,75-84,3,COVID-19 mentioned
+20,23,Care Home,M,75-84,8,COVID-19 mentioned
+20,23,Care Home,M,85+,8,COVID-19 mentioned
+20,23,Care Home,F,85+,16,COVID-19 mentioned
+20,23,Care Home,F,45-64,4,Non-COVID-19
+20,23,Care Home,M,45-64,4,Non-COVID-19
+20,23,Care Home,M,65-74,10,Non-COVID-19
+20,23,Care Home,F,65-74,14,Non-COVID-19
+20,23,Care Home,M,75-84,26,Non-COVID-19
+20,23,Care Home,F,75-84,38,Non-COVID-19
+20,23,Care Home,M,85+,40,Non-COVID-19
+20,23,Care Home,F,85+,85,Non-COVID-19
+20,23,Home / Non-institution,M,45-64,4,COVID-19 mentioned
+20,23,Home / Non-institution,M,75-84,1,COVID-19 mentioned
+20,23,Home / Non-institution,F,85+,1,COVID-19 mentioned
+20,23,Home / Non-institution,M,85+,1,COVID-19 mentioned
+20,23,Home / Non-institution,F,0,1,Non-COVID-19
+20,23,Home / Non-institution,F,15-44,8,Non-COVID-19
+20,23,Home / Non-institution,M,15-44,29,Non-COVID-19
+20,23,Home / Non-institution,F,45-64,23,Non-COVID-19
+20,23,Home / Non-institution,M,45-64,61,Non-COVID-19
+20,23,Home / Non-institution,F,65-74,32,Non-COVID-19
+20,23,Home / Non-institution,M,65-74,51,Non-COVID-19
+20,23,Home / Non-institution,F,75-84,43,Non-COVID-19
+20,23,Home / Non-institution,M,75-84,60,Non-COVID-19
+20,23,Home / Non-institution,F,85+,33,Non-COVID-19
+20,23,Home / Non-institution,M,85+,41,Non-COVID-19
+20,23,Hospital,M,15-44,1,COVID-19 mentioned
+20,23,Hospital,F,45-64,2,COVID-19 mentioned
+20,23,Hospital,M,45-64,3,COVID-19 mentioned
+20,23,Hospital,F,65-74,2,COVID-19 mentioned
+20,23,Hospital,M,65-74,2,COVID-19 mentioned
+20,23,Hospital,M,75-84,5,COVID-19 mentioned
+20,23,Hospital,F,75-84,8,COVID-19 mentioned
+20,23,Hospital,M,85+,7,COVID-19 mentioned
+20,23,Hospital,F,85+,9,COVID-19 mentioned
+20,23,Hospital,M,0,1,Non-COVID-19
+20,23,Hospital,F,0,2,Non-COVID-19
+20,23,Hospital,F,15-44,4,Non-COVID-19
+20,23,Hospital,M,15-44,8,Non-COVID-19
+20,23,Hospital,F,45-64,18,Non-COVID-19
+20,23,Hospital,M,45-64,45,Non-COVID-19
+20,23,Hospital,F,65-74,38,Non-COVID-19
+20,23,Hospital,M,65-74,51,Non-COVID-19
+20,23,Hospital,M,75-84,58,Non-COVID-19
+20,23,Hospital,F,75-84,72,Non-COVID-19
+20,23,Hospital,M,85+,49,Non-COVID-19
+20,23,Hospital,F,85+,55,Non-COVID-19
+20,23,Other institution,F,85+,1,COVID-19 mentioned
+20,24,Care Home,M,65-74,2,COVID-19 mentioned
+20,24,Care Home,M,75-84,3,COVID-19 mentioned
+20,24,Care Home,F,75-84,7,COVID-19 mentioned
+20,24,Care Home,M,85+,8,COVID-19 mentioned
+20,24,Care Home,F,85+,14,COVID-19 mentioned
+20,24,Care Home,M,15-44,1,Non-COVID-19
+20,24,Care Home,F,15-44,2,Non-COVID-19
+20,24,Care Home,M,45-64,6,Non-COVID-19
+20,24,Care Home,F,45-64,7,Non-COVID-19
+20,24,Care Home,M,65-74,9,Non-COVID-19
+20,24,Care Home,F,65-74,11,Non-COVID-19
+20,24,Care Home,M,75-84,26,Non-COVID-19
+20,24,Care Home,F,75-84,45,Non-COVID-19
+20,24,Care Home,M,85+,22,Non-COVID-19
+20,24,Care Home,F,85+,73,Non-COVID-19
+20,24,Home / Non-institution,F,15-44,1,COVID-19 mentioned
+20,24,Home / Non-institution,M,45-64,1,COVID-19 mentioned
+20,24,Home / Non-institution,M,65-74,1,COVID-19 mentioned
+20,24,Home / Non-institution,F,75-84,1,COVID-19 mentioned
+20,24,Home / Non-institution,F,85+,3,COVID-19 mentioned
+20,24,Home / Non-institution,F,15-44,10,Non-COVID-19
+20,24,Home / Non-institution,M,15-44,31,Non-COVID-19
+20,24,Home / Non-institution,F,45-64,21,Non-COVID-19
+20,24,Home / Non-institution,M,45-64,56,Non-COVID-19
+20,24,Home / Non-institution,F,65-74,38,Non-COVID-19
+20,24,Home / Non-institution,M,65-74,65,Non-COVID-19
+20,24,Home / Non-institution,F,75-84,41,Non-COVID-19
+20,24,Home / Non-institution,M,75-84,57,Non-COVID-19
+20,24,Home / Non-institution,M,85+,31,Non-COVID-19
+20,24,Home / Non-institution,F,85+,50,Non-COVID-19
+20,24,Hospital,M,45-64,1,COVID-19 mentioned
+20,24,Hospital,M,65-74,1,COVID-19 mentioned
+20,24,Hospital,F,65-74,2,COVID-19 mentioned
+20,24,Hospital,F,75-84,4,COVID-19 mentioned
+20,24,Hospital,M,75-84,9,COVID-19 mentioned
+20,24,Hospital,F,85+,10,COVID-19 mentioned
+20,24,Hospital,F,0,1,Non-COVID-19
+20,24,Hospital,M,0,1,Non-COVID-19
+20,24,Hospital,M,1-14,1,Non-COVID-19
+20,24,Hospital,F,15-44,3,Non-COVID-19
+20,24,Hospital,M,15-44,4,Non-COVID-19
+20,24,Hospital,F,45-64,21,Non-COVID-19
+20,24,Hospital,M,45-64,26,Non-COVID-19
+20,24,Hospital,M,65-74,35,Non-COVID-19
+20,24,Hospital,F,65-74,41,Non-COVID-19
+20,24,Hospital,F,75-84,51,Non-COVID-19
+20,24,Hospital,M,75-84,64,Non-COVID-19
+20,24,Hospital,M,85+,47,Non-COVID-19
+20,24,Hospital,F,85+,67,Non-COVID-19
+20,24,Other institution,F,75-84,2,Non-COVID-19
+20,25,Care Home,M,75-84,3,COVID-19 mentioned
+20,25,Care Home,M,85+,6,COVID-19 mentioned
+20,25,Care Home,F,85+,11,COVID-19 mentioned
+20,25,Care Home,F,45-64,2,Non-COVID-19
+20,25,Care Home,M,45-64,9,Non-COVID-19
+20,25,Care Home,M,65-74,5,Non-COVID-19
+20,25,Care Home,F,65-74,8,Non-COVID-19
+20,25,Care Home,M,75-84,34,Non-COVID-19
+20,25,Care Home,F,75-84,37,Non-COVID-19
+20,25,Care Home,M,85+,36,Non-COVID-19
+20,25,Care Home,F,85+,85,Non-COVID-19
+20,25,Home / Non-institution,F,75-84,1,COVID-19 mentioned
+20,25,Home / Non-institution,F,15-44,11,Non-COVID-19
+20,25,Home / Non-institution,M,15-44,28,Non-COVID-19
+20,25,Home / Non-institution,F,45-64,30,Non-COVID-19
+20,25,Home / Non-institution,M,45-64,52,Non-COVID-19
+20,25,Home / Non-institution,F,65-74,27,Non-COVID-19
+20,25,Home / Non-institution,M,65-74,46,Non-COVID-19
+20,25,Home / Non-institution,F,75-84,52,Non-COVID-19
+20,25,Home / Non-institution,M,75-84,52,Non-COVID-19
+20,25,Home / Non-institution,M,85+,39,Non-COVID-19
+20,25,Home / Non-institution,F,85+,53,Non-COVID-19
+20,25,Hospital,M,45-64,1,COVID-19 mentioned
+20,25,Hospital,F,45-64,2,COVID-19 mentioned
+20,25,Hospital,F,65-74,4,COVID-19 mentioned
+20,25,Hospital,M,75-84,4,COVID-19 mentioned
+20,25,Hospital,F,75-84,8,COVID-19 mentioned
+20,25,Hospital,F,85+,4,COVID-19 mentioned
+20,25,Hospital,M,85+,5,COVID-19 mentioned
+20,25,Hospital,F,0,1,Non-COVID-19
+20,25,Hospital,M,0,1,Non-COVID-19
+20,25,Hospital,F,15-44,4,Non-COVID-19
+20,25,Hospital,M,15-44,5,Non-COVID-19
+20,25,Hospital,F,45-64,19,Non-COVID-19
+20,25,Hospital,M,45-64,38,Non-COVID-19
+20,25,Hospital,M,65-74,37,Non-COVID-19
+20,25,Hospital,F,65-74,44,Non-COVID-19
+20,25,Hospital,F,75-84,63,Non-COVID-19
+20,25,Hospital,M,75-84,80,Non-COVID-19
+20,25,Hospital,M,85+,51,Non-COVID-19
+20,25,Hospital,F,85+,65,Non-COVID-19
+20,25,Other institution,M,65-74,1,Non-COVID-19
+20,25,Other institution,F,85+,1,Non-COVID-19
+20,26,Care Home,M,65-74,1,COVID-19 mentioned
+20,26,Care Home,M,75-84,2,COVID-19 mentioned
+20,26,Care Home,F,75-84,5,COVID-19 mentioned
+20,26,Care Home,M,85+,1,COVID-19 mentioned
+20,26,Care Home,F,85+,8,COVID-19 mentioned
+20,26,Care Home,M,15-44,1,Non-COVID-19
+20,26,Care Home,F,45-64,7,Non-COVID-19
+20,26,Care Home,M,45-64,7,Non-COVID-19
+20,26,Care Home,M,65-74,8,Non-COVID-19
+20,26,Care Home,F,65-74,16,Non-COVID-19
+20,26,Care Home,M,75-84,20,Non-COVID-19
+20,26,Care Home,F,75-84,31,Non-COVID-19
+20,26,Care Home,M,85+,37,Non-COVID-19
+20,26,Care Home,F,85+,83,Non-COVID-19
+20,26,Home / Non-institution,M,45-64,2,COVID-19 mentioned
+20,26,Home / Non-institution,M,85+,1,COVID-19 mentioned
+20,26,Home / Non-institution,F,1-14,1,Non-COVID-19
+20,26,Home / Non-institution,M,1-14,1,Non-COVID-19
+20,26,Home / Non-institution,F,15-44,9,Non-COVID-19
+20,26,Home / Non-institution,M,15-44,27,Non-COVID-19
+20,26,Home / Non-institution,F,45-64,24,Non-COVID-19
+20,26,Home / Non-institution,M,45-64,35,Non-COVID-19
+20,26,Home / Non-institution,F,65-74,22,Non-COVID-19
+20,26,Home / Non-institution,M,65-74,56,Non-COVID-19
+20,26,Home / Non-institution,F,75-84,61,Non-COVID-19
+20,26,Home / Non-institution,M,75-84,67,Non-COVID-19
+20,26,Home / Non-institution,M,85+,32,Non-COVID-19
+20,26,Home / Non-institution,F,85+,40,Non-COVID-19
+20,26,Hospital,M,45-64,1,COVID-19 mentioned
+20,26,Hospital,M,65-74,3,COVID-19 mentioned
+20,26,Hospital,F,75-84,2,COVID-19 mentioned
+20,26,Hospital,M,75-84,4,COVID-19 mentioned
+20,26,Hospital,M,85+,2,COVID-19 mentioned
+20,26,Hospital,F,85+,4,COVID-19 mentioned
+20,26,Hospital,F,0,1,Non-COVID-19
+20,26,Hospital,M,0,2,Non-COVID-19
+20,26,Hospital,F,1-14,1,Non-COVID-19
+20,26,Hospital,M,1-14,3,Non-COVID-19
+20,26,Hospital,F,15-44,2,Non-COVID-19
+20,26,Hospital,M,15-44,7,Non-COVID-19
+20,26,Hospital,F,45-64,24,Non-COVID-19
+20,26,Hospital,M,45-64,38,Non-COVID-19
+20,26,Hospital,M,65-74,29,Non-COVID-19
+20,26,Hospital,F,65-74,36,Non-COVID-19
+20,26,Hospital,F,75-84,62,Non-COVID-19
+20,26,Hospital,M,75-84,66,Non-COVID-19
+20,26,Hospital,M,85+,34,Non-COVID-19
+20,26,Hospital,F,85+,78,Non-COVID-19
+20,26,Other institution,F,15-44,1,Non-COVID-19
+20,26,Other institution,M,15-44,1,Non-COVID-19
+20,26,Other institution,M,45-64,1,Non-COVID-19
+20,26,Other institution,M,85+,1,Non-COVID-19
+20,27,Care Home,F,65-74,1,COVID-19 mentioned
+20,27,Care Home,F,75-84,2,COVID-19 mentioned
+20,27,Care Home,F,85+,3,COVID-19 mentioned
+20,27,Care Home,F,15-44,1,Non-COVID-19
+20,27,Care Home,F,45-64,5,Non-COVID-19
+20,27,Care Home,M,45-64,6,Non-COVID-19
+20,27,Care Home,F,65-74,7,Non-COVID-19
+20,27,Care Home,M,65-74,8,Non-COVID-19
+20,27,Care Home,F,75-84,20,Non-COVID-19
+20,27,Care Home,M,75-84,22,Non-COVID-19
+20,27,Care Home,M,85+,38,Non-COVID-19
+20,27,Care Home,F,85+,69,Non-COVID-19
+20,27,Home / Non-institution,F,85+,1,COVID-19 mentioned
+20,27,Home / Non-institution,F,15-44,11,Non-COVID-19
+20,27,Home / Non-institution,M,15-44,24,Non-COVID-19
+20,27,Home / Non-institution,F,45-64,26,Non-COVID-19
+20,27,Home / Non-institution,M,45-64,60,Non-COVID-19
+20,27,Home / Non-institution,F,65-74,33,Non-COVID-19
+20,27,Home / Non-institution,M,65-74,59,Non-COVID-19
+20,27,Home / Non-institution,F,75-84,39,Non-COVID-19
+20,27,Home / Non-institution,M,75-84,51,Non-COVID-19
+20,27,Home / Non-institution,M,85+,26,Non-COVID-19
+20,27,Home / Non-institution,F,85+,55,Non-COVID-19
+20,27,Hospital,F,15-44,1,COVID-19 mentioned
+20,27,Hospital,M,45-64,2,COVID-19 mentioned
+20,27,Hospital,M,75-84,5,COVID-19 mentioned
+20,27,Hospital,M,85+,1,COVID-19 mentioned
+20,27,Hospital,F,85+,3,COVID-19 mentioned
+20,27,Hospital,F,0,1,Non-COVID-19
+20,27,Hospital,M,0,1,Non-COVID-19
+20,27,Hospital,M,15-44,6,Non-COVID-19
+20,27,Hospital,F,15-44,8,Non-COVID-19
+20,27,Hospital,F,45-64,27,Non-COVID-19
+20,27,Hospital,M,45-64,34,Non-COVID-19
+20,27,Hospital,F,65-74,29,Non-COVID-19
+20,27,Hospital,M,65-74,49,Non-COVID-19
+20,27,Hospital,F,75-84,60,Non-COVID-19
+20,27,Hospital,M,75-84,77,Non-COVID-19
+20,27,Hospital,M,85+,42,Non-COVID-19
+20,27,Hospital,F,85+,57,Non-COVID-19
+20,27,Other institution,M,15-44,2,Non-COVID-19
+20,27,Other institution,F,45-64,1,Non-COVID-19
+20,27,Other institution,F,65-74,2,Non-COVID-19
+20,27,Other institution,M,65-74,2,Non-COVID-19
+20,27,Other institution,F,75-84,1,Non-COVID-19
+20,27,Other institution,M,75-84,2,Non-COVID-19
+20,27,Other institution,F,85+,3,Non-COVID-19
+20,28,Care Home,F,65-74,1,COVID-19 mentioned
+20,28,Care Home,F,75-84,1,COVID-19 mentioned
+20,28,Care Home,M,85+,1,COVID-19 mentioned
+20,28,Care Home,F,85+,4,COVID-19 mentioned
+20,28,Care Home,M,15-44,1,Non-COVID-19
+20,28,Care Home,M,45-64,5,Non-COVID-19
+20,28,Care Home,F,45-64,8,Non-COVID-19
+20,28,Care Home,M,65-74,5,Non-COVID-19
+20,28,Care Home,F,65-74,15,Non-COVID-19
+20,28,Care Home,M,75-84,26,Non-COVID-19
+20,28,Care Home,F,75-84,32,Non-COVID-19
+20,28,Care Home,M,85+,31,Non-COVID-19
+20,28,Care Home,F,85+,70,Non-COVID-19
+20,28,Home / Non-institution,F,85+,1,COVID-19 mentioned
+20,28,Home / Non-institution,M,1-14,1,Non-COVID-19
+20,28,Home / Non-institution,F,15-44,8,Non-COVID-19
+20,28,Home / Non-institution,M,15-44,28,Non-COVID-19
+20,28,Home / Non-institution,F,45-64,25,Non-COVID-19
+20,28,Home / Non-institution,M,45-64,50,Non-COVID-19
+20,28,Home / Non-institution,F,65-74,36,Non-COVID-19
+20,28,Home / Non-institution,M,65-74,54,Non-COVID-19
+20,28,Home / Non-institution,F,75-84,39,Non-COVID-19
+20,28,Home / Non-institution,M,75-84,47,Non-COVID-19
+20,28,Home / Non-institution,M,85+,37,Non-COVID-19
+20,28,Home / Non-institution,F,85+,47,Non-COVID-19
+20,28,Hospital,F,65-74,1,COVID-19 mentioned
+20,28,Hospital,M,75-84,3,COVID-19 mentioned
+20,28,Hospital,M,85+,1,COVID-19 mentioned
+20,28,Hospital,F,1-14,1,Non-COVID-19
+20,28,Hospital,M,1-14,1,Non-COVID-19
+20,28,Hospital,F,15-44,6,Non-COVID-19
+20,28,Hospital,M,15-44,6,Non-COVID-19
+20,28,Hospital,F,45-64,23,Non-COVID-19
+20,28,Hospital,M,45-64,34,Non-COVID-19
+20,28,Hospital,F,65-74,37,Non-COVID-19
+20,28,Hospital,M,65-74,45,Non-COVID-19
+20,28,Hospital,M,75-84,57,Non-COVID-19
+20,28,Hospital,F,75-84,69,Non-COVID-19
+20,28,Hospital,M,85+,44,Non-COVID-19
+20,28,Hospital,F,85+,68,Non-COVID-19
+20,28,Other institution,M,45-64,1,Non-COVID-19
+20,28,Other institution,M,75-84,3,Non-COVID-19
+20,28,Other institution,M,85+,1,Non-COVID-19
+20,28,Other institution,F,85+,2,Non-COVID-19
+20,29,Care Home,F,75-84,1,COVID-19 mentioned
+20,29,Care Home,F,85+,2,COVID-19 mentioned
+20,29,Care Home,F,15-44,1,Non-COVID-19
+20,29,Care Home,F,45-64,5,Non-COVID-19
+20,29,Care Home,M,45-64,8,Non-COVID-19
+20,29,Care Home,F,65-74,11,Non-COVID-19
+20,29,Care Home,M,65-74,15,Non-COVID-19
+20,29,Care Home,M,75-84,28,Non-COVID-19
+20,29,Care Home,F,75-84,29,Non-COVID-19
+20,29,Care Home,M,85+,41,Non-COVID-19
+20,29,Care Home,F,85+,78,Non-COVID-19
+20,29,Home / Non-institution,F,15-44,6,Non-COVID-19
+20,29,Home / Non-institution,M,15-44,27,Non-COVID-19
+20,29,Home / Non-institution,F,45-64,32,Non-COVID-19
+20,29,Home / Non-institution,M,45-64,56,Non-COVID-19
+20,29,Home / Non-institution,M,65-74,36,Non-COVID-19
+20,29,Home / Non-institution,F,65-74,40,Non-COVID-19
+20,29,Home / Non-institution,F,75-84,34,Non-COVID-19
+20,29,Home / Non-institution,M,75-84,54,Non-COVID-19
+20,29,Home / Non-institution,M,85+,39,Non-COVID-19
+20,29,Home / Non-institution,F,85+,49,Non-COVID-19
+20,29,Hospital,F,75-84,1,COVID-19 mentioned
+20,29,Hospital,M,75-84,2,COVID-19 mentioned
+20,29,Hospital,F,0,2,Non-COVID-19
+20,29,Hospital,M,0,4,Non-COVID-19
+20,29,Hospital,M,1-14,1,Non-COVID-19
+20,29,Hospital,F,15-44,6,Non-COVID-19
+20,29,Hospital,M,15-44,7,Non-COVID-19
+20,29,Hospital,F,45-64,25,Non-COVID-19
+20,29,Hospital,M,45-64,30,Non-COVID-19
+20,29,Hospital,F,65-74,39,Non-COVID-19
+20,29,Hospital,M,65-74,50,Non-COVID-19
+20,29,Hospital,M,75-84,68,Non-COVID-19
+20,29,Hospital,F,75-84,78,Non-COVID-19
+20,29,Hospital,M,85+,48,Non-COVID-19
+20,29,Hospital,F,85+,78,Non-COVID-19
+20,29,Other institution,F,85+,2,Non-COVID-19
+20,30,Care Home,F,75-84,1,COVID-19 mentioned
+20,30,Care Home,M,75-84,1,COVID-19 mentioned
+20,30,Care Home,F,15-44,1,Non-COVID-19
+20,30,Care Home,F,45-64,4,Non-COVID-19
+20,30,Care Home,M,45-64,5,Non-COVID-19
+20,30,Care Home,F,65-74,6,Non-COVID-19
+20,30,Care Home,M,65-74,8,Non-COVID-19
+20,30,Care Home,M,75-84,28,Non-COVID-19
+20,30,Care Home,F,75-84,35,Non-COVID-19
+20,30,Care Home,M,85+,35,Non-COVID-19
+20,30,Care Home,F,85+,86,Non-COVID-19
+20,30,Home / Non-institution,F,45-64,1,COVID-19 mentioned
+20,30,Home / Non-institution,M,75-84,1,COVID-19 mentioned
+20,30,Home / Non-institution,F,1-14,1,Non-COVID-19
+20,30,Home / Non-institution,F,15-44,11,Non-COVID-19
+20,30,Home / Non-institution,M,15-44,28,Non-COVID-19
+20,30,Home / Non-institution,F,45-64,31,Non-COVID-19
+20,30,Home / Non-institution,M,45-64,47,Non-COVID-19
+20,30,Home / Non-institution,F,65-74,30,Non-COVID-19
+20,30,Home / Non-institution,M,65-74,40,Non-COVID-19
+20,30,Home / Non-institution,M,75-84,46,Non-COVID-19
+20,30,Home / Non-institution,F,75-84,55,Non-COVID-19
+20,30,Home / Non-institution,M,85+,36,Non-COVID-19
+20,30,Home / Non-institution,F,85+,43,Non-COVID-19
+20,30,Hospital,F,75-84,1,COVID-19 mentioned
+20,30,Hospital,M,75-84,1,COVID-19 mentioned
+20,30,Hospital,F,85+,2,COVID-19 mentioned
+20,30,Hospital,M,0,1,Non-COVID-19
+20,30,Hospital,F,1-14,1,Non-COVID-19
+20,30,Hospital,F,15-44,2,Non-COVID-19
+20,30,Hospital,M,15-44,7,Non-COVID-19
+20,30,Hospital,F,45-64,31,Non-COVID-19
+20,30,Hospital,M,45-64,33,Non-COVID-19
+20,30,Hospital,F,65-74,22,Non-COVID-19
+20,30,Hospital,M,65-74,53,Non-COVID-19
+20,30,Hospital,F,75-84,63,Non-COVID-19
+20,30,Hospital,M,75-84,64,Non-COVID-19
+20,30,Hospital,M,85+,41,Non-COVID-19
+20,30,Hospital,F,85+,52,Non-COVID-19
+20,30,Other institution,M,15-44,1,Non-COVID-19
+20,30,Other institution,F,45-64,1,Non-COVID-19
+20,30,Other institution,F,65-74,1,Non-COVID-19
+20,30,Other institution,M,65-74,1,Non-COVID-19
+20,30,Other institution,F,75-84,2,Non-COVID-19
+20,30,Other institution,M,85+,1,Non-COVID-19
+20,31,Care Home,M,45-64,1,COVID-19 mentioned
+20,31,Care Home,F,85+,1,COVID-19 mentioned
+20,31,Care Home,F,15-44,1,Non-COVID-19
+20,31,Care Home,M,15-44,2,Non-COVID-19
+20,31,Care Home,F,45-64,7,Non-COVID-19
+20,31,Care Home,M,45-64,7,Non-COVID-19
+20,31,Care Home,M,65-74,9,Non-COVID-19
+20,31,Care Home,F,65-74,11,Non-COVID-19
+20,31,Care Home,M,75-84,25,Non-COVID-19
+20,31,Care Home,F,75-84,33,Non-COVID-19
+20,31,Care Home,M,85+,40,Non-COVID-19
+20,31,Care Home,F,85+,77,Non-COVID-19
+20,31,Home / Non-institution,M,65-74,1,COVID-19 mentioned
+20,31,Home / Non-institution,F,15-44,7,Non-COVID-19
+20,31,Home / Non-institution,M,15-44,26,Non-COVID-19
+20,31,Home / Non-institution,F,45-64,33,Non-COVID-19
+20,31,Home / Non-institution,M,45-64,57,Non-COVID-19
+20,31,Home / Non-institution,F,65-74,29,Non-COVID-19
+20,31,Home / Non-institution,M,65-74,46,Non-COVID-19
+20,31,Home / Non-institution,M,75-84,51,Non-COVID-19
+20,31,Home / Non-institution,F,75-84,62,Non-COVID-19
+20,31,Home / Non-institution,M,85+,19,Non-COVID-19
+20,31,Home / Non-institution,F,85+,49,Non-COVID-19
+20,31,Hospital,F,45-64,1,COVID-19 mentioned
+20,31,Hospital,F,75-84,2,COVID-19 mentioned
+20,31,Hospital,F,0,1,Non-COVID-19
+20,31,Hospital,F,1-14,1,Non-COVID-19
+20,31,Hospital,M,1-14,2,Non-COVID-19
+20,31,Hospital,M,15-44,2,Non-COVID-19
+20,31,Hospital,F,15-44,7,Non-COVID-19
+20,31,Hospital,F,45-64,25,Non-COVID-19
+20,31,Hospital,M,45-64,43,Non-COVID-19
+20,31,Hospital,F,65-74,43,Non-COVID-19
+20,31,Hospital,M,65-74,53,Non-COVID-19
+20,31,Hospital,M,75-84,66,Non-COVID-19
+20,31,Hospital,F,75-84,69,Non-COVID-19
+20,31,Hospital,M,85+,56,Non-COVID-19
+20,31,Hospital,F,85+,74,Non-COVID-19
+20,31,Other institution,M,45-64,1,Non-COVID-19
+20,31,Other institution,F,75-84,1,Non-COVID-19
+20,31,Other institution,M,85+,2,Non-COVID-19
+20,32,Care Home,F,75-84,1,COVID-19 mentioned
+20,32,Care Home,F,85+,1,COVID-19 mentioned
+20,32,Care Home,M,15-44,1,Non-COVID-19
+20,32,Care Home,F,15-44,4,Non-COVID-19
+20,32,Care Home,F,45-64,5,Non-COVID-19
+20,32,Care Home,M,45-64,10,Non-COVID-19
+20,32,Care Home,F,65-74,13,Non-COVID-19
+20,32,Care Home,M,65-74,18,Non-COVID-19
+20,32,Care Home,M,75-84,24,Non-COVID-19
+20,32,Care Home,F,75-84,30,Non-COVID-19
+20,32,Care Home,M,85+,24,Non-COVID-19
+20,32,Care Home,F,85+,79,Non-COVID-19
+20,32,Home / Non-institution,F,65-74,1,COVID-19 mentioned
+20,32,Home / Non-institution,F,15-44,7,Non-COVID-19
+20,32,Home / Non-institution,M,15-44,26,Non-COVID-19
+20,32,Home / Non-institution,F,45-64,26,Non-COVID-19
+20,32,Home / Non-institution,M,45-64,53,Non-COVID-19
+20,32,Home / Non-institution,F,65-74,28,Non-COVID-19
+20,32,Home / Non-institution,M,65-74,50,Non-COVID-19
+20,32,Home / Non-institution,M,75-84,56,Non-COVID-19
+20,32,Home / Non-institution,F,75-84,60,Non-COVID-19
+20,32,Home / Non-institution,M,85+,25,Non-COVID-19
+20,32,Home / Non-institution,F,85+,41,Non-COVID-19
+20,32,Hospital,F,75-84,1,COVID-19 mentioned
+20,32,Hospital,F,85+,1,COVID-19 mentioned
+20,32,Hospital,M,15-44,5,Non-COVID-19
+20,32,Hospital,F,15-44,6,Non-COVID-19
+20,32,Hospital,M,45-64,27,Non-COVID-19
+20,32,Hospital,F,45-64,31,Non-COVID-19
+20,32,Hospital,F,65-74,38,Non-COVID-19
+20,32,Hospital,M,65-74,59,Non-COVID-19
+20,32,Hospital,F,75-84,57,Non-COVID-19
+20,32,Hospital,M,75-84,74,Non-COVID-19
+20,32,Hospital,M,85+,47,Non-COVID-19
+20,32,Hospital,F,85+,74,Non-COVID-19
+20,32,Other institution,M,45-64,1,Non-COVID-19
+20,32,Other institution,M,65-74,1,Non-COVID-19
+20,32,Other institution,F,75-84,2,Non-COVID-19
+20,32,Other institution,M,75-84,3,Non-COVID-19
+20,32,Other institution,M,85+,1,Non-COVID-19
+20,33,Care Home,F,85+,1,COVID-19 mentioned
+20,33,Care Home,F,0,1,Non-COVID-19
+20,33,Care Home,F,15-44,1,Non-COVID-19
+20,33,Care Home,M,15-44,1,Non-COVID-19
+20,33,Care Home,F,45-64,6,Non-COVID-19
+20,33,Care Home,M,45-64,10,Non-COVID-19
+20,33,Care Home,M,65-74,11,Non-COVID-19
+20,33,Care Home,F,65-74,15,Non-COVID-19
+20,33,Care Home,M,75-84,15,Non-COVID-19
+20,33,Care Home,F,75-84,34,Non-COVID-19
+20,33,Care Home,M,85+,32,Non-COVID-19
+20,33,Care Home,F,85+,74,Non-COVID-19
+20,33,Home / Non-institution,F,1-14,1,Non-COVID-19
+20,33,Home / Non-institution,F,15-44,15,Non-COVID-19
+20,33,Home / Non-institution,M,15-44,27,Non-COVID-19
+20,33,Home / Non-institution,F,45-64,23,Non-COVID-19
+20,33,Home / Non-institution,M,45-64,45,Non-COVID-19
+20,33,Home / Non-institution,F,65-74,34,Non-COVID-19
+20,33,Home / Non-institution,M,65-74,55,Non-COVID-19
+20,33,Home / Non-institution,F,75-84,34,Non-COVID-19
+20,33,Home / Non-institution,M,75-84,42,Non-COVID-19
+20,33,Home / Non-institution,M,85+,31,Non-COVID-19
+20,33,Home / Non-institution,F,85+,43,Non-COVID-19
+20,33,Hospital,F,45-64,1,COVID-19 mentioned
+20,33,Hospital,M,65-74,1,COVID-19 mentioned
+20,33,Hospital,F,0,1,Non-COVID-19
+20,33,Hospital,F,1-14,1,Non-COVID-19
+20,33,Hospital,F,15-44,3,Non-COVID-19
+20,33,Hospital,M,15-44,6,Non-COVID-19
+20,33,Hospital,F,45-64,28,Non-COVID-19
+20,33,Hospital,M,45-64,43,Non-COVID-19
+20,33,Hospital,F,65-74,32,Non-COVID-19
+20,33,Hospital,M,65-74,39,Non-COVID-19
+20,33,Hospital,F,75-84,47,Non-COVID-19
+20,33,Hospital,M,75-84,70,Non-COVID-19
+20,33,Hospital,M,85+,43,Non-COVID-19
+20,33,Hospital,F,85+,54,Non-COVID-19
+20,33,Other institution,M,75-84,1,Non-COVID-19
+20,33,Other institution,M,85+,1,Non-COVID-19
+20,34,Care Home,F,85+,3,COVID-19 mentioned
+20,34,Care Home,M,15-44,1,Non-COVID-19
+20,34,Care Home,F,15-44,2,Non-COVID-19
+20,34,Care Home,F,45-64,9,Non-COVID-19
+20,34,Care Home,M,45-64,9,Non-COVID-19
+20,34,Care Home,F,65-74,11,Non-COVID-19
+20,34,Care Home,M,65-74,20,Non-COVID-19
+20,34,Care Home,F,75-84,33,Non-COVID-19
+20,34,Care Home,M,75-84,37,Non-COVID-19
+20,34,Care Home,M,85+,31,Non-COVID-19
+20,34,Care Home,F,85+,78,Non-COVID-19
+20,34,Home / Non-institution,F,15-44,3,Non-COVID-19
+20,34,Home / Non-institution,M,15-44,23,Non-COVID-19
+20,34,Home / Non-institution,F,45-64,28,Non-COVID-19
+20,34,Home / Non-institution,M,45-64,50,Non-COVID-19
+20,34,Home / Non-institution,F,65-74,37,Non-COVID-19
+20,34,Home / Non-institution,M,65-74,46,Non-COVID-19
+20,34,Home / Non-institution,F,75-84,41,Non-COVID-19
+20,34,Home / Non-institution,M,75-84,60,Non-COVID-19
+20,34,Home / Non-institution,M,85+,36,Non-COVID-19
+20,34,Home / Non-institution,F,85+,40,Non-COVID-19
+20,34,Hospital,F,75-84,1,COVID-19 mentioned
+20,34,Hospital,M,75-84,1,COVID-19 mentioned
+20,34,Hospital,M,0,1,Non-COVID-19
+20,34,Hospital,F,1-14,2,Non-COVID-19
+20,34,Hospital,F,15-44,4,Non-COVID-19
+20,34,Hospital,M,15-44,9,Non-COVID-19
+20,34,Hospital,F,45-64,27,Non-COVID-19
+20,34,Hospital,M,45-64,34,Non-COVID-19
+20,34,Hospital,M,65-74,44,Non-COVID-19
+20,34,Hospital,F,65-74,45,Non-COVID-19
+20,34,Hospital,M,75-84,70,Non-COVID-19
+20,34,Hospital,F,75-84,73,Non-COVID-19
+20,34,Hospital,M,85+,63,Non-COVID-19
+20,34,Hospital,F,85+,68,Non-COVID-19
+20,34,Other institution,F,45-64,1,Non-COVID-19
+20,34,Other institution,M,65-74,1,Non-COVID-19
+20,34,Other institution,F,75-84,1,Non-COVID-19
+20,34,Other institution,M,75-84,1,Non-COVID-19
+20,34,Other institution,F,85+,1,Non-COVID-19
+20,34,Other institution,M,85+,1,Non-COVID-19
+20,35,Care Home,M,75-84,1,COVID-19 mentioned
+20,35,Care Home,F,85+,2,COVID-19 mentioned
+20,35,Care Home,F,15-44,1,Non-COVID-19
+20,35,Care Home,M,45-64,8,Non-COVID-19
+20,35,Care Home,F,45-64,10,Non-COVID-19
+20,35,Care Home,F,65-74,11,Non-COVID-19
+20,35,Care Home,M,65-74,17,Non-COVID-19
+20,35,Care Home,F,75-84,31,Non-COVID-19
+20,35,Care Home,M,75-84,31,Non-COVID-19
+20,35,Care Home,M,85+,31,Non-COVID-19
+20,35,Care Home,F,85+,63,Non-COVID-19
+20,35,Home / Non-institution,M,45-64,1,COVID-19 mentioned
+20,35,Home / Non-institution,F,15-44,9,Non-COVID-19
+20,35,Home / Non-institution,M,15-44,30,Non-COVID-19
+20,35,Home / Non-institution,F,45-64,28,Non-COVID-19
+20,35,Home / Non-institution,M,45-64,58,Non-COVID-19
+20,35,Home / Non-institution,F,65-74,34,Non-COVID-19
+20,35,Home / Non-institution,M,65-74,54,Non-COVID-19
+20,35,Home / Non-institution,F,75-84,36,Non-COVID-19
+20,35,Home / Non-institution,M,75-84,54,Non-COVID-19
+20,35,Home / Non-institution,M,85+,26,Non-COVID-19
+20,35,Home / Non-institution,F,85+,51,Non-COVID-19
+20,35,Hospital,F,65-74,1,COVID-19 mentioned
+20,35,Hospital,M,85+,2,COVID-19 mentioned
+20,35,Hospital,M,0,2,Non-COVID-19
+20,35,Hospital,F,0,3,Non-COVID-19
+20,35,Hospital,F,15-44,1,Non-COVID-19
+20,35,Hospital,M,15-44,5,Non-COVID-19
+20,35,Hospital,F,45-64,25,Non-COVID-19
+20,35,Hospital,M,45-64,36,Non-COVID-19
+20,35,Hospital,F,65-74,40,Non-COVID-19
+20,35,Hospital,M,65-74,55,Non-COVID-19
+20,35,Hospital,F,75-84,70,Non-COVID-19
+20,35,Hospital,M,75-84,73,Non-COVID-19
+20,35,Hospital,M,85+,54,Non-COVID-19
+20,35,Hospital,F,85+,71,Non-COVID-19
+20,35,Other institution,M,75-84,1,Non-COVID-19
+20,35,Other institution,F,75-84,2,Non-COVID-19
+20,35,Other institution,F,85+,1,Non-COVID-19
+20,35,Other institution,M,85+,1,Non-COVID-19
+20,36,Care Home,F,45-64,6,Non-COVID-19
+20,36,Care Home,M,45-64,10,Non-COVID-19
+20,36,Care Home,F,65-74,11,Non-COVID-19
+20,36,Care Home,M,65-74,17,Non-COVID-19
+20,36,Care Home,M,75-84,28,Non-COVID-19
+20,36,Care Home,F,75-84,35,Non-COVID-19
+20,36,Care Home,M,85+,42,Non-COVID-19
+20,36,Care Home,F,85+,67,Non-COVID-19
+20,36,Home / Non-institution,F,1-14,1,Non-COVID-19
+20,36,Home / Non-institution,M,1-14,1,Non-COVID-19
+20,36,Home / Non-institution,F,15-44,13,Non-COVID-19
+20,36,Home / Non-institution,M,15-44,24,Non-COVID-19
+20,36,Home / Non-institution,F,45-64,32,Non-COVID-19
+20,36,Home / Non-institution,M,45-64,54,Non-COVID-19
+20,36,Home / Non-institution,F,65-74,40,Non-COVID-19
+20,36,Home / Non-institution,M,65-74,49,Non-COVID-19
+20,36,Home / Non-institution,F,75-84,38,Non-COVID-19
+20,36,Home / Non-institution,M,75-84,48,Non-COVID-19
+20,36,Home / Non-institution,F,85+,31,Non-COVID-19
+20,36,Home / Non-institution,M,85+,38,Non-COVID-19
+20,36,Hospital,F,85+,2,COVID-19 mentioned
+20,36,Hospital,M,0,1,Non-COVID-19
+20,36,Hospital,F,15-44,4,Non-COVID-19
+20,36,Hospital,M,15-44,7,Non-COVID-19
+20,36,Hospital,F,45-64,30,Non-COVID-19
+20,36,Hospital,M,45-64,40,Non-COVID-19
+20,36,Hospital,F,65-74,39,Non-COVID-19
+20,36,Hospital,M,65-74,63,Non-COVID-19
+20,36,Hospital,F,75-84,63,Non-COVID-19
+20,36,Hospital,M,75-84,81,Non-COVID-19
+20,36,Hospital,M,85+,57,Non-COVID-19
+20,36,Hospital,F,85+,70,Non-COVID-19
+20,36,Other institution,F,65-74,1,Non-COVID-19
+20,36,Other institution,M,65-74,1,Non-COVID-19
+20,36,Other institution,F,75-84,1,Non-COVID-19
+20,36,Other institution,M,75-84,1,Non-COVID-19
+20,36,Other institution,F,85+,2,Non-COVID-19
+20,36,Other institution,M,85+,2,Non-COVID-19
+20,37,Care Home,F,65-74,1,COVID-19 mentioned
+20,37,Care Home,M,75-84,1,COVID-19 mentioned
+20,37,Care Home,M,15-44,1,Non-COVID-19
+20,37,Care Home,F,45-64,7,Non-COVID-19
+20,37,Care Home,M,45-64,9,Non-COVID-19
+20,37,Care Home,F,65-74,7,Non-COVID-19
+20,37,Care Home,M,65-74,8,Non-COVID-19
+20,37,Care Home,F,75-84,29,Non-COVID-19
+20,37,Care Home,M,75-84,36,Non-COVID-19
+20,37,Care Home,M,85+,38,Non-COVID-19
+20,37,Care Home,F,85+,80,Non-COVID-19
+20,37,Home / Non-institution,F,15-44,11,Non-COVID-19
+20,37,Home / Non-institution,M,15-44,21,Non-COVID-19
+20,37,Home / Non-institution,F,45-64,21,Non-COVID-19
+20,37,Home / Non-institution,M,45-64,48,Non-COVID-19
+20,37,Home / Non-institution,F,65-74,40,Non-COVID-19
+20,37,Home / Non-institution,M,65-74,40,Non-COVID-19
+20,37,Home / Non-institution,F,75-84,48,Non-COVID-19
+20,37,Home / Non-institution,M,75-84,60,Non-COVID-19
+20,37,Home / Non-institution,M,85+,30,Non-COVID-19
+20,37,Home / Non-institution,F,85+,39,Non-COVID-19
+20,37,Hospital,M,65-74,1,COVID-19 mentioned
+20,37,Hospital,M,75-84,2,COVID-19 mentioned
+20,37,Hospital,F,0,1,Non-COVID-19
+20,37,Hospital,M,0,1,Non-COVID-19
+20,37,Hospital,F,15-44,3,Non-COVID-19
+20,37,Hospital,M,15-44,7,Non-COVID-19
+20,37,Hospital,F,45-64,32,Non-COVID-19
+20,37,Hospital,M,45-64,39,Non-COVID-19
+20,37,Hospital,F,65-74,43,Non-COVID-19
+20,37,Hospital,M,65-74,65,Non-COVID-19
+20,37,Hospital,F,75-84,65,Non-COVID-19
+20,37,Hospital,M,75-84,79,Non-COVID-19
+20,37,Hospital,M,85+,62,Non-COVID-19
+20,37,Hospital,F,85+,91,Non-COVID-19
+20,37,Other institution,M,15-44,1,Non-COVID-19
+20,37,Other institution,M,65-74,1,Non-COVID-19
+20,37,Other institution,M,75-84,1,Non-COVID-19
+20,38,Care Home,M,85+,1,COVID-19 mentioned
+20,38,Care Home,F,85+,2,COVID-19 mentioned
+20,38,Care Home,M,0,1,Non-COVID-19
+20,38,Care Home,F,45-64,4,Non-COVID-19
+20,38,Care Home,M,45-64,8,Non-COVID-19
+20,38,Care Home,F,65-74,5,Non-COVID-19
+20,38,Care Home,M,65-74,8,Non-COVID-19
+20,38,Care Home,M,75-84,25,Non-COVID-19
+20,38,Care Home,F,75-84,26,Non-COVID-19
+20,38,Care Home,M,85+,35,Non-COVID-19
+20,38,Care Home,F,85+,92,Non-COVID-19
+20,38,Home / Non-institution,F,15-44,6,Non-COVID-19
+20,38,Home / Non-institution,M,15-44,24,Non-COVID-19
+20,38,Home / Non-institution,F,45-64,31,Non-COVID-19
+20,38,Home / Non-institution,M,45-64,43,Non-COVID-19
+20,38,Home / Non-institution,F,65-74,35,Non-COVID-19
+20,38,Home / Non-institution,M,65-74,38,Non-COVID-19
+20,38,Home / Non-institution,M,75-84,44,Non-COVID-19
+20,38,Home / Non-institution,F,75-84,48,Non-COVID-19
+20,38,Home / Non-institution,M,85+,29,Non-COVID-19
+20,38,Home / Non-institution,F,85+,42,Non-COVID-19
+20,38,Hospital,M,45-64,2,COVID-19 mentioned
+20,38,Hospital,F,75-84,1,COVID-19 mentioned
+20,38,Hospital,M,75-84,1,COVID-19 mentioned
+20,38,Hospital,F,85+,2,COVID-19 mentioned
+20,38,Hospital,M,85+,2,COVID-19 mentioned
+20,38,Hospital,F,0,5,Non-COVID-19
+20,38,Hospital,M,1-14,1,Non-COVID-19
+20,38,Hospital,F,15-44,2,Non-COVID-19
+20,38,Hospital,M,15-44,7,Non-COVID-19
+20,38,Hospital,M,45-64,28,Non-COVID-19
+20,38,Hospital,F,45-64,38,Non-COVID-19
+20,38,Hospital,F,65-74,40,Non-COVID-19
+20,38,Hospital,M,65-74,44,Non-COVID-19
+20,38,Hospital,M,75-84,60,Non-COVID-19
+20,38,Hospital,F,75-84,62,Non-COVID-19
+20,38,Hospital,F,85+,47,Non-COVID-19
+20,38,Hospital,M,85+,55,Non-COVID-19
+20,38,Other institution,M,15-44,1,Non-COVID-19
+20,38,Other institution,F,65-74,2,Non-COVID-19
+20,38,Other institution,M,65-74,2,Non-COVID-19
+20,38,Other institution,F,75-84,2,Non-COVID-19
+20,38,Other institution,F,85+,1,Non-COVID-19
+20,39,Care Home,F,75-84,1,COVID-19 mentioned
+20,39,Care Home,F,85+,1,COVID-19 mentioned
+20,39,Care Home,M,85+,2,COVID-19 mentioned
+20,39,Care Home,M,45-64,4,Non-COVID-19
+20,39,Care Home,F,45-64,5,Non-COVID-19
+20,39,Care Home,F,65-74,6,Non-COVID-19
+20,39,Care Home,M,65-74,11,Non-COVID-19
+20,39,Care Home,F,75-84,25,Non-COVID-19
+20,39,Care Home,M,75-84,27,Non-COVID-19
+20,39,Care Home,M,85+,31,Non-COVID-19
+20,39,Care Home,F,85+,88,Non-COVID-19
+20,39,Home / Non-institution,M,75-84,1,COVID-19 mentioned
+20,39,Home / Non-institution,M,0,1,Non-COVID-19
+20,39,Home / Non-institution,F,15-44,4,Non-COVID-19
+20,39,Home / Non-institution,M,15-44,17,Non-COVID-19
+20,39,Home / Non-institution,F,45-64,31,Non-COVID-19
+20,39,Home / Non-institution,M,45-64,40,Non-COVID-19
+20,39,Home / Non-institution,F,65-74,23,Non-COVID-19
+20,39,Home / Non-institution,M,65-74,46,Non-COVID-19
+20,39,Home / Non-institution,F,75-84,39,Non-COVID-19
+20,39,Home / Non-institution,M,75-84,39,Non-COVID-19
+20,39,Home / Non-institution,M,85+,30,Non-COVID-19
+20,39,Home / Non-institution,F,85+,36,Non-COVID-19
+20,39,Hospital,M,45-64,1,COVID-19 mentioned
+20,39,Hospital,M,75-84,2,COVID-19 mentioned
+20,39,Hospital,F,85+,1,COVID-19 mentioned
+20,39,Hospital,M,85+,1,COVID-19 mentioned
+20,39,Hospital,F,0,2,Non-COVID-19
+20,39,Hospital,M,0,3,Non-COVID-19
+20,39,Hospital,F,15-44,5,Non-COVID-19
+20,39,Hospital,M,15-44,10,Non-COVID-19
+20,39,Hospital,F,45-64,23,Non-COVID-19
+20,39,Hospital,M,45-64,33,Non-COVID-19
+20,39,Hospital,F,65-74,29,Non-COVID-19
+20,39,Hospital,M,65-74,54,Non-COVID-19
+20,39,Hospital,F,75-84,65,Non-COVID-19
+20,39,Hospital,M,75-84,66,Non-COVID-19
+20,39,Hospital,M,85+,51,Non-COVID-19
+20,39,Hospital,F,85+,73,Non-COVID-19
+20,39,Other institution,F,15-44,1,Non-COVID-19
+20,39,Other institution,F,45-64,1,Non-COVID-19
+20,39,Other institution,M,85+,1,Non-COVID-19
+20,39,Other institution,F,85+,3,Non-COVID-19
+20,40,Care Home,M,65-74,1,COVID-19 mentioned
+20,40,Care Home,F,75-84,2,COVID-19 mentioned
+20,40,Care Home,F,85+,3,COVID-19 mentioned
+20,40,Care Home,F,15-44,1,Non-COVID-19
+20,40,Care Home,F,45-64,6,Non-COVID-19
+20,40,Care Home,M,45-64,10,Non-COVID-19
+20,40,Care Home,M,65-74,13,Non-COVID-19
+20,40,Care Home,F,65-74,19,Non-COVID-19
+20,40,Care Home,M,75-84,32,Non-COVID-19
+20,40,Care Home,F,75-84,39,Non-COVID-19
+20,40,Care Home,M,85+,26,Non-COVID-19
+20,40,Care Home,F,85+,111,Non-COVID-19
+20,40,Home / Non-institution,F,15-44,12,Non-COVID-19
+20,40,Home / Non-institution,M,15-44,21,Non-COVID-19
+20,40,Home / Non-institution,F,45-64,33,Non-COVID-19
+20,40,Home / Non-institution,M,45-64,63,Non-COVID-19
+20,40,Home / Non-institution,F,65-74,30,Non-COVID-19
+20,40,Home / Non-institution,M,65-74,47,Non-COVID-19
+20,40,Home / Non-institution,F,75-84,49,Non-COVID-19
+20,40,Home / Non-institution,M,75-84,60,Non-COVID-19
+20,40,Home / Non-institution,M,85+,33,Non-COVID-19
+20,40,Home / Non-institution,F,85+,55,Non-COVID-19
+20,40,Hospital,M,45-64,1,COVID-19 mentioned
+20,40,Hospital,M,65-74,2,COVID-19 mentioned
+20,40,Hospital,F,75-84,3,COVID-19 mentioned
+20,40,Hospital,M,75-84,6,COVID-19 mentioned
+20,40,Hospital,F,85+,1,COVID-19 mentioned
+20,40,Hospital,M,0,4,Non-COVID-19
+20,40,Hospital,F,1-14,1,Non-COVID-19
+20,40,Hospital,M,1-14,1,Non-COVID-19
+20,40,Hospital,M,15-44,5,Non-COVID-19
+20,40,Hospital,F,15-44,6,Non-COVID-19
+20,40,Hospital,F,45-64,34,Non-COVID-19
+20,40,Hospital,M,45-64,50,Non-COVID-19
+20,40,Hospital,F,65-74,50,Non-COVID-19
+20,40,Hospital,M,65-74,59,Non-COVID-19
+20,40,Hospital,F,75-84,73,Non-COVID-19
+20,40,Hospital,M,75-84,76,Non-COVID-19
+20,40,Hospital,M,85+,59,Non-COVID-19
+20,40,Hospital,F,85+,90,Non-COVID-19
+20,40,Other institution,M,75-84,1,COVID-19 mentioned
+20,40,Other institution,M,15-44,1,Non-COVID-19
+20,40,Other institution,F,45-64,2,Non-COVID-19
+20,40,Other institution,F,75-84,2,Non-COVID-19
+20,40,Other institution,M,85+,1,Non-COVID-19
+20,40,Other institution,F,85+,2,Non-COVID-19
+20,41,Care Home,M,65-74,3,COVID-19 mentioned
+20,41,Care Home,F,85+,2,COVID-19 mentioned
+20,41,Care Home,M,85+,2,COVID-19 mentioned
+20,41,Care Home,F,45-64,6,Non-COVID-19
+20,41,Care Home,M,45-64,8,Non-COVID-19
+20,41,Care Home,M,65-74,6,Non-COVID-19
+20,41,Care Home,F,65-74,9,Non-COVID-19
+20,41,Care Home,M,75-84,21,Non-COVID-19
+20,41,Care Home,F,75-84,37,Non-COVID-19
+20,41,Care Home,M,85+,43,Non-COVID-19
+20,41,Care Home,F,85+,84,Non-COVID-19
+20,41,Home / Non-institution,F,15-44,1,COVID-19 mentioned
+20,41,Home / Non-institution,M,1-14,1,Non-COVID-19
+20,41,Home / Non-institution,F,15-44,8,Non-COVID-19
+20,41,Home / Non-institution,M,15-44,23,Non-COVID-19
+20,41,Home / Non-institution,F,45-64,23,Non-COVID-19
+20,41,Home / Non-institution,M,45-64,49,Non-COVID-19
+20,41,Home / Non-institution,F,65-74,31,Non-COVID-19
+20,41,Home / Non-institution,M,65-74,34,Non-COVID-19
+20,41,Home / Non-institution,F,75-84,56,Non-COVID-19
+20,41,Home / Non-institution,M,75-84,60,Non-COVID-19
+20,41,Home / Non-institution,M,85+,37,Non-COVID-19
+20,41,Home / Non-institution,F,85+,51,Non-COVID-19
+20,41,Hospital,M,45-64,1,COVID-19 mentioned
+20,41,Hospital,F,45-64,3,COVID-19 mentioned
+20,41,Hospital,F,65-74,1,COVID-19 mentioned
+20,41,Hospital,F,75-84,3,COVID-19 mentioned
+20,41,Hospital,M,75-84,6,COVID-19 mentioned
+20,41,Hospital,F,85+,1,COVID-19 mentioned
+20,41,Hospital,M,85+,2,COVID-19 mentioned
+20,41,Hospital,F,15-44,3,Non-COVID-19
+20,41,Hospital,M,15-44,7,Non-COVID-19
+20,41,Hospital,F,45-64,19,Non-COVID-19
+20,41,Hospital,M,45-64,38,Non-COVID-19
+20,41,Hospital,M,65-74,38,Non-COVID-19
+20,41,Hospital,F,65-74,44,Non-COVID-19
+20,41,Hospital,M,75-84,61,Non-COVID-19
+20,41,Hospital,F,75-84,90,Non-COVID-19
+20,41,Hospital,M,85+,68,Non-COVID-19
+20,41,Hospital,F,85+,86,Non-COVID-19
+20,41,Other institution,F,75-84,2,Non-COVID-19
+20,41,Other institution,M,75-84,2,Non-COVID-19
+20,41,Other institution,F,85+,1,Non-COVID-19
+20,42,Care Home,F,75-84,2,COVID-19 mentioned
+20,42,Care Home,M,75-84,3,COVID-19 mentioned
+20,42,Care Home,M,85+,1,COVID-19 mentioned
+20,42,Care Home,F,85+,7,COVID-19 mentioned
+20,42,Care Home,M,15-44,1,Non-COVID-19
+20,42,Care Home,M,45-64,4,Non-COVID-19
+20,42,Care Home,F,45-64,8,Non-COVID-19
+20,42,Care Home,F,65-74,5,Non-COVID-19
+20,42,Care Home,M,65-74,17,Non-COVID-19
+20,42,Care Home,M,75-84,23,Non-COVID-19
+20,42,Care Home,F,75-84,37,Non-COVID-19
+20,42,Care Home,M,85+,40,Non-COVID-19
+20,42,Care Home,F,85+,100,Non-COVID-19
+20,42,Home / Non-institution,M,45-64,1,COVID-19 mentioned
+20,42,Home / Non-institution,F,65-74,1,COVID-19 mentioned
+20,42,Home / Non-institution,F,75-84,1,COVID-19 mentioned
+20,42,Home / Non-institution,M,75-84,2,COVID-19 mentioned
+20,42,Home / Non-institution,F,15-44,2,Non-COVID-19
+20,42,Home / Non-institution,M,15-44,20,Non-COVID-19
+20,42,Home / Non-institution,F,45-64,21,Non-COVID-19
+20,42,Home / Non-institution,M,45-64,50,Non-COVID-19
+20,42,Home / Non-institution,M,65-74,34,Non-COVID-19
+20,42,Home / Non-institution,F,65-74,39,Non-COVID-19
+20,42,Home / Non-institution,F,75-84,54,Non-COVID-19
+20,42,Home / Non-institution,M,75-84,56,Non-COVID-19
+20,42,Home / Non-institution,M,85+,24,Non-COVID-19
+20,42,Home / Non-institution,F,85+,41,Non-COVID-19
+20,42,Hospital,M,15-44,2,COVID-19 mentioned
+20,42,Hospital,F,45-64,3,COVID-19 mentioned
+20,42,Hospital,M,45-64,5,COVID-19 mentioned
+20,42,Hospital,M,65-74,2,COVID-19 mentioned
+20,42,Hospital,F,65-74,6,COVID-19 mentioned
+20,42,Hospital,F,75-84,10,COVID-19 mentioned
+20,42,Hospital,M,75-84,21,COVID-19 mentioned
+20,42,Hospital,F,85+,2,COVID-19 mentioned
+20,42,Hospital,M,85+,7,COVID-19 mentioned
+20,42,Hospital,M,0,1,Non-COVID-19
+20,42,Hospital,F,15-44,6,Non-COVID-19
+20,42,Hospital,M,15-44,7,Non-COVID-19
+20,42,Hospital,M,45-64,25,Non-COVID-19
+20,42,Hospital,F,45-64,29,Non-COVID-19
+20,42,Hospital,F,65-74,38,Non-COVID-19
+20,42,Hospital,M,65-74,50,Non-COVID-19
+20,42,Hospital,F,75-84,74,Non-COVID-19
+20,42,Hospital,M,75-84,95,Non-COVID-19
+20,42,Hospital,M,85+,62,Non-COVID-19
+20,42,Hospital,F,85+,88,Non-COVID-19
+20,42,Other institution,F,15-44,1,Non-COVID-19
+20,42,Other institution,M,15-44,1,Non-COVID-19
+20,42,Other institution,F,45-64,2,Non-COVID-19
+20,42,Other institution,M,65-74,1,Non-COVID-19
+20,42,Other institution,F,85+,2,Non-COVID-19
+20,43,Care Home,M,45-64,1,COVID-19 mentioned
+20,43,Care Home,M,65-74,1,COVID-19 mentioned
+20,43,Care Home,M,75-84,1,COVID-19 mentioned
+20,43,Care Home,F,75-84,4,COVID-19 mentioned
+20,43,Care Home,M,85+,3,COVID-19 mentioned
+20,43,Care Home,F,85+,8,COVID-19 mentioned
+20,43,Care Home,F,15-44,2,Non-COVID-19
+20,43,Care Home,M,15-44,2,Non-COVID-19
+20,43,Care Home,F,45-64,2,Non-COVID-19
+20,43,Care Home,M,45-64,8,Non-COVID-19
+20,43,Care Home,F,65-74,10,Non-COVID-19
+20,43,Care Home,M,65-74,19,Non-COVID-19
+20,43,Care Home,F,75-84,27,Non-COVID-19
+20,43,Care Home,M,75-84,30,Non-COVID-19
+20,43,Care Home,M,85+,45,Non-COVID-19
+20,43,Care Home,F,85+,91,Non-COVID-19
+20,43,Home / Non-institution,M,45-64,1,COVID-19 mentioned
+20,43,Home / Non-institution,F,65-74,1,COVID-19 mentioned
+20,43,Home / Non-institution,M,65-74,1,COVID-19 mentioned
+20,43,Home / Non-institution,F,75-84,1,COVID-19 mentioned
+20,43,Home / Non-institution,F,85+,2,COVID-19 mentioned
+20,43,Home / Non-institution,M,0,1,Non-COVID-19
+20,43,Home / Non-institution,F,15-44,14,Non-COVID-19
+20,43,Home / Non-institution,M,15-44,21,Non-COVID-19
+20,43,Home / Non-institution,F,45-64,29,Non-COVID-19
+20,43,Home / Non-institution,M,45-64,59,Non-COVID-19
+20,43,Home / Non-institution,F,65-74,35,Non-COVID-19
+20,43,Home / Non-institution,M,65-74,55,Non-COVID-19
+20,43,Home / Non-institution,M,75-84,37,Non-COVID-19
+20,43,Home / Non-institution,F,75-84,54,Non-COVID-19
+20,43,Home / Non-institution,M,85+,37,Non-COVID-19
+20,43,Home / Non-institution,F,85+,39,Non-COVID-19
+20,43,Hospital,M,15-44,2,COVID-19 mentioned
+20,43,Hospital,F,45-64,5,COVID-19 mentioned
+20,43,Hospital,M,45-64,7,COVID-19 mentioned
+20,43,Hospital,F,65-74,4,COVID-19 mentioned
+20,43,Hospital,M,65-74,13,COVID-19 mentioned
+20,43,Hospital,F,75-84,15,COVID-19 mentioned
+20,43,Hospital,M,75-84,21,COVID-19 mentioned
+20,43,Hospital,F,85+,5,COVID-19 mentioned
+20,43,Hospital,M,85+,10,COVID-19 mentioned
+20,43,Hospital,M,0,3,Non-COVID-19
+20,43,Hospital,F,15-44,5,Non-COVID-19
+20,43,Hospital,M,15-44,5,Non-COVID-19
+20,43,Hospital,F,45-64,31,Non-COVID-19
+20,43,Hospital,M,45-64,40,Non-COVID-19
+20,43,Hospital,F,65-74,47,Non-COVID-19
+20,43,Hospital,M,65-74,55,Non-COVID-19
+20,43,Hospital,F,75-84,73,Non-COVID-19
+20,43,Hospital,M,75-84,73,Non-COVID-19
+20,43,Hospital,M,85+,60,Non-COVID-19
+20,43,Hospital,F,85+,70,Non-COVID-19
+20,43,Other institution,M,15-44,1,Non-COVID-19
+20,43,Other institution,M,45-64,1,Non-COVID-19
+20,44,Care Home,F,45-64,1,COVID-19 mentioned
+20,44,Care Home,F,65-74,1,COVID-19 mentioned
+20,44,Care Home,M,65-74,3,COVID-19 mentioned
+20,44,Care Home,F,75-84,4,COVID-19 mentioned
+20,44,Care Home,M,75-84,4,COVID-19 mentioned
+20,44,Care Home,M,85+,6,COVID-19 mentioned
+20,44,Care Home,F,85+,12,COVID-19 mentioned
+20,44,Care Home,F,15-44,1,Non-COVID-19
+20,44,Care Home,F,45-64,7,Non-COVID-19
+20,44,Care Home,M,45-64,7,Non-COVID-19
+20,44,Care Home,F,65-74,8,Non-COVID-19
+20,44,Care Home,M,65-74,19,Non-COVID-19
+20,44,Care Home,M,75-84,24,Non-COVID-19
+20,44,Care Home,F,75-84,36,Non-COVID-19
+20,44,Care Home,M,85+,38,Non-COVID-19
+20,44,Care Home,F,85+,77,Non-COVID-19
+20,44,Home / Non-institution,M,45-64,2,COVID-19 mentioned
+20,44,Home / Non-institution,M,65-74,1,COVID-19 mentioned
+20,44,Home / Non-institution,F,75-84,2,COVID-19 mentioned
+20,44,Home / Non-institution,M,75-84,3,COVID-19 mentioned
+20,44,Home / Non-institution,M,85+,1,COVID-19 mentioned
+20,44,Home / Non-institution,F,1-14,1,Non-COVID-19
+20,44,Home / Non-institution,F,15-44,7,Non-COVID-19
+20,44,Home / Non-institution,M,15-44,19,Non-COVID-19
+20,44,Home / Non-institution,F,45-64,22,Non-COVID-19
+20,44,Home / Non-institution,M,45-64,62,Non-COVID-19
+20,44,Home / Non-institution,F,65-74,34,Non-COVID-19
+20,44,Home / Non-institution,M,65-74,47,Non-COVID-19
+20,44,Home / Non-institution,F,75-84,53,Non-COVID-19
+20,44,Home / Non-institution,M,75-84,69,Non-COVID-19
+20,44,Home / Non-institution,M,85+,42,Non-COVID-19
+20,44,Home / Non-institution,F,85+,51,Non-COVID-19
+20,44,Hospital,F,45-64,4,COVID-19 mentioned
+20,44,Hospital,M,45-64,6,COVID-19 mentioned
+20,44,Hospital,F,65-74,15,COVID-19 mentioned
+20,44,Hospital,M,65-74,20,COVID-19 mentioned
+20,44,Hospital,F,75-84,19,COVID-19 mentioned
+20,44,Hospital,M,75-84,26,COVID-19 mentioned
+20,44,Hospital,F,85+,12,COVID-19 mentioned
+20,44,Hospital,M,85+,26,COVID-19 mentioned
+20,44,Hospital,M,0,1,Non-COVID-19
+20,44,Hospital,F,1-14,1,Non-COVID-19
+20,44,Hospital,M,1-14,1,Non-COVID-19
+20,44,Hospital,F,15-44,5,Non-COVID-19
+20,44,Hospital,M,15-44,7,Non-COVID-19
+20,44,Hospital,F,45-64,30,Non-COVID-19
+20,44,Hospital,M,45-64,31,Non-COVID-19
+20,44,Hospital,F,65-74,34,Non-COVID-19
+20,44,Hospital,M,65-74,61,Non-COVID-19
+20,44,Hospital,F,75-84,76,Non-COVID-19
+20,44,Hospital,M,75-84,77,Non-COVID-19
+20,44,Hospital,M,85+,58,Non-COVID-19
+20,44,Hospital,F,85+,87,Non-COVID-19
+20,44,Other institution,F,85+,1,Non-COVID-19
+20,45,Care Home,M,65-74,1,COVID-19 mentioned
+20,45,Care Home,F,75-84,7,COVID-19 mentioned
+20,45,Care Home,M,75-84,7,COVID-19 mentioned
+20,45,Care Home,M,85+,14,COVID-19 mentioned
+20,45,Care Home,F,85+,24,COVID-19 mentioned
+20,45,Care Home,F,45-64,5,Non-COVID-19
+20,45,Care Home,M,45-64,6,Non-COVID-19
+20,45,Care Home,F,65-74,8,Non-COVID-19
+20,45,Care Home,M,65-74,12,Non-COVID-19
+20,45,Care Home,M,75-84,20,Non-COVID-19
+20,45,Care Home,F,75-84,37,Non-COVID-19
+20,45,Care Home,M,85+,33,Non-COVID-19
+20,45,Care Home,F,85+,98,Non-COVID-19
+20,45,Home / Non-institution,F,45-64,1,COVID-19 mentioned
+20,45,Home / Non-institution,M,45-64,2,COVID-19 mentioned
+20,45,Home / Non-institution,F,65-74,2,COVID-19 mentioned
+20,45,Home / Non-institution,F,75-84,1,COVID-19 mentioned
+20,45,Home / Non-institution,M,75-84,2,COVID-19 mentioned
+20,45,Home / Non-institution,F,85+,1,COVID-19 mentioned
+20,45,Home / Non-institution,F,15-44,12,Non-COVID-19
+20,45,Home / Non-institution,M,15-44,28,Non-COVID-19
+20,45,Home / Non-institution,F,45-64,25,Non-COVID-19
+20,45,Home / Non-institution,M,45-64,59,Non-COVID-19
+20,45,Home / Non-institution,F,65-74,36,Non-COVID-19
+20,45,Home / Non-institution,M,65-74,46,Non-COVID-19
+20,45,Home / Non-institution,F,75-84,47,Non-COVID-19
+20,45,Home / Non-institution,M,75-84,59,Non-COVID-19
+20,45,Home / Non-institution,M,85+,35,Non-COVID-19
+20,45,Home / Non-institution,F,85+,53,Non-COVID-19
+20,45,Hospital,F,45-64,8,COVID-19 mentioned
+20,45,Hospital,M,45-64,9,COVID-19 mentioned
+20,45,Hospital,F,65-74,16,COVID-19 mentioned
+20,45,Hospital,M,65-74,16,COVID-19 mentioned
+20,45,Hospital,F,75-84,23,COVID-19 mentioned
+20,45,Hospital,M,75-84,31,COVID-19 mentioned
+20,45,Hospital,F,85+,19,COVID-19 mentioned
+20,45,Hospital,M,85+,22,COVID-19 mentioned
+20,45,Hospital,M,0,1,Non-COVID-19
+20,45,Hospital,F,0,3,Non-COVID-19
+20,45,Hospital,F,1-14,1,Non-COVID-19
+20,45,Hospital,M,1-14,2,Non-COVID-19
+20,45,Hospital,M,15-44,6,Non-COVID-19
+20,45,Hospital,F,15-44,7,Non-COVID-19
+20,45,Hospital,F,45-64,24,Non-COVID-19
+20,45,Hospital,M,45-64,31,Non-COVID-19
+20,45,Hospital,F,65-74,42,Non-COVID-19
+20,45,Hospital,M,65-74,49,Non-COVID-19
+20,45,Hospital,F,75-84,57,Non-COVID-19
+20,45,Hospital,M,75-84,81,Non-COVID-19
+20,45,Hospital,M,85+,48,Non-COVID-19
+20,45,Hospital,F,85+,69,Non-COVID-19
+20,45,Other institution,F,85+,1,COVID-19 mentioned
+20,45,Other institution,M,65-74,1,Non-COVID-19
+20,45,Other institution,F,85+,1,Non-COVID-19
+20,45,Other institution,M,85+,1,Non-COVID-19
+20,46,Care Home,F,45-64,2,COVID-19 mentioned
+20,46,Care Home,F,65-74,2,COVID-19 mentioned
+20,46,Care Home,M,65-74,5,COVID-19 mentioned
+20,46,Care Home,F,75-84,8,COVID-19 mentioned
+20,46,Care Home,M,75-84,15,COVID-19 mentioned
+20,46,Care Home,M,85+,12,COVID-19 mentioned
+20,46,Care Home,F,85+,28,COVID-19 mentioned
+20,46,Care Home,F,1-14,1,Non-COVID-19
+20,46,Care Home,F,15-44,1,Non-COVID-19
+20,46,Care Home,M,45-64,2,Non-COVID-19
+20,46,Care Home,F,45-64,4,Non-COVID-19
+20,46,Care Home,F,65-74,6,Non-COVID-19
+20,46,Care Home,M,65-74,10,Non-COVID-19
+20,46,Care Home,M,75-84,29,Non-COVID-19
+20,46,Care Home,F,75-84,44,Non-COVID-19
+20,46,Care Home,M,85+,41,Non-COVID-19
+20,46,Care Home,F,85+,83,Non-COVID-19
+20,46,Home / Non-institution,M,45-64,1,COVID-19 mentioned
+20,46,Home / Non-institution,F,65-74,2,COVID-19 mentioned
+20,46,Home / Non-institution,F,75-84,1,COVID-19 mentioned
+20,46,Home / Non-institution,M,75-84,1,COVID-19 mentioned
+20,46,Home / Non-institution,F,85+,1,COVID-19 mentioned
+20,46,Home / Non-institution,M,85+,2,COVID-19 mentioned
+20,46,Home / Non-institution,F,0,1,Non-COVID-19
+20,46,Home / Non-institution,F,15-44,9,Non-COVID-19
+20,46,Home / Non-institution,M,15-44,13,Non-COVID-19
+20,46,Home / Non-institution,F,45-64,38,Non-COVID-19
+20,46,Home / Non-institution,M,45-64,56,Non-COVID-19
+20,46,Home / Non-institution,F,65-74,36,Non-COVID-19
+20,46,Home / Non-institution,M,65-74,43,Non-COVID-19
+20,46,Home / Non-institution,F,75-84,42,Non-COVID-19
+20,46,Home / Non-institution,M,75-84,63,Non-COVID-19
+20,46,Home / Non-institution,M,85+,44,Non-COVID-19
+20,46,Home / Non-institution,F,85+,46,Non-COVID-19
+20,46,Hospital,M,15-44,1,COVID-19 mentioned
+20,46,Hospital,F,45-64,7,COVID-19 mentioned
+20,46,Hospital,M,45-64,22,COVID-19 mentioned
+20,46,Hospital,F,65-74,15,COVID-19 mentioned
+20,46,Hospital,M,65-74,29,COVID-19 mentioned
+20,46,Hospital,F,75-84,28,COVID-19 mentioned
+20,46,Hospital,M,75-84,46,COVID-19 mentioned
+20,46,Hospital,F,85+,25,COVID-19 mentioned
+20,46,Hospital,M,85+,26,COVID-19 mentioned
+20,46,Hospital,F,0,1,Non-COVID-19
+20,46,Hospital,M,0,2,Non-COVID-19
+20,46,Hospital,M,1-14,1,Non-COVID-19
+20,46,Hospital,F,15-44,2,Non-COVID-19
+20,46,Hospital,M,15-44,5,Non-COVID-19
+20,46,Hospital,F,45-64,33,Non-COVID-19
+20,46,Hospital,M,45-64,42,Non-COVID-19
+20,46,Hospital,F,65-74,45,Non-COVID-19
+20,46,Hospital,M,65-74,45,Non-COVID-19
+20,46,Hospital,F,75-84,58,Non-COVID-19
+20,46,Hospital,M,75-84,73,Non-COVID-19
+20,46,Hospital,M,85+,65,Non-COVID-19
+20,46,Hospital,F,85+,72,Non-COVID-19
+20,46,Other institution,M,75-84,1,Non-COVID-19
+20,46,Other institution,F,85+,2,Non-COVID-19
+20,47,Care Home,M,45-64,1,COVID-19 mentioned
+20,47,Care Home,F,65-74,3,COVID-19 mentioned
+20,47,Care Home,M,65-74,3,COVID-19 mentioned
+20,47,Care Home,F,75-84,4,COVID-19 mentioned
+20,47,Care Home,M,75-84,12,COVID-19 mentioned
+20,47,Care Home,M,85+,9,COVID-19 mentioned
+20,47,Care Home,F,85+,35,COVID-19 mentioned
+20,47,Care Home,M,15-44,1,Non-COVID-19
+20,47,Care Home,M,45-64,4,Non-COVID-19
+20,47,Care Home,F,45-64,5,Non-COVID-19
+20,47,Care Home,M,65-74,13,Non-COVID-19
+20,47,Care Home,F,65-74,17,Non-COVID-19
+20,47,Care Home,M,75-84,23,Non-COVID-19
+20,47,Care Home,F,75-84,35,Non-COVID-19
+20,47,Care Home,M,85+,40,Non-COVID-19
+20,47,Care Home,F,85+,114,Non-COVID-19
+20,47,Home / Non-institution,F,45-64,1,COVID-19 mentioned
+20,47,Home / Non-institution,M,45-64,4,COVID-19 mentioned
+20,47,Home / Non-institution,F,65-74,1,COVID-19 mentioned
+20,47,Home / Non-institution,M,65-74,2,COVID-19 mentioned
+20,47,Home / Non-institution,F,75-84,1,COVID-19 mentioned
+20,47,Home / Non-institution,M,75-84,5,COVID-19 mentioned
+20,47,Home / Non-institution,M,85+,1,COVID-19 mentioned
+20,47,Home / Non-institution,F,85+,2,COVID-19 mentioned
+20,47,Home / Non-institution,F,15-44,8,Non-COVID-19
+20,47,Home / Non-institution,M,15-44,15,Non-COVID-19
+20,47,Home / Non-institution,F,45-64,31,Non-COVID-19
+20,47,Home / Non-institution,M,45-64,60,Non-COVID-19
+20,47,Home / Non-institution,F,65-74,39,Non-COVID-19
+20,47,Home / Non-institution,M,65-74,50,Non-COVID-19
+20,47,Home / Non-institution,F,75-84,31,Non-COVID-19
+20,47,Home / Non-institution,M,75-84,61,Non-COVID-19
+20,47,Home / Non-institution,M,85+,52,Non-COVID-19
+20,47,Home / Non-institution,F,85+,62,Non-COVID-19
+20,47,Hospital,F,15-44,1,COVID-19 mentioned
+20,47,Hospital,M,15-44,1,COVID-19 mentioned
+20,47,Hospital,F,45-64,7,COVID-19 mentioned
+20,47,Hospital,M,45-64,18,COVID-19 mentioned
+20,47,Hospital,F,65-74,16,COVID-19 mentioned
+20,47,Hospital,M,65-74,16,COVID-19 mentioned
+20,47,Hospital,F,75-84,14,COVID-19 mentioned
+20,47,Hospital,M,75-84,32,COVID-19 mentioned
+20,47,Hospital,M,85+,22,COVID-19 mentioned
+20,47,Hospital,F,85+,35,COVID-19 mentioned
+20,47,Hospital,F,0,1,Non-COVID-19
+20,47,Hospital,M,0,1,Non-COVID-19
+20,47,Hospital,F,15-44,1,Non-COVID-19
+20,47,Hospital,M,15-44,9,Non-COVID-19
+20,47,Hospital,M,45-64,28,Non-COVID-19
+20,47,Hospital,F,45-64,30,Non-COVID-19
+20,47,Hospital,F,65-74,41,Non-COVID-19
+20,47,Hospital,M,65-74,49,Non-COVID-19
+20,47,Hospital,F,75-84,56,Non-COVID-19
+20,47,Hospital,M,75-84,77,Non-COVID-19
+20,47,Hospital,F,85+,75,Non-COVID-19
+20,47,Hospital,M,85+,82,Non-COVID-19
+20,47,Other institution,F,15-44,1,Non-COVID-19
+20,47,Other institution,M,45-64,1,Non-COVID-19
+20,47,Other institution,F,85+,1,Non-COVID-19
+20,48,Care Home,F,45-64,1,COVID-19 mentioned
+20,48,Care Home,F,65-74,1,COVID-19 mentioned
+20,48,Care Home,M,65-74,2,COVID-19 mentioned
+20,48,Care Home,F,75-84,11,COVID-19 mentioned
+20,48,Care Home,M,75-84,12,COVID-19 mentioned
+20,48,Care Home,M,85+,17,COVID-19 mentioned
+20,48,Care Home,F,85+,31,COVID-19 mentioned
+20,48,Care Home,M,15-44,2,Non-COVID-19
+20,48,Care Home,M,45-64,5,Non-COVID-19
+20,48,Care Home,F,45-64,7,Non-COVID-19
+20,48,Care Home,M,65-74,11,Non-COVID-19
+20,48,Care Home,F,65-74,13,Non-COVID-19
+20,48,Care Home,M,75-84,29,Non-COVID-19
+20,48,Care Home,F,75-84,36,Non-COVID-19
+20,48,Care Home,M,85+,35,Non-COVID-19
+20,48,Care Home,F,85+,91,Non-COVID-19
+20,48,Home / Non-institution,F,45-64,1,COVID-19 mentioned
+20,48,Home / Non-institution,M,45-64,2,COVID-19 mentioned
+20,48,Home / Non-institution,M,65-74,2,COVID-19 mentioned
+20,48,Home / Non-institution,M,75-84,1,COVID-19 mentioned
+20,48,Home / Non-institution,F,75-84,2,COVID-19 mentioned
+20,48,Home / Non-institution,M,85+,1,COVID-19 mentioned
+20,48,Home / Non-institution,F,85+,2,COVID-19 mentioned
+20,48,Home / Non-institution,F,0,1,Non-COVID-19
+20,48,Home / Non-institution,M,0,1,Non-COVID-19
+20,48,Home / Non-institution,F,1-14,1,Non-COVID-19
+20,48,Home / Non-institution,M,1-14,1,Non-COVID-19
+20,48,Home / Non-institution,F,15-44,6,Non-COVID-19
+20,48,Home / Non-institution,M,15-44,21,Non-COVID-19
+20,48,Home / Non-institution,F,45-64,29,Non-COVID-19
+20,48,Home / Non-institution,M,45-64,48,Non-COVID-19
+20,48,Home / Non-institution,F,65-74,39,Non-COVID-19
+20,48,Home / Non-institution,M,65-74,57,Non-COVID-19
+20,48,Home / Non-institution,M,75-84,50,Non-COVID-19
+20,48,Home / Non-institution,F,75-84,57,Non-COVID-19
+20,48,Home / Non-institution,M,85+,39,Non-COVID-19
+20,48,Home / Non-institution,F,85+,51,Non-COVID-19
+20,48,Hospital,F,15-44,2,COVID-19 mentioned
+20,48,Hospital,F,45-64,11,COVID-19 mentioned
+20,48,Hospital,M,45-64,19,COVID-19 mentioned
+20,48,Hospital,F,65-74,15,COVID-19 mentioned
+20,48,Hospital,M,65-74,19,COVID-19 mentioned
+20,48,Hospital,F,75-84,23,COVID-19 mentioned
+20,48,Hospital,M,75-84,32,COVID-19 mentioned
+20,48,Hospital,F,85+,18,COVID-19 mentioned
+20,48,Hospital,M,85+,26,COVID-19 mentioned
+20,48,Hospital,F,0,3,Non-COVID-19
+20,48,Hospital,F,15-44,5,Non-COVID-19
+20,48,Hospital,M,15-44,7,Non-COVID-19
+20,48,Hospital,F,45-64,28,Non-COVID-19
+20,48,Hospital,M,45-64,48,Non-COVID-19
+20,48,Hospital,F,65-74,36,Non-COVID-19
+20,48,Hospital,M,65-74,53,Non-COVID-19
+20,48,Hospital,F,75-84,54,Non-COVID-19
+20,48,Hospital,M,75-84,79,Non-COVID-19
+20,48,Hospital,M,85+,56,Non-COVID-19
+20,48,Hospital,F,85+,71,Non-COVID-19
+20,48,Other institution,F,75-84,1,COVID-19 mentioned
+20,48,Other institution,M,75-84,1,Non-COVID-19
+20,48,Other institution,F,75-84,2,Non-COVID-19
+20,48,Other institution,M,85+,1,Non-COVID-19
+20,48,Other institution,F,85+,2,Non-COVID-19
+20,49,Care Home,F,45-64,1,COVID-19 mentioned
+20,49,Care Home,F,65-74,3,COVID-19 mentioned
+20,49,Care Home,M,65-74,4,COVID-19 mentioned
+20,49,Care Home,M,75-84,11,COVID-19 mentioned
+20,49,Care Home,F,75-84,17,COVID-19 mentioned
+20,49,Care Home,M,85+,18,COVID-19 mentioned
+20,49,Care Home,F,85+,24,COVID-19 mentioned
+20,49,Care Home,M,15-44,2,Non-COVID-19
+20,49,Care Home,F,45-64,7,Non-COVID-19
+20,49,Care Home,M,45-64,10,Non-COVID-19
+20,49,Care Home,F,65-74,13,Non-COVID-19
+20,49,Care Home,M,65-74,13,Non-COVID-19
+20,49,Care Home,M,75-84,23,Non-COVID-19
+20,49,Care Home,F,75-84,35,Non-COVID-19
+20,49,Care Home,M,85+,36,Non-COVID-19
+20,49,Care Home,F,85+,80,Non-COVID-19
+20,49,Home / Non-institution,M,15-44,1,COVID-19 mentioned
+20,49,Home / Non-institution,F,45-64,2,COVID-19 mentioned
+20,49,Home / Non-institution,F,65-74,1,COVID-19 mentioned
+20,49,Home / Non-institution,M,75-84,1,COVID-19 mentioned
+20,49,Home / Non-institution,F,85+,2,COVID-19 mentioned
+20,49,Home / Non-institution,M,85+,2,COVID-19 mentioned
+20,49,Home / Non-institution,M,1-14,1,Non-COVID-19
+20,49,Home / Non-institution,F,15-44,8,Non-COVID-19
+20,49,Home / Non-institution,M,15-44,17,Non-COVID-19
+20,49,Home / Non-institution,F,45-64,30,Non-COVID-19
+20,49,Home / Non-institution,M,45-64,50,Non-COVID-19
+20,49,Home / Non-institution,F,65-74,39,Non-COVID-19
+20,49,Home / Non-institution,M,65-74,56,Non-COVID-19
+20,49,Home / Non-institution,M,75-84,52,Non-COVID-19
+20,49,Home / Non-institution,F,75-84,58,Non-COVID-19
+20,49,Home / Non-institution,M,85+,39,Non-COVID-19
+20,49,Home / Non-institution,F,85+,55,Non-COVID-19
+20,49,Hospital,M,15-44,1,COVID-19 mentioned
+20,49,Hospital,F,45-64,1,COVID-19 mentioned
+20,49,Hospital,M,45-64,15,COVID-19 mentioned
+20,49,Hospital,F,65-74,13,COVID-19 mentioned
+20,49,Hospital,M,65-74,19,COVID-19 mentioned
+20,49,Hospital,F,75-84,23,COVID-19 mentioned
+20,49,Hospital,M,75-84,25,COVID-19 mentioned
+20,49,Hospital,F,85+,18,COVID-19 mentioned
+20,49,Hospital,M,85+,30,COVID-19 mentioned
+20,49,Hospital,M,0,3,Non-COVID-19
+20,49,Hospital,M,15-44,4,Non-COVID-19
+20,49,Hospital,F,15-44,7,Non-COVID-19
+20,49,Hospital,F,45-64,28,Non-COVID-19
+20,49,Hospital,M,45-64,39,Non-COVID-19
+20,49,Hospital,F,65-74,44,Non-COVID-19
+20,49,Hospital,M,65-74,58,Non-COVID-19
+20,49,Hospital,F,75-84,54,Non-COVID-19
+20,49,Hospital,M,75-84,68,Non-COVID-19
+20,49,Hospital,M,85+,58,Non-COVID-19
+20,49,Hospital,F,85+,72,Non-COVID-19
+20,49,Other institution,M,45-64,1,Non-COVID-19
+20,49,Other institution,F,75-84,1,Non-COVID-19
+20,49,Other institution,F,85+,3,Non-COVID-19
+20,50,Care Home,F,65-74,3,COVID-19 mentioned
+20,50,Care Home,M,75-84,10,COVID-19 mentioned
+20,50,Care Home,F,75-84,13,COVID-19 mentioned
+20,50,Care Home,M,85+,13,COVID-19 mentioned
+20,50,Care Home,F,85+,24,COVID-19 mentioned
+20,50,Care Home,F,45-64,4,Non-COVID-19
+20,50,Care Home,M,45-64,4,Non-COVID-19
+20,50,Care Home,M,65-74,10,Non-COVID-19
+20,50,Care Home,F,65-74,13,Non-COVID-19
+20,50,Care Home,M,75-84,20,Non-COVID-19
+20,50,Care Home,F,75-84,38,Non-COVID-19
+20,50,Care Home,M,85+,40,Non-COVID-19
+20,50,Care Home,F,85+,79,Non-COVID-19
+20,50,Home / Non-institution,F,45-64,1,COVID-19 mentioned
+20,50,Home / Non-institution,M,45-64,2,COVID-19 mentioned
+20,50,Home / Non-institution,F,65-74,1,COVID-19 mentioned
+20,50,Home / Non-institution,M,65-74,1,COVID-19 mentioned
+20,50,Home / Non-institution,F,75-84,1,COVID-19 mentioned
+20,50,Home / Non-institution,M,75-84,1,COVID-19 mentioned
+20,50,Home / Non-institution,F,85+,1,COVID-19 mentioned
+20,50,Home / Non-institution,F,15-44,9,Non-COVID-19
+20,50,Home / Non-institution,M,15-44,24,Non-COVID-19
+20,50,Home / Non-institution,F,45-64,34,Non-COVID-19
+20,50,Home / Non-institution,M,45-64,45,Non-COVID-19
+20,50,Home / Non-institution,F,65-74,35,Non-COVID-19
+20,50,Home / Non-institution,M,65-74,41,Non-COVID-19
+20,50,Home / Non-institution,F,75-84,40,Non-COVID-19
+20,50,Home / Non-institution,M,75-84,55,Non-COVID-19
+20,50,Home / Non-institution,M,85+,38,Non-COVID-19
+20,50,Home / Non-institution,F,85+,56,Non-COVID-19
+20,50,Hospital,F,45-64,6,COVID-19 mentioned
+20,50,Hospital,M,45-64,15,COVID-19 mentioned
+20,50,Hospital,F,65-74,13,COVID-19 mentioned
+20,50,Hospital,M,65-74,16,COVID-19 mentioned
+20,50,Hospital,F,75-84,26,COVID-19 mentioned
+20,50,Hospital,M,75-84,32,COVID-19 mentioned
+20,50,Hospital,F,85+,21,COVID-19 mentioned
+20,50,Hospital,M,85+,26,COVID-19 mentioned
+20,50,Hospital,F,15-44,2,Non-COVID-19
+20,50,Hospital,M,15-44,6,Non-COVID-19
+20,50,Hospital,F,45-64,30,Non-COVID-19
+20,50,Hospital,M,45-64,33,Non-COVID-19
+20,50,Hospital,F,65-74,41,Non-COVID-19
+20,50,Hospital,M,65-74,64,Non-COVID-19
+20,50,Hospital,F,75-84,61,Non-COVID-19
+20,50,Hospital,M,75-84,80,Non-COVID-19
+20,50,Hospital,M,85+,56,Non-COVID-19
+20,50,Hospital,F,85+,98,Non-COVID-19
+20,50,Other institution,M,45-64,1,Non-COVID-19
+20,50,Other institution,F,85+,1,Non-COVID-19
+20,51,Care Home,F,45-64,1,COVID-19 mentioned
+20,51,Care Home,F,65-74,3,COVID-19 mentioned
+20,51,Care Home,M,65-74,3,COVID-19 mentioned
+20,51,Care Home,F,75-84,8,COVID-19 mentioned
+20,51,Care Home,M,75-84,11,COVID-19 mentioned
+20,51,Care Home,M,85+,12,COVID-19 mentioned
+20,51,Care Home,F,85+,36,COVID-19 mentioned
+20,51,Care Home,M,45-64,8,Non-COVID-19
+20,51,Care Home,F,45-64,11,Non-COVID-19
+20,51,Care Home,F,65-74,10,Non-COVID-19
+20,51,Care Home,M,65-74,12,Non-COVID-19
+20,51,Care Home,F,75-84,28,Non-COVID-19
+20,51,Care Home,M,75-84,31,Non-COVID-19
+20,51,Care Home,M,85+,32,Non-COVID-19
+20,51,Care Home,F,85+,87,Non-COVID-19
+20,51,Home / Non-institution,M,45-64,2,COVID-19 mentioned
+20,51,Home / Non-institution,M,65-74,1,COVID-19 mentioned
+20,51,Home / Non-institution,M,75-84,4,COVID-19 mentioned
+20,51,Home / Non-institution,M,85+,1,COVID-19 mentioned
+20,51,Home / Non-institution,F,0,1,Non-COVID-19
+20,51,Home / Non-institution,F,15-44,4,Non-COVID-19
+20,51,Home / Non-institution,M,15-44,20,Non-COVID-19
+20,51,Home / Non-institution,F,45-64,31,Non-COVID-19
+20,51,Home / Non-institution,M,45-64,55,Non-COVID-19
+20,51,Home / Non-institution,F,65-74,32,Non-COVID-19
+20,51,Home / Non-institution,M,65-74,48,Non-COVID-19
+20,51,Home / Non-institution,M,75-84,59,Non-COVID-19
+20,51,Home / Non-institution,F,75-84,67,Non-COVID-19
+20,51,Home / Non-institution,M,85+,32,Non-COVID-19
+20,51,Home / Non-institution,F,85+,59,Non-COVID-19
+20,51,Hospital,F,0,1,COVID-19 mentioned
+20,51,Hospital,F,45-64,4,COVID-19 mentioned
+20,51,Hospital,M,45-64,7,COVID-19 mentioned
+20,51,Hospital,F,65-74,7,COVID-19 mentioned
+20,51,Hospital,M,65-74,10,COVID-19 mentioned
+20,51,Hospital,F,75-84,17,COVID-19 mentioned
+20,51,Hospital,M,75-84,30,COVID-19 mentioned
+20,51,Hospital,F,85+,21,COVID-19 mentioned
+20,51,Hospital,M,85+,29,COVID-19 mentioned
+20,51,Hospital,F,1-14,1,Non-COVID-19
+20,51,Hospital,M,1-14,1,Non-COVID-19
+20,51,Hospital,M,15-44,6,Non-COVID-19
+20,51,Hospital,F,15-44,8,Non-COVID-19
+20,51,Hospital,F,45-64,28,Non-COVID-19
+20,51,Hospital,M,45-64,41,Non-COVID-19
+20,51,Hospital,F,65-74,46,Non-COVID-19
+20,51,Hospital,M,65-74,47,Non-COVID-19
+20,51,Hospital,F,75-84,62,Non-COVID-19
+20,51,Hospital,M,75-84,69,Non-COVID-19
+20,51,Hospital,M,85+,58,Non-COVID-19
+20,51,Hospital,F,85+,93,Non-COVID-19
+20,51,Other institution,F,85+,2,Non-COVID-19
+20,52,Care Home,F,45-64,1,COVID-19 mentioned
+20,52,Care Home,M,65-74,4,COVID-19 mentioned
+20,52,Care Home,F,65-74,5,COVID-19 mentioned
+20,52,Care Home,F,75-84,7,COVID-19 mentioned
+20,52,Care Home,M,75-84,8,COVID-19 mentioned
+20,52,Care Home,M,85+,9,COVID-19 mentioned
+20,52,Care Home,F,85+,27,COVID-19 mentioned
+20,52,Care Home,F,15-44,1,Non-COVID-19
+20,52,Care Home,M,45-64,6,Non-COVID-19
+20,52,Care Home,F,45-64,8,Non-COVID-19
+20,52,Care Home,F,65-74,11,Non-COVID-19
+20,52,Care Home,M,65-74,11,Non-COVID-19
+20,52,Care Home,F,75-84,28,Non-COVID-19
+20,52,Care Home,M,75-84,28,Non-COVID-19
+20,52,Care Home,M,85+,38,Non-COVID-19
+20,52,Care Home,F,85+,82,Non-COVID-19
+20,52,Home / Non-institution,F,45-64,1,COVID-19 mentioned
+20,52,Home / Non-institution,M,45-64,1,COVID-19 mentioned
+20,52,Home / Non-institution,F,65-74,1,COVID-19 mentioned
+20,52,Home / Non-institution,M,65-74,1,COVID-19 mentioned
+20,52,Home / Non-institution,F,75-84,2,COVID-19 mentioned
+20,52,Home / Non-institution,F,85+,1,COVID-19 mentioned
+20,52,Home / Non-institution,M,85+,2,COVID-19 mentioned
+20,52,Home / Non-institution,F,15-44,13,Non-COVID-19
+20,52,Home / Non-institution,M,15-44,22,Non-COVID-19
+20,52,Home / Non-institution,F,45-64,35,Non-COVID-19
+20,52,Home / Non-institution,M,45-64,57,Non-COVID-19
+20,52,Home / Non-institution,F,65-74,32,Non-COVID-19
+20,52,Home / Non-institution,M,65-74,34,Non-COVID-19
+20,52,Home / Non-institution,F,75-84,33,Non-COVID-19
+20,52,Home / Non-institution,M,75-84,62,Non-COVID-19
+20,52,Home / Non-institution,M,85+,26,Non-COVID-19
+20,52,Home / Non-institution,F,85+,39,Non-COVID-19
+20,52,Hospital,M,45-64,6,COVID-19 mentioned
+20,52,Hospital,F,45-64,7,COVID-19 mentioned
+20,52,Hospital,F,65-74,10,COVID-19 mentioned
+20,52,Hospital,M,65-74,29,COVID-19 mentioned
+20,52,Hospital,F,75-84,18,COVID-19 mentioned
+20,52,Hospital,M,75-84,23,COVID-19 mentioned
+20,52,Hospital,F,85+,18,COVID-19 mentioned
+20,52,Hospital,M,85+,18,COVID-19 mentioned
+20,52,Hospital,M,0,1,Non-COVID-19
+20,52,Hospital,F,15-44,3,Non-COVID-19
+20,52,Hospital,M,15-44,7,Non-COVID-19
+20,52,Hospital,F,45-64,32,Non-COVID-19
+20,52,Hospital,M,45-64,39,Non-COVID-19
+20,52,Hospital,F,65-74,29,Non-COVID-19
+20,52,Hospital,M,65-74,59,Non-COVID-19
+20,52,Hospital,F,75-84,76,Non-COVID-19
+20,52,Hospital,M,75-84,76,Non-COVID-19
+20,52,Hospital,M,85+,54,Non-COVID-19
+20,52,Hospital,F,85+,59,Non-COVID-19
+20,52,Other institution,F,85+,1,COVID-19 mentioned
+20,52,Other institution,F,75-84,1,Non-COVID-19
+20,52,Other institution,F,85+,3,Non-COVID-19
+20,53,Care Home,M,45-64,1,COVID-19 mentioned
+20,53,Care Home,F,65-74,1,COVID-19 mentioned
+20,53,Care Home,M,65-74,2,COVID-19 mentioned
+20,53,Care Home,M,75-84,5,COVID-19 mentioned
+20,53,Care Home,F,75-84,12,COVID-19 mentioned
+20,53,Care Home,M,85+,13,COVID-19 mentioned
+20,53,Care Home,F,85+,29,COVID-19 mentioned
+20,53,Care Home,F,15-44,1,Non-COVID-19
+20,53,Care Home,F,45-64,4,Non-COVID-19
+20,53,Care Home,M,45-64,5,Non-COVID-19
+20,53,Care Home,F,65-74,7,Non-COVID-19
+20,53,Care Home,M,65-74,15,Non-COVID-19
+20,53,Care Home,M,75-84,27,Non-COVID-19
+20,53,Care Home,F,75-84,30,Non-COVID-19
+20,53,Care Home,M,85+,37,Non-COVID-19
+20,53,Care Home,F,85+,63,Non-COVID-19
+20,53,Home / Non-institution,F,15-44,1,COVID-19 mentioned
+20,53,Home / Non-institution,M,65-74,1,COVID-19 mentioned
+20,53,Home / Non-institution,M,75-84,2,COVID-19 mentioned
+20,53,Home / Non-institution,F,75-84,3,COVID-19 mentioned
+20,53,Home / Non-institution,F,85+,1,COVID-19 mentioned
+20,53,Home / Non-institution,M,85+,1,COVID-19 mentioned
+20,53,Home / Non-institution,M,1-14,1,Non-COVID-19
+20,53,Home / Non-institution,F,15-44,7,Non-COVID-19
+20,53,Home / Non-institution,M,15-44,14,Non-COVID-19
+20,53,Home / Non-institution,F,45-64,24,Non-COVID-19
+20,53,Home / Non-institution,M,45-64,43,Non-COVID-19
+20,53,Home / Non-institution,F,65-74,24,Non-COVID-19
+20,53,Home / Non-institution,M,65-74,47,Non-COVID-19
+20,53,Home / Non-institution,F,75-84,55,Non-COVID-19
+20,53,Home / Non-institution,M,75-84,63,Non-COVID-19
+20,53,Home / Non-institution,M,85+,38,Non-COVID-19
+20,53,Home / Non-institution,F,85+,49,Non-COVID-19
+20,53,Hospital,M,15-44,1,COVID-19 mentioned
+20,53,Hospital,F,45-64,5,COVID-19 mentioned
+20,53,Hospital,M,45-64,8,COVID-19 mentioned
+20,53,Hospital,F,65-74,12,COVID-19 mentioned
+20,53,Hospital,M,65-74,15,COVID-19 mentioned
+20,53,Hospital,F,75-84,16,COVID-19 mentioned
+20,53,Hospital,M,75-84,22,COVID-19 mentioned
+20,53,Hospital,F,85+,17,COVID-19 mentioned
+20,53,Hospital,M,85+,19,COVID-19 mentioned
+20,53,Hospital,M,0,3,Non-COVID-19
+20,53,Hospital,F,1-14,1,Non-COVID-19
+20,53,Hospital,M,1-14,1,Non-COVID-19
+20,53,Hospital,F,15-44,1,Non-COVID-19
+20,53,Hospital,M,15-44,3,Non-COVID-19
+20,53,Hospital,M,45-64,24,Non-COVID-19
+20,53,Hospital,F,45-64,25,Non-COVID-19
+20,53,Hospital,F,65-74,44,Non-COVID-19
+20,53,Hospital,M,65-74,49,Non-COVID-19
+20,53,Hospital,M,75-84,68,Non-COVID-19
+20,53,Hospital,F,75-84,75,Non-COVID-19
+20,53,Hospital,M,85+,68,Non-COVID-19
+20,53,Hospital,F,85+,73,Non-COVID-19
+20,53,Other institution,F,45-64,1,Non-COVID-19
+20,53,Other institution,F,85+,1,Non-COVID-19
